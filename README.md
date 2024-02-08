@@ -71,10 +71,13 @@ Fallout Anomaly is a groundbreaking Fallout 4 modlist, the first of its kind gua
   
 <!-- Contents of the Minimum Specs section -->
 <details open>
-<summary><b>Minimum Specs</b></summary>
+<summary><h2><b>Minimum Specs</b></h2></summary>
+
+---
 
 <ins>Fallout Anomaly takes several steps to ensure everyone enjoys an optimal experience. However, we cannot guarantee playability on older equipment with issues playing the vanilla game.</ins>
 
+---
 **Hardware:**
 - CPU: A modern CPU with at least 6 cores and a clock speed of 3GHz.
 - RAM: Aim for 16GB, but 32GB is even better.
@@ -82,12 +85,16 @@ Fallout Anomaly is a groundbreaking Fallout 4 modlist, the first of its kind gua
 - OS: Windows 10/11 (64-bit).
 - Free Disk Space: At least 300GB, preferably on an SSD for optimal performance.
 
-+++++++++++++++++
+---
 
 <details open>
 <summary><h2>Nexus Mods</h2></summary>
-
+  
+---
+  
 * **While not mandatory, Nexus Premium is strongly advised as it streamlines the mod download and installation process, saving you time. By opting for Nexus Premium, you'll enjoy uncapped download speeds and won't have to manually approve each download. This is a restriction from the Nexus website itself and is not a limitation imposed by Fallout Anomaly.**
+
+---
 
 <a href="https://next.nexusmods.com/premium"><img src="https://i.imgur.com/YoGR9F6.png" alt="OpenAI Logo" width="400"></a> 
 
@@ -105,8 +112,11 @@ Fallout Anomaly is a groundbreaking Fallout 4 modlist, the first of its kind gua
 
 [![](https://img.youtube.com/vi/zwTJ3jImCiQ/0.jpg)](https://www.youtube.com/watch?v=zwTJ3jImCiQ)
 
+---
 
-<h3><ins><b>Finally make sure to uninstall the HD texture pack. It is highly flawed and we have much better options.</b></ins></h3>
+<h3><b>Finally make sure to uninstall the HD texture pack. It is highly flawed and we have much better options.</b></h3>
+
+---
 
 1. Open Steam
 2. Navigate to your Library
