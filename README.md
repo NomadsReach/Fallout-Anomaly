@@ -28,7 +28,7 @@
 
 
 
-![74075-1694631901-1731395337](https://github.com/NomadsReach/Test32/assets/144523850/c415a315-09ae-4fd7-985e-59e007b32493)
+![74075-1694631901-1731395337](https://github.com/NomadsReach/Test32/assets/144523850/c415a315-09ae-4fd7-985e-59e007b32493) 
 
 
 
@@ -49,9 +49,20 @@
   </p>
 </div>
 
+<div style="display: inline-block;">
+  <a href="https://www.youtube.com/channel/UCowoMPzQU_WfQcNp6bMj1zg">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenY4aWJqM2N1bDcxc3hzZjllazV5cGw4d2FveGF1MHBzZG5iYzR1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dyLmcrc0wk4dUCxp0K/giphy.gif" width="100" height="100" style="display: inline-block; margin-right: 10px;">
+  </a>
+  <a href="https://discord.gg/AxsHgsCEka">
+    <img src="https://cdn.dribbble.com/users/5242374/screenshots/16641455/media/0a74ea6b1d505b316ced8be139175fc3.gif" width="100" height="100" style="display: inline-block; margin-right: 10px;">
+  </a>
+</div>
+
+
 
 
 - [Installation](#installation)
+- [Wabbajack](#wabbajack)
 
 <!-- ABOUT THE PROJECT -->
 ## About Fallout Anomaly
@@ -69,9 +80,12 @@ Fallout Anomaly is a groundbreaking Fallout 4 modlist, the first of its kind gua
 <!-- TABLE OF CONTENTS -->
 **Table of Contents**
 
+---
 <!-- Contents of the Minimum Specs section -->
 <details>
 <summary><h2><b>Minimum Specs</b></h2></summary>
+
+---
 
 ---
 
@@ -103,8 +117,8 @@ Fallout Anomaly is a groundbreaking Fallout 4 modlist, the first of its kind gua
 <details>
 <summary><h2>Pre-Installation</h2></summary>
 
-- [Microsoft Visual C++ x64 and x86](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
-- [NET Framework 4.6.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-web-installer)
+- [Microsoft Visual C++ x64 and x86](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - **Must be installed!**
+- [NET Framework 4.6.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-web-installer) - **Must be installed!**
 - [Vanilla Game Folder - See the video below.](https://www.youtube.com/watch?v=zwTJ3jImCiQ&t=1s) 
 
 [![](https://img.youtube.com/vi/zwTJ3jImCiQ/0.jpg)](https://www.youtube.com/watch?v=zwTJ3jImCiQ)
@@ -127,6 +141,17 @@ Fallout Anomaly is a groundbreaking Fallout 4 modlist, the first of its kind gua
 </details>
 
 </details>
+
+</details>
+
+## Wabbajack
+
+---
+---
+
+## Updating
+
+---
 
 
 
