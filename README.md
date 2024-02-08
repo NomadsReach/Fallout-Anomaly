@@ -68,9 +68,9 @@ Fallout Anomaly is a groundbreaking Fallout 4 modlist, the first of its kind gua
 
 <!-- TABLE OF CONTENTS -->
 **Table of Contents**
-  
+
 <!-- Contents of the Minimum Specs section -->
-<details open>
+<details>
 <summary><h2><b>Minimum Specs</b></h2></summary>
 
 ---
@@ -78,6 +78,7 @@ Fallout Anomaly is a groundbreaking Fallout 4 modlist, the first of its kind gua
 <ins>Fallout Anomaly takes several steps to ensure everyone enjoys an optimal experience. However, we cannot guarantee playability on older equipment with issues playing the vanilla game.</ins>
 
 ---
+
 **Hardware:**
 - CPU: A modern CPU with at least 6 cores and a clock speed of 3GHz.
 - RAM: Aim for 16GB, but 32GB is even better.
@@ -85,13 +86,11 @@ Fallout Anomaly is a groundbreaking Fallout 4 modlist, the first of its kind gua
 - OS: Windows 10/11 (64-bit).
 - Free Disk Space: At least 300GB, preferably on an SSD for optimal performance.
 
----
-
-<details open>
+<details>
 <summary><h2>Nexus Mods</h2></summary>
   
 ---
-  
+
 * **While not mandatory, Nexus Premium is strongly advised as it streamlines the mod download and installation process, saving you time. By opting for Nexus Premium, you'll enjoy uncapped download speeds and won't have to manually approve each download. This is a restriction from the Nexus website itself and is not a limitation imposed by Fallout Anomaly.**
 
 ---
@@ -101,14 +100,12 @@ Fallout Anomaly is a groundbreaking Fallout 4 modlist, the first of its kind gua
 **Click above to be directed to the Nexus website.**
 </details>
 
-<details open>
+<details>
 <summary><h2>Pre-Installation</h2></summary>
 
- <a href="https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170">Microsoft Visual C++ <ins>x64 and x86</ins></a>
- 
-<a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-web-installer">NET Framework 4.6.2</a> 
-
-<a href="https://www.youtube.com/watch?v=zwTJ3jImCiQ&t=1s">Vanilla Game Folder - See the video below.</a> 
+- [Microsoft Visual C++ x64 and x86](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+- [NET Framework 4.6.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-web-installer)
+- [Vanilla Game Folder - See the video below.](https://www.youtube.com/watch?v=zwTJ3jImCiQ&t=1s) 
 
 [![](https://img.youtube.com/vi/zwTJ3jImCiQ/0.jpg)](https://www.youtube.com/watch?v=zwTJ3jImCiQ)
 
@@ -128,7 +125,9 @@ Fallout Anomaly is a groundbreaking Fallout 4 modlist, the first of its kind gua
 <img src="https://github.com/NomadsReach/Test32/assets/144523850/253e48f8-e921-4ead-a813-bc295ca68145" alt="Fallout Image" style="float: right; margin-left: 15px;" width="400">
 
 </details>
-</ol>
+
+</details>
+
 
 
 
