@@ -1,29 +1,6 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
+<a name="falloutanomalymaster"></a>
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -47,15 +24,6 @@
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Bug Report</a>
   </p>
-</div>
-
-<div style="display: inline-block;">
-  <a href="https://www.youtube.com/channel/UCowoMPzQU_WfQcNp6bMj1zg">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenY4aWJqM2N1bDcxc3hzZjllazV5cGw4d2FveGF1MHBzZG5iYzR1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dyLmcrc0wk4dUCxp0K/giphy.gif" width="100" height="100" style="display: inline-block; margin-right: 10px;">
-  </a>
-  <a href="https://discord.gg/AxsHgsCEka">
-    <img src="https://cdn.dribbble.com/users/5242374/screenshots/16641455/media/0a74ea6b1d505b316ced8be139175fc3.gif" width="100" height="100" style="display: inline-block; margin-right: 10px;">
-  </a>
 </div>
 
 
