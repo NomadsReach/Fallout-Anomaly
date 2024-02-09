@@ -2,38 +2,54 @@
 
 ![Fallout Anomaly](https://github.com/NomadsReach/Test32/assets/144523850/c415a315-09ae-4fd7-985e-59e007b32493)
 
-<h3 align="center">Fallout Anomaly</h3>
+![Digital Construction](https://www.fg-a.com/under-construction/digital-construction.gif)
+
+<h2 style="text-align:center;">Fallout Anomaly</h2>
 
 <p align="center">
   <br />
-  <a href="https://github.com/NomadsReach/Test32"><strong>DOWNLOAD »</strong></a>
+  <a href="https://github.com/NomadsReach/Fallout-Anomaly"><strong>DOWNLOAD »</strong></a>
   <br />
   <br />
-  <a href="https://github.com/othneildrew/Best-README-Template">Nexus</a>
+  <a href="https://www.nexusmods.com/fallout4/mods/74075">Nexus</a>
   ·
-  <a href="https://github.com/othneildrew/Best-README-Template/issues">Discord</a>
+  <a href="https://discord.gg/MpaKxpkYw3">Discord</a>
   ·
-  <a href="https://github.com/othneildrew/Best-README-Template/issues">Youtube</a>
+  <a href="https://www.youtube.com/channel/UCowoMPzQU_WfQcNp6bMj1zg">Youtube</a>
   ·
-  <a href="https://github.com/othneildrew/Best-README-Template/issues">Bug Report</a>
 </p>
 
-## About Fallout Anomaly
 
-**Fallout Anomaly** represents a revolutionary modlist for Fallout 4, marking a watershed moment in the modding community. As the pioneering project of its kind, Fallout Anomaly ambitiously merges the immersive worlds of the Stalker series with the iconic Fallout 4 universe. 
+<!-- Table of Contents -->
+<details>
+  <summary><h3>Table of Contents</h3></summary>
+  <ul>
+    <li><a href="#about">About</a></li>
+    <li><a href="#minimum-specs">Minimum Specs</a></li>
+    <li><a href="#wabbajack">Wabbajack</a></li>
+    <li><a href="#updating">Updating</a></li>
+    <li><a href="#launching-fallout-anomaly">Launching Fallout Anomaly Via MO2</a></li>
+  </ul>
+</details>
+
+
+<details>
+<summary><h2><b>About</b></h2></summary>
+
+
+---
+
+Fallout Anomaly represents a revolutionary modlist for Fallout 4, marking a watershed moment in the modding community. As the pioneering project of its kind, Fallout Anomaly ambitiously merges the immersive worlds of the Stalker series with the iconic Fallout 4 universe. 
 
 This transformative fusion introduces a plethora of Stalker-inspired elements, enriching Fallout 4 with gritty survival mechanics, menacing mutants, and an atmospheric ambiance reminiscent of the desolate landscapes encountered in the Stalker games. 
 
 Embark on a journey through the irradiated wastelands where danger lurks around every corner, and survival demands wit, skill, and resilience. With Fallout Anomaly, players are invited to delve into an unparalleled gaming experience that transcends traditional boundaries, offering a captivating blend of post-apocalyptic adventure and relentless survival challenges.
 
+---
 
 
-## Table of Contents
-- [Minimum Specs](#minimum-specs)
-- [Wabbajack](#wabbajack)
-- [Updating](#updating)
-- [Launching Fallout Anomaly Via MO2](#launching-fallout-anomaly)
-
+</details>
+  
 <details>
 <summary><h2><b>Minimum Specs</b></h2></summary>
 
