@@ -186,7 +186,7 @@ Updating is similar to installing. Simply ensure to select the same path and che
 </details>
 
 <details>
-<summary><h3>ENB Manager</h3></summary>
+<summary><h3>ENB Manager (PENDING IMPLEMENTATION 02/2024)</h3></summary>
 
 ---
 
