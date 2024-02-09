@@ -16,13 +16,13 @@
 - Replaced FlaconOil Textures with Luxor 2k textures.
 - Replaced Langley's HD Texture Workshop (Packed) with Luxor 2k textures.
 - Updated MK18 CQBR to 2K resolution.
-- Updated all tactical reload patches with ECO dynamic tactical reload system.
 - Removed Chems and Alcohol Visual FX.
 - Removed Immersive Aquaboy - Hazmat Suit Patch.
 - Removed Lively's Keyword Resource.
 
 **Gameplay and Mechanics:**
 - Zombie Walkers - Removed - Conflicts with most quest/npc mod. No more NPCS being replaced by zombies.
+- Updated all tactical reload patches with ECO dynamic tactical reload system.
 - Updated Hunter of the Commonwealth.
 - Updated Flashy (JoeR) - Advanced Needs 76.
 - Updated Flashy (JoeR) - Gun For Hire - Commonwealth Mercenary Jobs.
@@ -30,7 +30,7 @@
 - Updated T6M's Burst-Fire Framework.
 - Updated Base Object Swapper.
 - Updated Auto Beam - True Laser Sights Framework.
-- Fixed workbench/OMOD manipulation CTD in Auto Beam - True Laser Sights Framework.
+- Fixed/Update workbench/OMOD manipulation CTD in Auto Beam - True Laser Sights Framework.
 - Updated Workshop Framework.
 - Updated RobCo Patcher.
 - Removed Disable Exit Save mod in favor of an ini edit.
