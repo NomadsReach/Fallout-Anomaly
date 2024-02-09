@@ -37,52 +37,54 @@
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Known%20Issue.md">Mod/Feature Request</a>
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/CHANGELOG.md">Mod/ChangeLog(Updates)</a>
       
-### About
 
-* The S.T.A.L.K.E.R. series, developed by Ukrainian game studio GSC Game World, has long been hailed for its masterful blend of survival horror, open-world exploration, and atmospheric storytelling. Set in the Chernobyl Exclusion Zone, these games create a sense of dread and unease, making players question their every step in the desolate wasteland. Fallout 4, on the other hand, is renowned for its vast open world and role-playing elements, set in a retro-futuristic post-apocalyptic America.
-
-* We recognized the opportunity to combine the strengths of both worlds. Drawing inspiration from the bleak and perilous world of S.T.A.L.K.E.R. and leveraging the expansive sandbox of Fallout 4, we embarked on a mission to create a modlist that would redefine the Fallout experience. The result is a remarkable fusion of the two franchises, offering a unique blend of survival, exploration, and storytelling.
-
-<ins>To put it simply, we plan to combine the two.</ins>
-
-### Key Features and Mods.
   
-  * **This section is being rebuilt for the 2024 release**
+  ### <strong><ins>About</strong></ins>
+<details>
+  <summary><strong>Background</strong></summary>
     
+  * The S.T.A.L.K.E.R. series, developed by Ukrainian game studio GSC Game World, has long been hailed for its masterful blend of survival horror, open-world exploration, and atmospheric storytelling. Set in the Chernobyl Exclusion Zone, these games create a sense of dread and unease, making players question their every step in the desolate wasteland. Fallout 4, on the other hand, is renowned for its vast open world and role-playing elements, set in a retro-futuristic post-apocalyptic America.
+  
+  * We recognized the opportunity to combine the strengths of both worlds. Drawing inspiration from the bleak and perilous world of S.T.A.L.K.E.R. and leveraging the expansive sandbox of Fallout 4, we embarked on a mission to create a modlist that would redefine the Fallout experience. The result is a remarkable fusion of the two franchises, offering a unique blend of survival, exploration, and storytelling.
+  
+  <ins>To put it simply, we plan to combine the two.</ins>
+</details>
 
-### Minimum Specs and Install</ins></b></h2></summary>
 
-* <ins>Fallout Anomaly takes several steps to ensure everyone enjoys an optimal experience. However, we cannot guarantee playability on older equipment with issues playing the vanilla game.</ins>
+### <ins><strong>Minimum Specs and Install</ins></strong>
+<details>
+  <summary><strong>Hardware</strong></summary>
 
-
-**Hardware:**
 - CPU: A modern CPU with at least 6 cores and a clock speed of 3GHz.
 - RAM: Aim for 16GB, but 32GB is even better.
 - Video Card: At least 4GB of memory, ideally 6GB.
 - OS: Windows 10/11 (64-bit).
 - Free Disk Space: At least 300GB, preferably on an SSD for optimal performance.
 
-<details>
-<summary><h3><ins>Nexus Mods</ins></h3></summary>
-
----
-
-* **While not mandatory, Nexus Premium is strongly advised as it streamlines the mod download and installation process, saving you time. By opting for Nexus Premium, you'll enjoy uncapped download speeds and won't have to manually approve each download. This is a restriction from the Nexus website itself and is not a limitation imposed by Fallout Anomaly.**
-
----
-
-<a href="https://next.nexusmods.com/premium"><img src="https://i.imgur.com/YoGR9F6.png" alt="Nexus Premium" width="400"></a> 
-
-**Click above to be directed to the Nexus website.**
 </details>
 
 <details>
-<summary><h3><ins>Pre-Installation</ins></h3></summary>
+  <summary><strong>Nexus Mods</strong></summary>
+
+  ---
+
+  * **While not mandatory, Nexus Premium is strongly advised as it streamlines the mod download and installation process, saving you time. By opting for Nexus Premium, you'll enjoy uncapped download speeds and won't have to manually approve each download. This is a restriction from the Nexus website itself and is not a limitation imposed by Fallout Anomaly.**
+
+  ---
+
+  [![Nexus Premium](https://i.imgur.com/YoGR9F6.png)](https://next.nexusmods.com/premium)
+
+  **Click above to be directed to the Nexus website.**
+</details>
+
+
+<details>
+  <summary><strong>Pre-Installation</strong></summary>
 
 - [Microsoft Visual C++ x64 and x86](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - **Must be installed!**
 - [NET Framework 4.6.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-web-installer) - **Must be installed!**
 - [Vanilla Game Folder](https://www.youtube.com/watch?v=zwTJ3jImCiQ&t=1s) - **Please see the video below.**
-- [PageFile Setup](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/PageFile.md) - **Please click the blue link for instuctions. This step is very important.**
+- [PageFile Setup](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/PageFile.md) - **Please click the blue link for instructions. This step is very important.**
 
 [![](https://img.youtube.com/vi/zwTJ3jImCiQ/0.jpg)](https://www.youtube.com/watch?v=zwTJ3jImCiQ)
 
@@ -103,14 +105,14 @@
 
 </details>
 
+
 </details>
 
-<details>
-### <summary><h2><ins>Wabbajack</ins></h2></summary>
-
----
-
-<h3><ins></ins>Wabbajack Installation Guide for Fallout Anomaly</h3></h3>
+### <ins><strong>Wabbajack<strong></ins>
+  <details>
+  <summary><strong>Click Here</strong></summary>
+    
+<ins><strong>Wabbajack Installation Guide for Fallout Anomaly</ins><strong>
 
 ---
 
@@ -144,10 +146,11 @@ There are various scenarios where Wabbajack may encounter errors. Here are some 
 </details>
 
 
-<details>
-<summary><h2><ins>Updating</ins></h2></summary>
+</details>
 
----
+### <ins><strong>Updating<strong></ins>
+  <details>
+  <summary><strong>Click Here</strong></summary>
 
 The Fallout Anomaly team will notify you in advance of any upcoming updates via Discord and Nexus. **Always remember to backup your saves or start a new game after updating.**
 
@@ -157,15 +160,11 @@ The changelog for each update can be located [here](https://github.com/NomadsRea
 
 Updating is similar to installing. Simply ensure to select the same path and check the "overwrite existing Modlist" button.
 
----
 </details>
 
-<details>
-  <summary><h2><ins>Launching Fallout Anomaly</ins></h2></summary>
-
-  ---
-
-  <p>
+### <ins><strong>Launching Fallout Anomaly<strong></ins>
+  <details>
+  <summary><strong>Click Here</strong></summary>
     Before launching Fallout Anomaly, we will open BethINI to verify your display settings are set correctly. To do so, head to your newly installed Fallout Anomaly folder and locate the tools folder. (E:\ModLists\Anomaly 4.6\tools) Inside this folder, please locate "BethINI" and launch it from here. <strong>It is essential you <ins>DO NOT</ins> change anything here but your display resolution.</strong> The inis have been optimized for the best usage of Fallout Anomaly and your PC. Changing any other settings can cause crashing, visual issues, or worse performance. Upon completing this step please hit save in BethINI and close the program. Go back to the main Anomaly folder and launch mod organizer.exe
   </p>
 
@@ -218,15 +217,17 @@ Updating is similar to installing. Simply ensure to select the same path and che
 
 
 
-<p>Thank you to <a href="http://enbdev.com/">Boris</a> for ENB and <a href="https://www.nexusmods.com/skyrimspecialedition/users/92622203">Toll</a> for ENB Manager!</p>
+Thank you to <a href="http://enbdev.com/">Boris</a> for ENB and <a href="https://www.nexusmods.com/skyrimspecialedition/users/92622203">Toll for ENB Manager!
 
   </details>
 
 </details>
 
-<details>
-  <summary> <h2><ins>Final Steps</ins></h2></summary>
+### <ins><strong>Final Steps<strong></ins>
 
+<details>
+  <summary><strong>Click Here</strong></summary>
+  
   See [Here](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Optional.md) for our optional mods and 21:9 32:9 support. (PENDING IMPLEMENTATION 02/2024) 🚧🚧🚧
 
   See [Here](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Performance.md) for extra performance options. (PENDING IMPLEMENTATION 02/2024) 🚧🚧🚧
@@ -236,6 +237,8 @@ Updating is similar to installing. Simply ensure to select the same path and che
   See [Here](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Issue%20Tracker.md) to make a bug report.
 
   See [Here](https://github.com/NomadsReach/Fallout-Anomaly/issues/new/choose) to make a mod/feature request.
+</details>
+
   
  
 
