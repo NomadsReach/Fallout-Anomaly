@@ -106,7 +106,7 @@
 </details>
 
 <details>
-<summary><h2><ins>Wabbajack</ins></h2></summary>
+### <summary><h2><ins>Wabbajack</ins></h2></summary>
 
 ---
 
