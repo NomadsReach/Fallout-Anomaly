@@ -22,50 +22,38 @@
 
 <!-- Table of Contents -->
 
-  ## <h3>Table of Contents
-  <ul>
-    <li><a href="#about">About</a></li>
-    <li><a href="#minimum-specs-and-install">Minimum Specs and Install</a></li>
-    <li><a href="#wabbajack">Wabbajack</a></li>
-    <li><a href="#updating">Updating</a></li>
-    <li><a href="#launching-fallout-anomaly">Launching Fallout Anomaly Via MO2</a></li>
-    <li><a href="#final-steps">Final Steps</a></li>
+  ## Table of Contents
+  
+  - [About](#about)
+  - [Minimum Specs and Install](#minimum-specs-and-install)
+  - [Wabbajack](#wabbajack)
+  - [Updating](#updating)
+  - [Launching Fallout Anomaly Via MO2](#launching-fallout-anomaly)
+  - [Final Steps](#final-steps)
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Optional.md">Optional</a>
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/PageFile.md">PageFile</a>
-    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/PageFile.md">Issue Tracker</a>
+    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Issue%20Tracker.md">Issue Tracker</a>
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Known%20Issue.md">Known Issue</a>
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Known%20Issue.md">Mod/Feature Request</a>
+    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/CHANGELOG.md">Mod/ChangeLog(Updates)</a>
       
-  </ul>
+### About
 
+* The S.T.A.L.K.E.R. series, developed by Ukrainian game studio GSC Game World, has long been hailed for its masterful blend of survival horror, open-world exploration, and atmospheric storytelling. Set in the Chernobyl Exclusion Zone, these games create a sense of dread and unease, making players question their every step in the desolate wasteland. Fallout 4, on the other hand, is renowned for its vast open world and role-playing elements, set in a retro-futuristic post-apocalyptic America.
 
+* We recognized the opportunity to combine the strengths of both worlds. Drawing inspiration from the bleak and perilous world of S.T.A.L.K.E.R. and leveraging the expansive sandbox of Fallout 4, we embarked on a mission to create a modlist that would redefine the Fallout experience. The result is a remarkable fusion of the two franchises, offering a unique blend of survival, exploration, and storytelling.
 
-<details>
-<summary><h2><b>About</b></h2></summary>
+<ins>To put it simply, we plan to combine the two.</ins>
 
-
----
-
-Fallout Anomaly represents a revolutionary modlist for Fallout 4, marking a watershed moment in the modding community. As the pioneering project of its kind, Fallout Anomaly ambitiously merges the immersive worlds of the Stalker series with the iconic Fallout 4 universe. 
-
-This transformative fusion introduces a plethora of Stalker-inspired elements, enriching Fallout 4 with gritty survival mechanics, menacing mutants, and an atmospheric ambiance reminiscent of the desolate landscapes encountered in the Stalker games. 
-
-Embark on a journey through the irradiated wastelands where danger lurks around every corner, and survival demands wit, skill, and resilience. With Fallout Anomaly, players are invited to delve into an unparalleled gaming experience that transcends traditional boundaries, offering a captivating blend of post-apocalyptic adventure and relentless survival challenges.
-
----
-
-
-</details>
+### Key Features and Mods.
   
-<details>
-<summary><h2><b>Minimum Specs and Install</b></h2></summary>
+  * **This section is being rebuilt for the 2024 release**
+    
 
+### Minimum Specs and Install</ins></b></h2></summary>
 
----
+* <ins>Fallout Anomaly takes several steps to ensure everyone enjoys an optimal experience. However, we cannot guarantee playability on older equipment with issues playing the vanilla game.</ins>
 
-<ins>Fallout Anomaly takes several steps to ensure everyone enjoys an optimal experience. However, we cannot guarantee playability on older equipment with issues playing the vanilla game.</ins>
-
----
 
 **Hardware:**
 - CPU: A modern CPU with at least 6 cores and a clock speed of 3GHz.
@@ -75,7 +63,7 @@ Embark on a journey through the irradiated wastelands where danger lurks around 
 - Free Disk Space: At least 300GB, preferably on an SSD for optimal performance.
 
 <details>
-<summary><h3>Nexus Mods</h3></summary>
+<summary><h3><ins>Nexus Mods</ins></h3></summary>
 
 ---
 
@@ -89,7 +77,7 @@ Embark on a journey through the irradiated wastelands where danger lurks around 
 </details>
 
 <details>
-<summary><h3>Pre-Installation</h3></summary>
+<summary><h3><ins>Pre-Installation</ins></h3></summary>
 
 - [Microsoft Visual C++ x64 and x86](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - **Must be installed!**
 - [NET Framework 4.6.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-web-installer) - **Must be installed!**
@@ -118,11 +106,11 @@ Embark on a journey through the irradiated wastelands where danger lurks around 
 </details>
 
 <details>
-<summary><h2>Wabbajack</h2></summary>
+<summary><h2><ins>Wabbajack</ins></h2></summary>
 
 ---
 
-<h3>Wabbajack Installation Guide for Fallout Anomaly</h3>
+<h3><ins></ins>Wabbajack Installation Guide for Fallout Anomaly</h3></h3>
 
 ---
 
@@ -142,7 +130,7 @@ The next step involves downloading the mod list. You have two options to accompl
    
 ---
 
-<h3>Problems with Wabbajack</h3>
+<h3><ins></ins>Problems with Wabbajack</ins></h3>
 
 ---
 
@@ -157,7 +145,7 @@ There are various scenarios where Wabbajack may encounter errors. Here are some 
 
 
 <details>
-<summary><h2>Updating</h2></summary>
+<summary><h2><ins>Updating</ins></h2></summary>
 
 ---
 
@@ -165,7 +153,7 @@ The Fallout Anomaly team will notify you in advance of any upcoming updates via 
 
 During the update process, Wabbajack will delete all files that are not part of the Modlist from the previous update. **This includes any additional mods you have installed on your own. Your saves will be preserved unless there is a specific reason provided to start a new save, which we will communicate to you. The decision to update is entirely up to you and is not mandatory.**
 
-The changelog for each update can be located [here](insert_link_here).
+The changelog for each update can be located [here](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/CHANGELOG.md).
 
 Updating is similar to installing. Simply ensure to select the same path and check the "overwrite existing Modlist" button.
 
@@ -173,7 +161,7 @@ Updating is similar to installing. Simply ensure to select the same path and che
 </details>
 
 <details>
-  <summary><h2>Launching Fallout Anomaly</h2></summary>
+  <summary><h2><ins>Launching Fallout Anomaly</ins></h2></summary>
 
   ---
 
@@ -181,60 +169,73 @@ Updating is similar to installing. Simply ensure to select the same path and che
     Before launching Fallout Anomaly, we will open BethINI to verify your display settings are set correctly. To do so, head to your newly installed Fallout Anomaly folder and locate the tools folder. (E:\ModLists\Anomaly 4.6\tools) Inside this folder, please locate "BethINI" and launch it from here. <strong>It is essential you <ins>DO NOT</ins> change anything here but your display resolution.</strong> The inis have been optimized for the best usage of Fallout Anomaly and your PC. Changing any other settings can cause crashing, visual issues, or worse performance. Upon completing this step please hit save in BethINI and close the program. Go back to the main Anomaly folder and launch mod organizer.exe
   </p>
 
+![step1](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/838bcff7-50ec-47b1-a4fb-287034f7cc53)
+![save2](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/b783d988-bdfa-4dc6-81b8-d6930e54f4f0)
+![Step3](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/decac86a-df39-467f-a5db-813f99e404e0)
+
+  
+
   <p>
     Upon launching Mod Organizer 2 (MO2), you may initially feel overwhelmed by the interface. However, we have streamlined the entire process for your convenience. In the top right corner, you will find several options such as F4SE, ENB Manager, and Crash Scanner. We will discuss these options in more detail later on. At this point, you are ready to launch the game.
-  </p>
+
 
   <details>
     <summary><h3>F4SE</h3></summary>
-
-    ---
-
-    <p>
-      F4SE is Fallout 4 Script Extender. This program is the lifeline of most mods for Fallout and will be used to launch Fallout Anomaly.
-    </p>
     
-    ---
+    
+  * F4SE is Fallout 4 Script Extender. This program is the lifeline of most mods for Fallout and will be used to launch Fallout Anomaly.
+    
+    ![F4SE](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/9e575f2d-2cc1-4f64-a671-9bbe586d3e4e)
+
+
+  
 
   </details>
 
   <details>
     <summary><h3>ENB Manager (PENDING IMPLEMENTATION 02/2024)</h3></summary>
 
-    ---
+  <li>Fallout Anomaly includes a dedicated manager to assist you in selecting your preferred ENB preset. Traditionally, changing ENBs requires manual file removal, but we have streamlined this process into a simple program. To access ENB Manager, simply click on the icon located in the top-right corner of Mod Organizer.</li>
+  <li><strong>Note:</strong> ENBSeries (or ENB) is a post-processing suite developed and maintained by <a href="http://enbdev.com/">Boris Voronstov</a>. It introduces numerous enhancements and features to games that are not available in the vanilla game.</li>
+</ul>
 
-    <p>
-      Fallout Anomaly includes a dedicated manager to assist you in selecting your preferred ENB preset. Traditionally, changing ENBs requires manual file removal, but we have streamlined this process into a simple program. To access ENB Manager, simply click on the icon located in the top-right corner of Mod Organizer.
-    </p>
+## <ins>To change your ENB preset, follow these steps:</ins>
 
-    <p><strong>Note:</strong> ENBSeries (or ENB) is a post-processing suite developed and maintained by <a href="http://enbdev.com/">Boris Voronstov</a>. It introduces numerous enhancements and features to games that are not available in the vanilla game.</p>
 
-    <p>
-      To change your ENB preset, follow these steps:
-      <ol>
-        <li>Open ENB Manager.</li>
-        <li>Ensure that your DLL is checked off in green. If you encounter an error here, please visit <a href="http://enbdev.com/download_mod_fallout4.html">here</a> to download the latest release. Open the wrapper folder and place "D3D11.DLL & d3dcompiler_46.dll" into the "Stock Folder" of the main Fallout Anomaly root folder.</li>
-        <li>Navigate to the Preset section in Toll's ENB Manager.</li>
-        <li>Select one of the options below and close the manager.</li>
-        <li>Any screenshots will be copied into the application for your viewing under the screenshot section.</li>
-        <li>To add your own preset, click "Add new preset" under the preset section!</li>
-      </ol>
-    </p>
+  <li>Open ENB Manager.</li>
+  <li>Ensure that your DLL is checked off in green. If you encounter an error here, please visit <a href="http://enbdev.com/download_mod_fallout4.html">here</a> to download the latest release. Open the wrapper folder and place "D3D11.DLL & d3dcompiler_46.dll" into the "Stock Folder" of the main Fallout Anomaly root folder.</li>
+  <li>Navigate to the Preset section in Toll's ENB Manager.</li>
+  <li>Select one of the options below and close the manager.</li>
+  <li>Any screenshots will be copied into the application for your viewing under the screenshot section.</li>
+  <li>To add your own preset, click "Add new preset" under the preset section!</li>
 
-    <p><em>Thank you to <a href="http://enbdev.com/">Boris</a> for ENB and <a href="https://www.nexusmods.com/skyrimspecialedition/users/92622203">Toll</a> for ENB Manager!</em></p>
+  ![ENB1](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/c63d4d5d-55c9-4f52-b24c-d4877edc867c)
+  ![ENB2](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/a4d66cfc-192e-450d-9b08-f7e10458679a)
+  ![ENB4](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/382a021e-fa16-450a-834e-ff78c06d5dfc)
+  ![enb5](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/8d1d9873-73ca-409e-9e44-b8bf85ef811a)
 
-    ---
+  * Click save and then enable your new preset. You can now close the manager and start your game. Please see [Here](https://www.nexusmods.com/fallout4/mods/45830) for more guidance.
+
+
+
+<p>Thank you to <a href="http://enbdev.com/">Boris</a> for ENB and <a href="https://www.nexusmods.com/skyrimspecialedition/users/92622203">Toll</a> for ENB Manager!</p>
 
   </details>
 
 </details>
 
 <details>
-  <summary> <h2>Final Steps</h2></summary>
+  <summary> <h2><ins>Final Steps</ins></h2></summary>
 
   See [Here](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Optional.md) for our optional mods and 21:9 32:9 support. (PENDING IMPLEMENTATION 02/2024) 🚧🚧🚧
 
   See [Here](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Performance.md) for extra performance options. (PENDING IMPLEMENTATION 02/2024) 🚧🚧🚧
+
+  See [Here](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Known%20Issue.md) for known issues. (PENDING IMPLEMENTATION 02/2024) 🚧🚧🚧
+
+  See [Here](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Issue%20Tracker.md) to make a bug report.
+
+  See [Here](https://github.com/NomadsReach/Fallout-Anomaly/issues/new/choose) to make a mod/feature request.
   
  
 
