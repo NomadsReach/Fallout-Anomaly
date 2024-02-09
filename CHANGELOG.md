@@ -1,5 +1,13 @@
 ## 0.4.6 Major update to be succeded by 5.0 TBA - 2024.
 
+<p align="left">
+  <img src="https://media.tenor.com/Z5gY5ND53hEAAAAi/okuu-warning.gif" alt="Fallout Anomaly GIF" width="200" height="200">
+</p>
+
+
+
+### <ins>**NEW GAME SAVE REQUIRED**</ins>
+
 
 
 **Graphics and Visuals:**
@@ -14,6 +22,7 @@
 - Removed Lively's Keyword Resource.
 
 **Gameplay and Mechanics:**
+- Zombie Walkers - Removed - Conflicts with most quest/npc mod. No more NPCS being replaced by zombies.
 - Updated Hunter of the Commonwealth.
 - Updated Flashy (JoeR) - Advanced Needs 76.
 - Updated Flashy (JoeR) - Gun For Hire - Commonwealth Mercenary Jobs.
