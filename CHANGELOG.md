@@ -43,7 +43,7 @@
 
 ---
 
-**Anything removed from this section is either severely outdated, buggy, or does not fit our vision of Fallout Anomaly. For example, all of Thuggysmurf's mods. These mods are highly NSFW (Not Safe For Work), lore-breaking, or simply do not fit our vision. These mods below would be Outcase & Remnants, Fusion City, and etc below.**
+**Anything removed from this section is either severely outdated, buggy, or does not align with our vision for Fallout Anomaly. For instance, Thuggysmurf's mods fall into this category. (nothing against him) These mods are highly NSFW (Not Safe For Work), lore-breaking, or simply do not fit our vision. Examples include Outcast & Remnants, Fusion City, and a couple of his others listed below. The team hopes you understand our choice but we are always open for your input. ❤️**
 
 ---
 
@@ -82,8 +82,8 @@
 - Updated Lima Detachment - Real Simulation.
 
 **Miscellaneous:**
-- Updated PiP-Boy 2000 to Pip-Boy W.S.
-- Updated Damn Apocalypse (Removed and to be replaced with WARS/PEACE in future update).
+- Updated PiP-Boy 2000 to Pip-Boy W.S. - **Hopeful to be using this soon** [Military PDA](https://www.youtube.com/watch?v=2SYreIwqFUo)
+- Removed Damn Apocalypse (**<ins>To be replaced with WARS/PEACE in future update.</ins**>
 - Updated FORTITUDE - SCOURGE Addon.
 - Updated Cannibal Toast's PRP Patch Compendium.
 - Updated Leveled Lists Patch for Stoner Rifle-25 and Glock 17 MOS-Glock 18.
@@ -92,14 +92,15 @@
 - Updated Workshop Framework - Script Override.
 - Added The Gorski Debacle - Assistant Restored.
 - Removed ELFX - Tales from the Commonwealth - Outcasts and Remnants.
+- Removed Church of Atom Overhaul - (**<ins>Conflicts with South of the Sea**</ins>)
 - Added South of the Sea - Atoms Storm.
 - Added CSEP Presents Loaded Bases - Quest Mod.
 - Removed A StoryWealth - eXoterior Patch and A StoryWealth - eXoterior Patch - Cell Data Patch.
 - Added FO4 Animated Traffic Lights.
-- Added Polluted Storms - Polluted Climate and True Storms merged.
-- Added Lightweight Lighting.
+- Added Polluted Storms - Polluted Climate and True Storms merged. (**<ins>Testing of different Weather Mods to be primary</ins>**)
+- Added Lightweight Lighting. (**<ins>Testing to replace ELFX</ins>**)
 - Removed 4estGimp - Subways of the Commonwealth Precombines Fix.
-- Removed Subway Runner for now.
+- Removed Subway Runner for now. (<ins>**Subways of the Commonwealth still in</ins>**)
 - Added Fallout 4 Particle Patch - No More Glowing Objects.
 - Updated Sim Settlements 2 - Previsibines Expansion Pack.
 - Updated Sim Settlements 2 - All Chapters Pack.
@@ -119,5 +120,5 @@
 - Added Tinker's Workbench Remade.
 - Added Backpacks of the Commonwealth and A.A.B compatibility patch.
 - Added What The Radstorm - Main menu replacer.
-- Removed Wastelander's XM2076.
+- Removed Wastelander's XM2076. (<ins>**Breaks Previs**</ins>)
 - Added Disk Cache Enabler.
