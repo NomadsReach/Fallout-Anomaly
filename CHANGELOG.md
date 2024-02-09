@@ -1,1 +1,114 @@
-Fallout Anomaly Github First Release.
+## 0.4.6 Major update to be succeded by 5.0 TBA - 2024.
+
+
+
+**Graphics and Visuals:**
+- Fixed flickering puddles - No longer needed.
+- Replaced Gloomy Glass with Glowing Glass Fix for transparent materials revision.
+- Replaced FlaconOil Textures with Luxor 2k textures.
+- Replaced Langley's HD Texture Workshop (Packed) with Luxor 2k textures.
+- Updated MK18 CQBR to 2K resolution.
+- Updated all tactical reload patches with ECO dynamic tactical reload system.
+- Removed Chems and Alcohol Visual FX.
+- Removed Immersive Aquaboy - Hazmat Suit Patch.
+- Removed Lively's Keyword Resource.
+
+**Gameplay and Mechanics:**
+- Updated Hunter of the Commonwealth.
+- Updated Flashy (JoeR) - Advanced Needs 76.
+- Updated Flashy (JoeR) - Gun For Hire - Commonwealth Mercenary Jobs.
+- Updated Burst-Fire Framework with ECO update.
+- Updated T6M's Burst-Fire Framework.
+- Updated Base Object Swapper.
+- Updated Auto Beam - True Laser Sights Framework.
+- Fixed workbench/OMOD manipulation CTD in Auto Beam - True Laser Sights Framework.
+- Updated Workshop Framework.
+- Updated RobCo Patcher.
+- Removed Disable Exit Save mod in favor of an ini edit.
+- Updated Crafting Mastery 2.
+- Updated Equipment and Crafting Overhaul (ECO) - Redux.
+- Updated Uneducated Shooter - QE Leaning and Gun Inertia.
+- Added Flashlight Stealth Fix for proper NPC detection.
+
+**Content and Quests:**
+
+---
+
+**Anything removed from this section is either severely outdated, buggy, or does not fit our vision of Fallout Anomaly. For example, all of Thuggysmurf's mods. These mods are highly NSFW (Not Safe For Work), lore-breaking, or simply do not fit our vision. These mods below would be Outcase & Remnants, Fusion City, and etc below.**
+
+---
+
+- Updated Who's The General - Minutemen Quest Cleanup.
+- Updated Diamond City Expansion - eXoPatch.
+- Added Patch for "Diamond City Ambience" (requires ESL version).
+- Added 77wanderer's Point Lookout Patches.
+- Updated The Sewers and The Tunnels.
+- Updated The Forest DLC - For Hunters and Hikers (Removed for QA).
+- Updated The Wilderness with four anomalies.
+- Added The Zone Map and Precombines (Stalker Worldspace).
+- Removed Project Mojave; to be added back in a future update.
+- Removed New Interior Location - Vault 111 Maintenance Compartment as it's outdated.
+- Removed The Cemetery - Plainfield Cemetery due to conflicts.
+- Removed commonwealth Rooftops (WIP).
+- Removed Frozen Valley - For Snowmen and Hunters due to performance issues.
+- Removed Journey to Ipswich.
+- Removed Depravity - A Harmless Bit of Fun.
+- Removed Outcasts and Remnants.
+- Removed Project Valkyrie.
+- Removed Diary of a Madman.
+- Removed Fusion City Rising - Quest Mod Plus.
+- Removed Settler and Companion Dialogue Overhaul for being outdated and buggy.
+
+**Character and NPC:**
+- Updated Feral Ghoul Bite Skills.
+- Updated Unique NPCs - LITE.
+
+**Settlements and Environment:**
+- Removed Death Rift.
+- Removed The Rooftops due to conflicts.
+- Updated A StoryWealth patches.
+- Updated Fourville - eXoPatch.
+- Updated ELFX - PreVis PreCombine Patch.
+- Removed ECO Universal Workstations Patch Collection.
+- Updated Lima Detachment - Real Simulation.
+
+**Miscellaneous:**
+- Updated PiP-Boy 2000 to Pip-Boy W.S.
+- Updated Damn Apocalypse (Removed and to be replaced with WARS/PEACE in future update).
+- Updated FORTITUDE - SCOURGE Addon.
+- Updated Cannibal Toast's PRP Patch Compendium.
+- Updated Leveled Lists Patch for Stoner Rifle-25 and Glock 17 MOS-Glock 18.
+- Updated Reaper's Robco Munitions Patches.
+- Updated Weapons Level List Patches.
+- Updated Workshop Framework - Script Override.
+- Added The Gorski Debacle - Assistant Restored.
+- Removed ELFX - Tales from the Commonwealth - Outcasts and Remnants.
+- Added South of the Sea - Atoms Storm.
+- Added CSEP Presents Loaded Bases - Quest Mod.
+- Removed A StoryWealth - eXoterior Patch and A StoryWealth - eXoterior Patch - Cell Data Patch.
+- Added FO4 Animated Traffic Lights.
+- Added Polluted Storms - Polluted Climate and True Storms merged.
+- Added Lightweight Lighting.
+- Removed 4estGimp - Subways of the Commonwealth Precombines Fix.
+- Removed Subway Runner for now.
+- Added Fallout 4 Particle Patch - No More Glowing Objects.
+- Updated Sim Settlements 2 - Previsibines Expansion Pack.
+- Updated Sim Settlements 2 - All Chapters Pack.
+- Updated Previsibines Repair Pack to .69 with all PRP patches updated to current.
+- Added Enhanced Night Sky - Improved Visible Galaxy Framework.
+- Added Visible Galaxy 4k Fix Patch - Milky Way.
+- Added Compact Fonts.
+- Added No Smoldering Turrets.
+- Added Fallout 4 HD Overhaul 2k (Luxor).
+- Added OLD WORLD RADIO - BOSTON.
+- Added OLD WORLD RADIO - Base Object Swapper.
+- Added SMM Patches by Vanguard (Declutter your workshop menus).
+- Added Redder Rocket (2K -4K).
+- Added Thicket Excavations Sign (2K - 4K).
+- Added Ambiance Overhaul _True Storms Patch Reverb_Ambient Wasteland Patch and more.
+- Added Reverb and Ambiance Overhaul - Tweaked.
+- Added Tinker's Workbench Remade.
+- Added Backpacks of the Commonwealth and A.A.B compatibility patch.
+- Added What The Radstorm - Main menu replacer.
+- Removed Wastelander's XM2076.
+- Added Disk Cache Enabler.
