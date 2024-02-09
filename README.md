@@ -21,16 +21,23 @@
 
 
 <!-- Table of Contents -->
-<details>
-  <summary><h3>Table of Contents</h3></summary>
+
+  ## <h3>Table of Contents
   <ul>
     <li><a href="#about">About</a></li>
-    <li><a href="#minimum-specs">Minimum Specs</a></li>
+    <li><a href="#minimum-specs-and-install">Minimum Specs and Install</a></li>
     <li><a href="#wabbajack">Wabbajack</a></li>
     <li><a href="#updating">Updating</a></li>
     <li><a href="#launching-fallout-anomaly">Launching Fallout Anomaly Via MO2</a></li>
+    <li><a href="#final-steps">Final Steps</a></li>
+    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Optional.md">Optional</a>
+    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/PageFile.md">PageFile</a>
+    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/PageFile.md">Issue Tracker</a>
+    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Known%20Issue.md">Known Issue</a>
+    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Known%20Issue.md">Mod/Feature Request</a>
+      
   </ul>
-</details>
+
 
 
 <details>
@@ -51,7 +58,7 @@ Embark on a journey through the irradiated wastelands where danger lurks around 
 </details>
   
 <details>
-<summary><h2><b>Minimum Specs</b></h2></summary>
+<summary><h2><b>Minimum Specs and Install</b></h2></summary>
 
 
 ---
@@ -86,7 +93,8 @@ Embark on a journey through the irradiated wastelands where danger lurks around 
 
 - [Microsoft Visual C++ x64 and x86](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - **Must be installed!**
 - [NET Framework 4.6.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-web-installer) - **Must be installed!**
-- [Vanilla Game Folder - See the video below.](https://www.youtube.com/watch?v=zwTJ3jImCiQ&t=1s) 
+- [Vanilla Game Folder](https://www.youtube.com/watch?v=zwTJ3jImCiQ&t=1s) - **Please see the video below.**
+- [PageFile Setup](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/PageFile.md) - **Please click the blue link for instuctions. This step is very important.**
 
 [![](https://img.youtube.com/vi/zwTJ3jImCiQ/0.jpg)](https://www.youtube.com/watch?v=zwTJ3jImCiQ)
 
@@ -165,49 +173,73 @@ Updating is similar to installing. Simply ensure to select the same path and che
 </details>
 
 <details>
-<summary><h2>Launching Fallout Anomaly</h2></summary>
+  <summary><h2>Launching Fallout Anomaly</h2></summary>
 
----
+  ---
 
-* Before launching Fallout Anomaly, we will open BethINI to verify your display settings are set correctly. To do so, head to your newly installed Fallout Anomaly folder and locate the tools folder. (E:\ModLists\Anomaly 4.6\tools) Inside this folder, please locate "BethINI" and launch it from here. **_It is essential you <ins>DO NOT</ins> change anything here but your display resolution._** The inis have been optimized for the best usage of Fallout Anomaly and your PC. Changing any other settings can cause crashing, visual issues, or worse performance. Upon completing this step please hit save in BethINI and close the program. Go back to the main Anomaly folder and launch mod organizer.exe
+  <p>
+    Before launching Fallout Anomaly, we will open BethINI to verify your display settings are set correctly. To do so, head to your newly installed Fallout Anomaly folder and locate the tools folder. (E:\ModLists\Anomaly 4.6\tools) Inside this folder, please locate "BethINI" and launch it from here. <strong>It is essential you <ins>DO NOT</ins> change anything here but your display resolution.</strong> The inis have been optimized for the best usage of Fallout Anomaly and your PC. Changing any other settings can cause crashing, visual issues, or worse performance. Upon completing this step please hit save in BethINI and close the program. Go back to the main Anomaly folder and launch mod organizer.exe
+  </p>
 
-* Upon launching Mod Organizer 2 (MO2), you may initially feel overwhelmed by the interface. However, we have streamlined the entire process for your convenience. In the top right corner, you will find several options such as F4SE, ENB Manager, and Crash Scanner. We will discuss these options in more detail later on. At this point, you are ready to launch the game.
+  <p>
+    Upon launching Mod Organizer 2 (MO2), you may initially feel overwhelmed by the interface. However, we have streamlined the entire process for your convenience. In the top right corner, you will find several options such as F4SE, ENB Manager, and Crash Scanner. We will discuss these options in more detail later on. At this point, you are ready to launch the game.
+  </p>
 
+  <details>
+    <summary><h3>F4SE</h3></summary>
+
+    ---
+
+    <p>
+      F4SE is Fallout 4 Script Extender. This program is the lifeline of most mods for Fallout and will be used to launch Fallout Anomaly.
+    </p>
+    
+    ---
+
+  </details>
+
+  <details>
+    <summary><h3>ENB Manager (PENDING IMPLEMENTATION 02/2024)</h3></summary>
+
+    ---
+
+    <p>
+      Fallout Anomaly includes a dedicated manager to assist you in selecting your preferred ENB preset. Traditionally, changing ENBs requires manual file removal, but we have streamlined this process into a simple program. To access ENB Manager, simply click on the icon located in the top-right corner of Mod Organizer.
+    </p>
+
+    <p><strong>Note:</strong> ENBSeries (or ENB) is a post-processing suite developed and maintained by <a href="http://enbdev.com/">Boris Voronstov</a>. It introduces numerous enhancements and features to games that are not available in the vanilla game.</p>
+
+    <p>
+      To change your ENB preset, follow these steps:
+      <ol>
+        <li>Open ENB Manager.</li>
+        <li>Ensure that your DLL is checked off in green. If you encounter an error here, please visit <a href="http://enbdev.com/download_mod_fallout4.html">here</a> to download the latest release. Open the wrapper folder and place "D3D11.DLL & d3dcompiler_46.dll" into the "Stock Folder" of the main Fallout Anomaly root folder.</li>
+        <li>Navigate to the Preset section in Toll's ENB Manager.</li>
+        <li>Select one of the options below and close the manager.</li>
+        <li>Any screenshots will be copied into the application for your viewing under the screenshot section.</li>
+        <li>To add your own preset, click "Add new preset" under the preset section!</li>
+      </ol>
+    </p>
+
+    <p><em>Thank you to <a href="http://enbdev.com/">Boris</a> for ENB and <a href="https://www.nexusmods.com/skyrimspecialedition/users/92622203">Toll</a> for ENB Manager!</em></p>
+
+    ---
+
+  </details>
+
+</details>
 
 <details>
-<summary><h3>F4SE</h3></summary>
+  <summary> <h2>Final Steps</h2></summary>
 
----
+  See [Here](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Optional.md) for our optional mods and 21:9 32:9 support. (PENDING IMPLEMENTATION 02/2024) 🚧🚧🚧
 
-* F4SE is Fallout 4 Script Extender. This program is the lifeline of most mods for Fallout and will be used to launch Fallout Anomaly.
+  See [Here](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Performance.md) for extra performance options. (PENDING IMPLEMENTATION 02/2024) 🚧🚧🚧
   
----
+ 
+
+  <!-- Add your final steps here -->
 
 </details>
 
-<details>
-<summary><h3>ENB Manager (PENDING IMPLEMENTATION 02/2024)</h3></summary>
-
----
-
-  * Fallout Anomaly includes a dedicated manager to assist you in selecting your preferred ENB preset. Traditionally, changing ENBs requires manual file removal, but we have streamlined this process into a simple program. To access ENB Manager, simply click on the icon located in the top-right corner of Mod Organizer.
-- **Note:** ENBSeries (or ENB) is a post-processing suite developed and maintained by [Boris Voronstov](http://enbdev.com/). It introduces numerous enhancements and features to games that are not available in the vanilla game.
-
----
-
-To change your ENB preset, follow these steps:
-
----
-
-1. Open ENB Manager.
-2. Ensure that your DLL is checked off in green. If you encounter an error here, please visit [here](http://enbdev.com/download_mod_fallout4.html) to download the latest release. Open the wrapper folder and place "D3D11.DLL & d3dcompiler_46.dll" into the "Stock Folder" of the main Fallout Anomaly root folder.
-3. Navigate to the Preset section in Toll's ENB Manager.
-4. Select one of the options below and close the manager.
-5. Any screenshots will be copied into the application for your viewing under the screenshot section.
-6. To add your own preset, click "Add new preset" under the preset section!
-
-- *Thank you to [Borris](http://enbdev.com/) for ENB and [Toll](https://www.nexusmods.com/skyrimspecialedition/users/92622203) for ENB Manager!*
-
----
-
-</details>
+<hr>
