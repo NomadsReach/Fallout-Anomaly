@@ -34,7 +34,7 @@
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/PageFile.md">PageFile</a>
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Issue%20Tracker.md">Issue Tracker</a>
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Known%20Issue.md">Known Issue</a>
-    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Known%20Issue.md">Mod/Feature Request</a>
+    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/issues/new/choose">Mod/Feature Request</a>
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/CHANGELOG.md">Mod/ChangeLog(Updates)</a>
       
 
