@@ -30,10 +30,12 @@
   - [Updating](#updating)
   - [Launching Fallout Anomaly Via MO2](#launching-fallout-anomaly)
   - [Final Steps](#final-steps)
+
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Optional.md">Optional</a>
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/PageFile.md">PageFile</a>
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Issue%20Tracker.md">Issue Tracker</a>
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Known%20Issue.md">Known Issue</a>
+    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/What%20to%20do%20if%20you%20crash.md">How to report a crash.</a>
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/issues/new/choose">Mod/Feature Request</a>
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/CHANGELOG.md">Mod/ChangeLog(Updates)</a>
       
