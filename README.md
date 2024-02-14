@@ -30,7 +30,6 @@
   - [Updating](#updating)
   - [Launching Fallout Anomaly Via MO2](#launching-fallout-anomaly)
   - [Final Steps](#final-steps)
-  - [Crash Reporting](#crash-reporting)
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Optional.md">Optional</a>
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/PageFile.md">PageFile</a>
     <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Issue%20Tracker.md">Issue Tracker</a>
