@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Fallout Anomaly 0.4.9 Beta",
+    "description": "Best thing since sliced bread",
+    "author": "<Fallout Anomaly Team>",
+    "maintainers": [
+      "github/<NomadsReach>"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "testing",
+      "<any tags you want in the UI, each in its own string"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "<https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/master/images/74075_1694631951.png>",
+      "readme": "<https://github.com/NomadsReach/Fallout-Anomaly/tree/master>",
+      "download": "https://authored-files.wabbajack.org/Fallout%20-%20Anomaly.wabbajack_fc1e0db3-e6a6-4d64-b946-b5fbb02413a6",
+      "machineURL": "machineURL",
+      "discordURL": "<https://discord.gg/EaJUsT9fPY>"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "EGIaSM+9PZo=",
+      "Size": 75605228,
+      "NumberOfArchives": 1004,
+      "SizeOfArchives": 194999353713,
+      "NumberOfInstalledFiles": 30758,
+      "SizeOfInstalledFiles": 220988137950
+    },
+    "version": "1.0"
+  }
+]
+
