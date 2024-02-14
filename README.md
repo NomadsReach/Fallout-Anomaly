@@ -192,7 +192,7 @@ Updating is similar to installing. Simply ensure to select the same path and che
   </details>
 
   <details>
-    <summary><h3>ENB Manager (PENDING IMPLEMENTATION 02/2024)</h3></summary>
+    <summary><h3>ENB Manager</h3></summary>
 
   <li>Fallout Anomaly includes a dedicated manager to assist you in selecting your preferred ENB preset. Traditionally, changing ENBs requires manual file removal, but we have streamlined this process into a simple program. To access ENB Manager, simply click on the icon located in the top-right corner of Mod Organizer.</li>
   <li><strong>Note:</strong> ENBSeries (or ENB) is a post-processing suite developed and maintained by <a href="http://enbdev.com/">Boris Voronstov</a>. It introduces numerous enhancements and features to games that are not available in the vanilla game.</li>
@@ -203,7 +203,7 @@ Updating is similar to installing. Simply ensure to select the same path and che
 
   <li>Open ENB Manager.</li>
   <li>Ensure that your DLL is checked off in green. If you encounter an error here, please visit <a href="http://enbdev.com/download_mod_fallout4.html">here</a> to download the latest release. Open the wrapper folder and place "D3D11.DLL & d3dcompiler_46.dll" into the "Stock Folder" of the main Fallout Anomaly root folder.</li>
-  <li>Navigate to the Preset section in Toll's ENB Manager.</li>
+  <li>Navigate to the Preset section in Toll's ENB Manager - NOTE: If you do not see a preset click add preset and locate them in Fallout Anomaly 4.9\Stock Folder\ENBS.</li>
   <li>Select one of the options below and close the manager.</li>
   <li>Any screenshots will be copied into the application for your viewing under the screenshot section.</li>
   <li>To add your own preset, click "Add new preset" under the preset section!</li>
