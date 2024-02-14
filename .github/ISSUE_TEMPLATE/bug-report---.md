@@ -5,7 +5,7 @@ labels: bug
 
 ---
 
-*  <ins><strong>PLEASE USE THE BELOW AS A TEMPLATE</ins></strong>
+Please use the below as a template when making your report.
 
 ## Describe the bug
 A clear and concise description of what the bug is.
