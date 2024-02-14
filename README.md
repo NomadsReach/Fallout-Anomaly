@@ -48,6 +48,8 @@
   * We recognized the opportunity to combine the strengths of both worlds. Drawing inspiration from the bleak and perilous world of S.T.A.L.K.E.R. and leveraging the expansive sandbox of Fallout 4, we embarked on a mission to create a modlist that would redefine the Fallout experience. The result is a remarkable fusion of the two franchises, offering a unique blend of survival, exploration, and storytelling.
   
   <ins>To put it simply, we plan to combine the two.</ins>
+
+  Find the entire mod list here: [Load Order Libary](https://loadorderlibrary.com/lists/fallout-anomaly-049)
 </details>
 
 
