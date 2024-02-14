@@ -1,30 +1,31 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Fallout Anomaly 0.4.9 Beta",
-    "description": "Best thing since sliced bread",
-    "author": "<Fallout Anomaly Team>",
+    "description": "Seamlessly merging the Stalker series & Fallout 4 universe. It introduces Stalker-like elements into Fallout 4, such as harsh survival mechanics, dangerous mutants, and a gritty atmosphere, offering players a unique and unparalleled gaming experience.",
+    "author": "Fallout Anomaly Team",
     "maintainers": [
-      "github/<NomadsReach>"
+      "github/NomadsReach"
     ],
     "game": "fallout4",
+    "official": false,
     "tags": [
-      "testing",
-      "<any tags you want in the UI, each in its own string"
+      "Beta",
+      "Quests+",
+      "Sim Settlements 2"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "<https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/master/images/74075_1694631951.png>",
-      "readme": "<https://github.com/NomadsReach/Fallout-Anomaly/tree/master>",
+      "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/master/images/74075_1694631951.png",
+      "readme": "https://github.com/Hotiraripha/Hoti-s-World/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Fallout%20-%20Anomaly.wabbajack_fc1e0db3-e6a6-4d64-b946-b5fbb02413a6",
-      "machineURL": "machineURL",
-      "discordURL": "<https://discord.gg/EaJUsT9fPY>"
+      "machineURL": "Fallout Anomaly",
+      "discordURL": "https://discord.gg/EaJUsT9fPY"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "EGIaSM+9PZo=",
       "Size": 75605228,
       "NumberOfArchives": 1004,
@@ -32,7 +33,6 @@
       "NumberOfInstalledFiles": 30758,
       "SizeOfInstalledFiles": 220988137950
     },
-    "version": "1.0"
+    "version": "0.9.9.7",
   }
 ]
-
