@@ -20,7 +20,7 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/master/images/74075_1694631951.png",
-      "readme": "https://github.com/Hotiraripha/Hoti-s-World/blob/main/README.md",
+      "readme": "https://github.com/NomadsReach/Fallout-Anomaly/blob/master/README.md",
       "download": "https://authored-files.wabbajack.org/Fallout%20-%20Anomaly.wabbajack_fc1e0db3-e6a6-4d64-b946-b5fbb02413a6",
       "machineURL": "Fallout Anomaly",
       "discordURL": "https://discord.gg/EaJUsT9fPY"
@@ -33,6 +33,6 @@
       "NumberOfInstalledFiles": 30758,
       "SizeOfInstalledFiles": 220988137950
     },
-    "version": "0.9.9.7",
+    "version": "0.4.9",
   }
 ]
