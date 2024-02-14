@@ -1,3 +1,10 @@
+---
+name: "Bug report \U0001F41E"
+about: Create a bug report
+labels: bug
+
+---
+
 *  <ins><strong>PLEASE USE THE BELOW AS A TEMPLATE</ins></strong>
 
 ## Describe the bug
