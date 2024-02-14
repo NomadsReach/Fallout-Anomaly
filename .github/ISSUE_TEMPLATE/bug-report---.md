@@ -1,9 +1,4 @@
----
-name: "Bug report \U0001F41E"
-about: Create a bug report
-labels: bug
-
----
+*  <ins><strong>PLEASE USE THE BELOW AS A TEMPLATE</ins></strong>
 
 ## Describe the bug
 A clear and concise description of what the bug is.
@@ -18,6 +13,16 @@ Steps to reproduce the behavior.
  - OS: [e.g. Arch Linux]
  - Hardware
  - Other details that you think may affect.
+   
+
+### Contact: 
+    
+   Please list your discord name if you are in our discord:
+
+
+---
 
 ### Additional context
-Add any other context about the problem here or screenshots/videos.
+Add any other context about the problem here or screenshots/videos/ticket transcript from discord.
+
+---
