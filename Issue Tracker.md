@@ -5,7 +5,7 @@ labels: bug
 
 ---
 
-**<ins>Please follow these steps when reporting an issue. If you would like to make a request please do so [here](https://github.com/NomadsReach/Fallout-Anomaly/issues/new?assignees=&labels=enhancement&projects=&template=feature-request---.md)</ins>**
+**<ins>Please follow these steps when reporting an issue. If you would like to make a request please do so [here](https://github.com/NomadsReach/Fallout-Anomaly/issues/new/choose)</ins>**
 
 ---
 
