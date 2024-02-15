@@ -1,3 +1,70 @@
+**Removed Mods:**
+
+1. Luxor's Greenery 2k - Excessive foliage.
+2. Jesters Better Destroyed Vehicles - Replaced with "let them rot" mod.
+3. Holotape Retexture - Substituted with alternative texture mod.
+4. Random Encounter Manager by SKK replaced with Random Encounter Manager - F4SE.
+5. Auto Gamepad Switch - Integrated into Buffout4.
+6. Legendary Radroach Fix - Addressed in community fixes.
+7. Vault 81 - GOAT Sequence Patch - Fixed in community patches.
+8. Nuka World Novatron Assaultron Torso Fix - Resolved in community fixes.
+9. Radio Tower Transparency Fix - Rectified in community fixes.
+10. More Active AI - Overlapping with Real AI.
+11. Power Armor Ownership Fix (no more stealing) - Fixed in community patches.
+12. Deirdre Bugfix - Covered in community fixes.
+13. Conduit Connection Fix - Addressed in community patches.
+14. River Fix - Corrected in community fixes.
+15. Cryolator Cryo-Cell Fix - Handled in community patches.
+16. Valentine Jaw Sync - Adjusted in community fixes.
+17. Alex's Male First Person Camera Height Fix - Handled in community fixes.
+18. Nuka-World - Fixes the East Entrance to Nuka-Town USA near Fizztop Mountain - Addressed in community fixes.
+19. Far Harbor - Cliffs Edge Hotel Wall Rest Ring Lower Fixed - Resolved in community fixes.
+20. Better Mod Descriptions - Upgraded to newer alternative.
+21. Wetness Shader Fix - Fixed in community patches.
+22. Highway Reclamation Project - Replaced with Highway Runner due to previs issues.
+23. Convenient Bridges - Substituted with Accessible Bridges and PRP Patch due to previs issues.
+24. Campsite - Simple Wasteland Camping (and HD Sleeping Bags) - Replaced with AN76.
+25. CRACKLE - Comforting fires for the discerning hobo - Replaced with AN76.
+26. Have a Seat - Removed due to conflicts and low usage.
+27. Prologue Outfit Options - Removed due to excessive size.
+28. Visual Reload - To be replaced with WARS in upcoming update.
+29. CPLA Airborne
+30. West-Tek Optics Pack
+31. BZW MW Domino Spy
+32. BZW MW Mara
+33. Ela Bosak REACT Outfit Rainbow Six Extraction
+34. MW Domino Lynx - CBBE
+35. MW Tactical Human
+36. Ela Bosak REACT Outfit Rainbow Six Extraction
+
+**Added Mods:**
+
+1. Disable Companion Collision
+2. Heather Casdin CBBE Bodyslide with Physics Support
+3. RobCo - Smarter Companions
+4. Patches for Lively's Keywords Resource and Whisper's Standalone Workbenches
+
+**Tweaks & Updates:**
+
+1. Consolidated over 30GB of loose files into a BA2 archive, reducing total install size.
+2. Reduced redundant armor mods in preparation for WARS/PEACE. Several armors all doing the same or looking exactly the same. The more unique ones are still in.
+3. Decreased the number of weapon mods, considering the inclusion of new weapons with WARS. WARS adds a handful of weapons already patched.
+4. Transitioned LevelList management to RobCo for better control and stability, avoiding issues with injector scripts.
+
+**QA:**
+
+Q: Why not patch everything with WARS and PEACE?
+A: We're working on it, but it's time-consuming. We're already planning for version 0.5 and gradually integrating patches. Adding more weapons and armor will take time but won't disrupt gameplay significantly.
+
+Q: When is version 0.5 coming?
+A: Anticipated release in 2024. Work on 0.5 has begun, and we'll transition from 0.4.9 once satisfied with its stability.
+
+
+
+
+---
+
+
 ## 0.4.6 Major update to be succeded by 5.0 TBA - 2024.
 
 <p align="left">
