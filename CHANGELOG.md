@@ -50,6 +50,8 @@
 2. Reduced redundant armor mods in preparation for WARS/PEACE. Several armors all doing the same or looking exactly the same. The more unique ones are still in.
 3. Decreased the number of weapon mods, considering the inclusion of new weapons with WARS. WARS adds a handful of weapons already patched.
 4. Transitioned LevelList management to RobCo for better control and stability, avoiding issues with injector scripts.
+5. Previs issues still being resolved. Have to patch around the list and resolve conflicts.
+6. Brown/Black face bug still being looked into. Engine bug issue. Very common known issue with Fallout 4.
 
 **QA:**
 
