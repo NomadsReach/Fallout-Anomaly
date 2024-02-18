@@ -1,20 +1,20 @@
 [
   {
-   "title": "Fallout Anomaly",
-    "description": "Seamlessly merging the Stalker series & Fallout 4 universe. It introduces Stalker-like elements into Fallout 4, such as harsh survival mechanics, dangerous mutants, and a gritty atmosphere, offering players a unique and unparalleled gaming experience.",
+    "title": "Fallout Anomaly",
+    "description": "Seamlessly merging the Stalker series \u0026 Fallout 4 universe. It introduces Stalker-like elements into Fallout 4, such as harsh survival mechanics, dangerous mutants, and a gritty atmosphere, offering players a unique and unparalleled gaming experience.",
     "author": "Fallout Anomaly Team",
     "maintainers": [
-        "github/NomadsReach"
+      "github/NomadsReach"
     ],
     "game": "fallout4",
     "official": false,
     "tags": [
-        "Beta",
-        "Quests+",
-        "Sim Settlements 2",
-        "S.T.A.L.K.E.R.",
-        "Zombies",
-        "Survival"
+      "Beta",
+      "Quests\u002B",
+      "Sim Settlements 2",
+      "S.T.A.L.K.E.R.",
+      "Zombies",
+      "Survival"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -22,20 +22,23 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-        "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/master/images/74075_1694631951.png",
-        "readme": "https://github.com/NomadsReach/Fallout-Anomaly/blob/master/README.md",
-        "download": "https://authored-files.wabbajack.org/Fallout%20-%20Anomaly.wabbajack_337b1450-ba4e-41df-b483-64097291b3bc",
-        "machineURL": "Fallout_Anomaly",
-        "discordURL": "https://discord.gg/EaJUsT9fPY"
+      "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/master/images/74075_1694631951.png",
+      "readme": "https://github.com/NomadsReach/Fallout-Anomaly/blob/master/README.md",
+      "download": "https://authored-files.wabbajack.org/Fallout - Anomaly.wabbajack_4bcd937b-0a1c-428d-9177-19232c6ea896",
+      "machineURL": "Fallout_Anomaly",
+      "discordURL": "https://discord.gg/EaJUsT9fPY"
     },
     "download_metadata": {
-        "Hash": "qSqCZvnczUU=",
-        "Size": 28867628,
-        "NumberOfArchives": 963,
-        "SizeOfArchives": 172979835792,
-        "NumberOfInstalledFiles": 28029,
-        "SizeOfInstalledFiles": 192863721228
+      "Hash": "IgYO1OgCJMw=",
+      "Size": 28826887,
+      "NumberOfArchives": 945,
+      "SizeOfArchives": 171258254572,
+      "NumberOfInstalledFiles": 27959,
+      "SizeOfInstalledFiles": 191115587023
     },
-    "version": "0.4.9.1"
+    "version": "0.4.9.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-02-18T22:24:19.4839648Z",
+    "repositoryName": ""
   }
 ]
