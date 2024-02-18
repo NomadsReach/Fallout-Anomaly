@@ -11,7 +11,10 @@
     "tags": [
         "Beta",
         "Quests+",
-        "Sim Settlements 2"
+        "Sim Settlements 2",
+        "S.T.A.L.K.E.R.",
+        "Zombies",
+        "Survival"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -21,18 +24,18 @@
     "links": {
         "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/master/images/74075_1694631951.png",
         "readme": "https://github.com/NomadsReach/Fallout-Anomaly/blob/master/README.md",
-        "download": "https://authored-files.wabbajack.org/Fallout%20-%20Anomaly.wabbajack_fc1e0db3-e6a6-4d64-b946-b5fbb02413a6",
+        "download": "https://authored-files.wabbajack.org/Fallout%20-%20Anomaly.wabbajack_337b1450-ba4e-41df-b483-64097291b3bc",
         "machineURL": "Fallout_Anomaly",
         "discordURL": "https://discord.gg/EaJUsT9fPY"
     },
     "download_metadata": {
-        "Hash": "EGIaSM+9PZo=",
-        "Size": 75605228,
-        "NumberOfArchives": 1004,
-        "SizeOfArchives": 194999353713,
-        "NumberOfInstalledFiles": 30758,
-        "SizeOfInstalledFiles": 220988137950
+        "Hash": "qSqCZvnczUU=",
+        "Size": 28867628,
+        "NumberOfArchives": 963,
+        "SizeOfArchives": 172979835792,
+        "NumberOfInstalledFiles": 28029,
+        "SizeOfInstalledFiles": 192863721228
     },
-    "version": "0.4.9"
+    "version": "0.4.9.1"
   }
 ]
