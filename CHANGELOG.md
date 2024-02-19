@@ -1,3 +1,117 @@
+2/19/2024 UPDATE:
+
+
+**Major Changes**
+
+- S7 Skill System - A Skyrim Style Leveling Overhaul
+- Previsibines Repair Pack Lite - PRPFX
+- Super Mutant Weaponry - Post-Apocalyptic Weapons
+- Super Mutant Redux 2.0
+- Better Locational Damage
+- Commonwealth Encounter Pack
+- FGEP Definitive Edition
+- Boston Bandits Raider Overhaul
+- More Feral Ghouls. A Zombie Mod
+- Fallout 3 - NV Feral Ghouls Replacer
+- Chemfluence - AI Combat Dynamics
+- Faces of Nuka World - Thematic Terrain Replacements
+- NPCs Use Items
+
+**Added Mods**
+
+- Oppressor's Handcuffs (4K) - Replacer ADDED
+- NVIDIA Reflex Support
+- Look At Me - Railroad Edition
+- Jumping Requires AP
+- Flashlight Holster
+- Commonwealth Encounter Pack
+- Discord Rich Presence REMAKE (F4SE)
+- Alternate Furniture Animations
+- Disable Companion Collision
+- Even Better Mod Descriptions
+- Truly Glowing Nuka-Cola Quantum
+- Female Rear Head Clipping Fix
+- Place-ini for PlaceEverywhere
+- Wheel Menu - FallUI Modern AGE Preset
+- Barber and Surgery - Front and Back Camera
+- Perchik71 - In Game MOD Explorer (MCM)
+- Better Drumlin Diner
+- Lima Detachment - America Rising 2 Integration
+- S.T.A.L.K.E.R. HUD PRESET FOR FALLUI - HUD 2.0
+- Stalker Style Main Menu Replacer
+- Luxor's Ivy 4k Autumn Version
+- Cautious Third Person Animations REDUX
+- Essential Downed Animations
+- Standing Sneak REDUX
+- LOD for South of the Sea Alone or With Various Mods - Dusty Dude Abides Series of Mods
+- Post-apocalyptic homemade weapons. Replacer
+- CC's Improved Vanilla Holotapes
+- VAFS Redux - Alternate VFX
+- Long Loading Times Fix
+- HoloTime - HUD Clock Widget
+- Rad Orchestra 2 Hud - Fall UI preset
+- NVIDIA Reflex Support
+- Collection Immersive Maps
+- Fallout 76 map styles for Fallout 4
+- Atom's Glory Threads
+- South of the Sea - Atomic Embrace (CBBE)
+- 4estGimp - Atom's Glory Threads SotS Atom's Storm patch
+- Feral Infestations - Tales from the Commonwealth Quest Patch Exofied
+- Tanks for FGEP-DE
+- Universal Disassembler
+- ENB Extender for Fallout 4
+- RobCo - Gasmasks 4 AN76
+
+**Removed Mods**
+
+- Park Blood Outfit -CBBE removed
+- Park Coventry Outfit -CBBE
+- PMC Operators Pack - Swedish Rust Devils
+- PMC Operators Pack - Railroad
+- PMC Operators Pack - Nuka-World Raiders
+- PMC Operators - Nuka-World Raiders (Operators)
+- PMC Operators - Nuka-World Raiders (Pack)
+- CoD BOCW - Diamond City DC Triggermen Caravan SEAL Guards
+- Minutemen Rearmament - AR15s for Militarized Minutemen (Militarised Minutemen in BrE) - WILL BE HANDLED BY ROBCO
+- Claustrophobia: Removed due to conflicts with PRP, quest conflicts, and being unfinished.
+- Experiment DCM Shadow: Removed due to being unfinished with balance issues and conflicts with PRP/quests.
+- Operation ARTICHOKE: Removed due to being buggy and unfinished.
+- Abandoned Hub - Underground Railroad ReRedux: Removed as it does not fit well with Subways of the Commonwealth being right next door.
+- Atomic World: Removed due to previs conflicts, lack of PRP update, and conflicts with the Forest.
+- Inside Jobs - Commonwealth Interiors Add-On: Removed due to conflicts with larger quest mods and no updates in over 2 years.
+- The Death Tunnel: No update since 2020, conflicts with Caves of the Commonwealth and other mods.
+- The Mannequin Cult: Removed due to PRP conflicts.
+- The Wine Cellar: Removed.
+- The Marshlands DLC: (No information provided; assumed to be included or retained).
+- Better Low Health: Removed as it is redundant.
+- Realistic Ragdoll Force: Replaced Ragdoll Physics to provide more realistic ragdoll death physics and corpse collision.
+- Hot Diggity (Progression Skills and Perk Overhaul): Removed and replaced with S7 Skill System.
+- Humble Hot Diggity Perks Pack: Removed and replaced with S7 Skill System.
+- Accuracy International AX50 Anti-Materiel Rifle: Removed as it is covered by Combined Arms.
+- KREBS AK: Removed as AK variants are already covered in weapon packs.
+- MW2022 - Expansive M4 2.0: Removed, SREP serves as a suitable M4 framework.
+- MOTM - AAC - Q Honey Badger - Modern Warfare 2022: Removed
+- QCQ171
+- Heckler und Koch - UMP - 2K
+- TAC: [Tactical Accessory Compendium](https://www.nexusmods.com/fallout4/mods/57869)
+- Ops-Core FAST Helmet: Tactical Headgear Set - Included in TAC
+- Mercenary Outfit Pack (STANDALONE) - Redudant with TAC
+- XOF CVC Helmet: Retro Tactical Headgear - Included in TAC
+- Tactical Fast Helmet - Redudant with TAC
+- Tactical Outfit - TAC covers this
+- Tactical Beanie: Retro Tactical Headgear - TAC covers this
+- Oakley M-Frame Sunglasses: Tactical Eyewear - TAC covers this
+- White Phosphor NVG: West Tek Tactical Optics Addon - TAC covers this
+- Wasteland Sniper: Removed
+- More Map Markers: Replaced with Map Marker Overhaul
+- Worldwide Ghouls: Removed, as the random encounter framework adds over 250 new encounters.
+
+---
+
+2/14/2024 UPDATE:
+
+---
+
 **Removed Mods:**
 
 1. Luxor's Greenery 2k - Excessive foliage.
