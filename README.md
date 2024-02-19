@@ -287,7 +287,7 @@ Thank you to <a href="http://enbdev.com/">Boris</a> for ENB and <a href="https:/
     * **Step 1:** Press ESC and access the MCM Settings Manager.
     ![Click here to view Step 1](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/eb6ebe41-ab0c-426c-969c-8b89ac1c0fbc)
 
-    * **Step 2:** Click on "Apply" on the settings slot. Ignore any error prompts as they won't cause any harm.
+    * **Step 2:** Click on "Apply" on the settings slot called "Fallout Anomaly Settings Manager" Save your game and reload from the save you just created.
     ![Click here to view Step 2](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/db2a3663-7d03-4dbd-91cc-87c4397ca580)
 
     * **Step 3:** Save your game and then reload it.
