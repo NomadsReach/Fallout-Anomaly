@@ -42,6 +42,7 @@ Implemented optimizations and more conflict patching to reduce crashes and impro
 
 - Please remember to apply the MCM Settings Manager preset again, then go into Advanced Needs and apply it's needs preset. Unforntantely the way this mod is designed it must be manually set up. Save your game and reload that save. 
 
+- Please see [Optional](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Optional.md) for other added features.
 
 ---
 
