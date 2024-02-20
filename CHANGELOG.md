@@ -1,3 +1,51 @@
+2/20/2024 UPDATE: <ins>NEW SAVE REQUIRED</ins> - Please remember this is under beta. New save is required due to removal of BLD. 
+
+---
+
+
+**Environment Update:**
+
+- Replaced A Forest with Another Pine Forest Mod - Let me know what you think!.
+
+**Armor Balancing:**
+
+- Implemented multiple nerfs to various armor types to enhance game balance.
+
+**Startup Optimization:**
+
+- Reduced the number of startup messages - still testing.
+
+**Mod Removal:**
+
+- Removed Better Locational Damage mod as it overlapped with MAIM and caused potential conflicts. MAIM covers pretty much all of BLD and even more. Maim 3.0 to be released soon! 
+
+**Enemy Adjustments:**
+
+- Lowered health and damage output of licker enemies for better gameplay balance.
+
+**Crafting Organization:**
+
+- Moved several armor types from the chembench to the armor workbench for improved accessibility.
+
+**Weapon Adjustment:**
+
+- Nerfed base damage of the glock firearm to adjust its power level.
+
+
+**Performance Enhancements:**
+
+Implemented optimizations and more conflict patching to reduce crashes and improve overall stability.
+
+**Gameplay Tweaks**
+
+- Headshots are a must if you want to survive. Same goes for the player. If you are shot in the head it's pretty much means dearth unless you have some type of protection. Ghouls will not go down easy unless shot in the head.
+
+- Please remember to apply the MCM Settings Manager preset again, then go into Advanced Needs and apply it's needs preset. Unforntantely the way this mod is designed it must be manually set up. Save your game and reload that save. 
+
+
+---
+
+
 2/19/2024 UPDATE:
 
 
