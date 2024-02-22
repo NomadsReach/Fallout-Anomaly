@@ -1,3 +1,10 @@
+2/22/20024 UPDATE: 
+
+New custom launcher created.
+General crash fixes resolved.
+
+---
+
 2/20/2024 UPDATE: <ins>NEW SAVE REQUIRED</ins> - Please remember this is under beta. New save is required due to removal of BLD. 
 
 ---
