@@ -19,28 +19,11 @@
   ·
 </p>
 
+### Click [here for the install video.](https://www.youtube.com/watch?v=z2EXvKHlHRU) 
 
-<!-- Table of Contents -->
+<strong> THIS DOES NOT EXCUSE YOU FROM READING EVERYTHING BELOW! Your failure to read will result in crashing. You MUST still go over everything below!</strong>
 
-  ## Table of Contents
-  
-  - [About](#about)
-  - [Minimum Specs and Install](#minimum-specs-and-install)
-  - [Wabbajack](#wabbajack)
-  - [Updating](#updating)
-  - [Launching Fallout Anomaly Via MO2](#launching-fallout-anomaly)
-  - [Final Steps](#final-steps)
 
-    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Optional.md">Optional</a>
-    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/PageFile.md">PageFile</a>
-    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Issue%20Tracker.md">Issue Tracker</a>
-    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Known%20Issue.md">Known Issue</a>
-    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/What%20to%20do%20if%20you%20crash.md">How to report a crash.</a>
-    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/issues/new/choose">Mod/Feature Request</a>
-    <li><a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/CHANGELOG.md">Mod/ChangeLog(Updates)</a>
-      
-
-  
   ### <strong><ins>About</strong></ins>
 <details>
   <summary><strong>Background</strong></summary>
@@ -85,10 +68,13 @@
 <details>
   <summary><strong>Pre-Installation</strong></summary>
 
-- [Microsoft Visual C++ x64 and x86](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) - **Must be installed!**
+- [Microsoft Visual C++ x64 and x86](https://github.com/abbodi1406/vcredist/releases/download/v0.78.0/VisualCppRedist_AIO_x86_x64.exe) - **Must be installed! Open the launcher and let it run through all steps.**
 - [NET Framework 4.6.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-web-installer) - **Must be installed!**
+- [DirectX Redist (June 2010)](https://www.microsoft.com/en-us/download/details.aspx?id=8109) - **Pick your language, download, and install.**
 - [Vanilla Game Folder](https://www.youtube.com/watch?v=zwTJ3jImCiQ&t=1s) - **Please see the video below.**
 - [PageFile Setup](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/PageFile.md) - **Please click the blue link for instructions. This step is very important.**
+
+<strong>FAILURE TO INSTALL ALL ABOVE WILL RESULT IN CRASHING</strong>
 
 [![](https://img.youtube.com/vi/zwTJ3jImCiQ/0.jpg)](https://www.youtube.com/watch?v=zwTJ3jImCiQ)
 
