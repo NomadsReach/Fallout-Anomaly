@@ -1,6 +1,6 @@
 2/22/20024 UPDATE: 
 
-New custom launcher created.
+New custom launcher created. - More options added, code is here: https://github.com/NomadsReach/Fallout-Anomaly-Launcher
 General crash fixes resolved.
 
 ---
