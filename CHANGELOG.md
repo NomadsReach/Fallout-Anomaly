@@ -1,3 +1,41 @@
+2/24/2024 UPDATE: SAVE GAME SAFE! Overwrite install in wabbajack per the read me instructions.
+
+- Crash at start fixed!
+- ENB Organizer added! A new way to change your ENB! https://www.nexusmods.com/skyrim/mods/67077
+- New Intro! https://www.nexusmods.com/fallout4/mods/62182 & https://www.nexusmods.com/fallout4/mods/46508
+- True Damage and patches added! https://www.nexusmods.com/fallout4/mods/66071
+- DirectHit added! https://www.nexusmods.com/fallout4/mods/75098
+- Dynamic Helmet added! https://www.nexusmods.com/fallout4/mods/46960
+- Lucky 7 - Hardcore Start added! https://www.nexusmods.com/fallout4/mods/69381
+- TAA Flicker Fixer added! https://www.nexusmods.com/fallout4/mods/64734
+- Heather Casdin - A Unique Companion Experience by llamaRCA UPDATED! https://www.nexusmods.com/fallout4/mods/23273
+
+
+---
+**Gameplay changes**
+
+- Flashlight no longers give rads simply by not having a fusion cell in your pocket.
+- Feral night NPCS will now stay spawned in during day.
+- Several tweaks to the barter system.
+- Damage done to the player and damage output from player tweaked with several changes. Headshots still deadly!
+- Armor plates nerfed.
+---
+
+**Keybindings**
+
+- F5 to wait at anytime.
+- Wheel menu is now H
+- Active is now F
+- You can now lean by pressing Q or E
+- Check ammo count is U. Hold it down for an exact number.
+- Night vision is now N.
+- Backpack is still B without issue.
+- Watch key disabled.
+- See the rest under hotkey manager at bottom of MCM menu!
+
+---
+
+
 2/22/20024 UPDATE: 
 
 New custom launcher created. - More options added, code is here: https://github.com/NomadsReach/Fallout-Anomaly-Launcher
