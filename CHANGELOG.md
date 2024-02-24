@@ -1,5 +1,8 @@
 2/24/2024 UPDATE: SAVE GAME SAFE! Overwrite install in wabbajack per the read me instructions.
 
+
+NOTE: Launcher has been disabled for development purposes. Please utilize BethINI if your resolution and FOV settings are not to your preference.
+
 - Crash at start fixed!
 - ENB Organizer added! A new way to change your ENB! https://www.nexusmods.com/skyrim/mods/67077
 - New Intro! https://www.nexusmods.com/fallout4/mods/62182 & https://www.nexusmods.com/fallout4/mods/46508
