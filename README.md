@@ -175,9 +175,11 @@ Updating is similar to installing. Simply ensure to select the same path and che
   * F4SE is Fallout 4 Script Extender. This program is the lifeline of most mods for Fallout and will be used to launch Fallout Anomaly.
     
     ![F4SE](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/9e575f2d-2cc1-4f64-a671-9bbe586d3e4e)
+    </details>
+    <details>
+   <summary><strong>ENBS</strong></summary> 
 
-
-    
+   - Please see [HERE](https://github.com/NomadsReach/Fallout-Anomaly/edit/master/Optional.md) on our ENB support.
 
 </details>
 
