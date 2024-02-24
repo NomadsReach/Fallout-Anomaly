@@ -1,3 +1,16 @@
+2/24/2024 UPDATE V2: 
+
+---
+
+- Our previous reliance on ENB managers has persisted with ongoing issues, particularly their struggle to adapt dynamically to different directories and the Wabbajack stock folder option. Therefore, manual intervention remains the most effective approach to ensure functionality, fortunately, a straightforward process. Please navigate to the "ENBS" folder within MO2 for detailed instructions.
+
+- In an effort to address the persistent museum crash, we have implemented new changes. Older downloads have been removed to streamline the system.
+
+- Additionally, support for hot-swapping between keyboard and controller inputs has been further enhanced.
+
+---
+
+
 2/24/2024 UPDATE: SAVE GAME SAFE! Overwrite install in wabbajack per the read me instructions.
 
 
