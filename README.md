@@ -152,121 +152,52 @@ Updating is similar to installing. Simply ensure to select the same path and che
 
 </details>
 
-### <ins><strong>Launching Fallout Anomaly<strong></ins>
-  <details>
-  <summary><strong>Click Here</strong></summary>
-    Before launching Fallout Anomaly, we will open BethINI to verify your display settings are set correctly. To do so, head to your newly installed Fallout Anomaly folder and locate the tools folder. (E:\ModLists\Anomaly 4.6\tools) Inside this folder, please locate "BethINI" and launch it from here. <strong>It is essential you <ins>DO NOT</ins> change anything here but your display resolution.</strong> The inis have been optimized for the best usage of Fallout Anomaly and your PC. Changing any other settings can cause crashing, visual issues, or worse performance. Upon completing this step please hit save in BethINI and close the program. Go back to the main Anomaly folder and launch mod organizer.exe
-  </p>
-
-![step1](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/838bcff7-50ec-47b1-a4fb-287034f7cc53)
-![save2](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/b783d988-bdfa-4dc6-81b8-d6930e54f4f0)
-![Step3](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/decac86a-df39-467f-a5db-813f99e404e0)
-
-  
-
-  <p>
-    Upon launching Mod Organizer 2 (MO2), you may initially feel overwhelmed by the interface. However, we have streamlined the entire process for your convenience. In the top right corner, you will find several options such as F4SE, ENB Manager, and Crash Scanner. We will discuss these options in more detail later on. At this point, you are ready to launch the game.
-
-
-  <details>
-    <summary><h3>F4SE</h3></summary>
-    
-    
-  * F4SE is Fallout 4 Script Extender. This program is the lifeline of most mods for Fallout and will be used to launch Fallout Anomaly.
-    
-    ![F4SE](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/9e575f2d-2cc1-4f64-a671-9bbe586d3e4e)
-    </details>
-    <details>
-   <summary><strong>ENBS</strong></summary> 
-
-   - Please see [HERE](https://github.com/NomadsReach/Fallout-Anomaly/edit/master/Optional.md) on our ENB support.
-
-</details>
-
-### <ins><strong>Crash Reporting<strong></ins>
-  <details>
-   
-  * A simple tool for scanning your Buffout 4 crash logs, game and mod files. Automatically detects problems in around 250 different cases. GUI included.
-    Previously known as Crash Log Auto Scanner (CLAS) Nexus [Link](https://www.nexusmods.com/fallout4/mods/56255?tab=description)
-
-    Due to how large of a mod list is and just how buggy Fallout 4 is in general we are bound to run into crashes, but thankfully we have some of the best modders to help us with these issues. If you run into a crash please follow the steps below. if it does not please open a ticket on the discord or here on the github under bug reports.
-
-* Step 1: Open up Mod Organizer and click on Crash Report in the top right. Ensure the program looks just like the picture below.
-
----
-  ![image](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/e1dfc913-89c2-40d6-8420-167047d57f3f)
-
----
-
-* Step 2 Click Scan Crash Logs and let the command run. 
----
-![image](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/3824d824-2229-4fac-9b5e-81c98b4bbf6c)
----
-
-* Step 3: Attach your crash log to the report page, click [here](https://github.com/NomadsReach/Fallout-Anomaly/issues/new/choose) and click "Get started" under bug report.
-
----
-
-![image](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/88097133-f429-4cc5-984c-f3200e08567c)
-
----
-
-* Step 4: After making your report you can close out of the CLAS and follow the prompt of the crash reporter tool you opened in Step 1.
-
-![image](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/135519ea-c357-4658-afa4-fa266abd3a2b)
-
----
-
-
-
-
-   </details>  
-   <details>
-
-
-  </details>
-
-</details>
-
-### <ins><strong>Final Steps<strong></ins>
+### <ins><strong>Launching Fallout Anomaly</strong></ins>
 
 <details>
-  <summary><strong>Click Here</strong></summary>
-  
-  See [Here](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Optional.md) for our optional mods and 21:9 32:9 support. Also includes ENB support.
+<summary><strong>Click Here</strong></summary>
+<p>Upon launching Mod Organizer 2 (MO2), you might initially find the interface complex. However, the process has been simplified for ease. In the interface's top right corner, look for the option labeled F4SE and click it to launch the game.</p>
 
-  See [Here](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Performance.md) for extra performance options. (PENDING IMPLEMENTATION 02/2024) 🚧🚧🚧
+#### <ins>F4SE (Fallout 4 Script Extender)</ins>
+<p>F4SE is crucial for the functioning of most Fallout mods and is used specifically to launch Fallout Anomaly.</p>
 
-  See [Here](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Known%20Issue.md) for known issues. (PENDING IMPLEMENTATION 02/2024) 🚧🚧🚧
+![F4SE](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/9e575f2d-2cc1-4f64-a671-9bbe586d3e4e)
 
-  See [Here](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Issue%20Tracker.md) to make a bug report.
+#### <ins>ENB Support</ins>
+<p>For ENB support and instructions, please visit <a href="https://github.com/NomadsReach/Fallout-Anomaly/edit/master/Optional.md">HERE</a>.</p>
 
-  See [Here](https://github.com/NomadsReach/Fallout-Anomaly/issues/new/choose) to make a mod/feature request.
 
-* Once you're in the game, please navigate through the menus by selecting "Yes" or "No." Allow a few minutes for all scripts to load after this process.
 
-* Once you've completed the above steps, please follow these instructions:
 
-    * **Step 1:** Press ESC and access the MCM Settings Manager.
-    ![Click here to view Step 1](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/eb6ebe41-ab0c-426c-969c-8b89ac1c0fbc)
-
-    * **Step 2:** Click on "Apply" on the settings slot called "Fallout Anomaly Settings Manager" Save your game and reload from the save you just created.
-
-    ![Step2](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/images/306024184-fe31279d-599b-4e5c-9afe-e78036dc8b90.png)
-
-    * **Step 3:** Save your game and then reload it.
-
-    * **Step 4:** If your HUD doesn't update, reopen the MCM menu, navigate to FallUI HUD, and apply the S.T.A.L.K.E.R. HUD. Save your settings, reload the game, and enjoy the changes.
-    ![Click here to view Step 4](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/a55eb271-2113-4349-82be-926aafad343c)
 
 
 </details>
+<details>
+  <summary><strong>Final Steps</strong></summary>
 
-  
- 
+   See <a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Optional.md">Here</a> for our optional mods and 21:9 32:9 support. Also includes ENB support.
 
-  <!-- Add your final steps here -->
+  See <a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Performance.md">Here</a> for extra performance options. (PENDING IMPLEMENTATION 02/2024) 🚧🚧🚧
 
+   See <a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Known%20Issue.md">Here</a> for known issues. (PENDING IMPLEMENTATION 02/2024) 🚧🚧🚧
+
+  See <a href="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Issue%20Tracker.md">Here</a> to make a bug report.
+
+   See <a href="https://github.com/NomadsReach/Fallout-Anomaly/issues/new/choose">Here</a> to make a mod/feature request.
+    
+   * Once you're in the game, please navigate through the menus by selecting "Yes" or "No." Allow a few minutes for all scripts to load after this process.
+    
+  * Once you've completed the above steps, please follow these instructions:
+    
+       * **Step 1:** Press ESC and access the MCM Settings Manager.
+      <img src="https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/eb6ebe41-ab0c-426c-969c-8b89ac1c0fbc" alt="Click here to view Step 1" style="max-width:100%;">
+    
+      * **Step 2:** Click on "Apply" on the settings slot called "Fallout Anomaly Settings Manager" Save your game and reload from the save you just created.
+    
+      <img src="https://github.com/NomadsReach/Fallout-Anomaly/blob/master/images/306024184-fe31279d-599b-4e5c-9afe-e78036dc8b90.png" alt="Step2" style="max-width:100%;">
+    
+       * **Step 3:** Save your game and then reload it.
+    
+       * **Step 4:** If your HUD doesn't update, reopen the MCM menu, navigate to FallUI HUD, and apply the S.T.A.L.K.E.R. HUD. Save your settings, reload the game, and enjoy the changes.
+        <img src="https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/a55eb271-2113-4349-82be-926aafad343c" alt="Click here to view Step 4" style="max-width:100%;">
 </details>
-
-<hr>
