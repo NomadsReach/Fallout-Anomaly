@@ -1,3 +1,45 @@
+2/26/2024 UPDATE: 
+
+---
+
+1. **Backpack Carry Limit Mod Removal**: The backpack carry limit mod has been removed due to conflicts with other modifications causing unexpected behavior.
+
+2. **Fallout 3 Feral Ghoul Replacer Removal**: The Fallout 3 Feral Ghoul replacer has been removed as it did not fix with our other textures.
+
+3. **Minimap Mod Addition**: A minimap mod has been added to enhance navigation and exploration.
+
+4. **Minimap Controls**: 
+   - Press Numpad - to enable the minimap.
+   - Adjust minimap distance with Numpad +.
+
+5. **Mine Issue Fix**: An issue related to mines has been addressed and fixed.
+
+6. **New Stalker HUD**: A new Stalker HUD has been implemented. Please provide feedback on its functionality and usability.
+
+7. **Hunting Shotgun Backpack Carry Limit (BCR) Support**: Support for the backpack carry limit has been added for the Hunting Shotgun.
+
+8. **Glock Ammunition Switch**: The Glock firearm has been switched from 10MM to 9MM ammunition support for better balance and consistency.
+
+9. **Minutemen Ghost Rifle Scope issue hopefully resolved**
+
+10. **Ongoing research into museum crash and workshop crash issue.**
+
+11. **Root Folder support added with ENBS being installed via ROOT. Look for the ENBs in Optional at very bottom.**
+
+12. **Gas masks should now apply and prevent some or all rad damage via robco. Some still need to be patched in.**
+
+13. **Heather's weapons should now show up as they should and patched in as the modded weapon.**
+
+14. **Binoculars should now work as intended.**
+
+15. **Added FOV Slider Mod**
+
+16. **Added Sdak awesome car mod. Please report any issues with it**
+
+---
+
+
+
 2/24/2024 UPDATE V2: 
 
 ---
