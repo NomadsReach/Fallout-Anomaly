@@ -11,12 +11,8 @@
 
 ### ENB
 
-- In the optional tab please find "ENBS" and open it.
+- In the optional tab please find "[Optiona] ENBS.
 
-![image](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/4a4054c9-ce68-4266-8243-41e15fdd774c)
+![Annotation 2024-02-26 214355](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/3ce68e87-965b-4970-a73f-e8959313b0ec)
 
-- From there please open the read me and go over it. 
-
-![image](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/1e8c3232-3672-420e-8e9d-e135faa0d8c4)
-
-![image](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/3648be16-cbfa-4e83-a033-d7e4c72fb46b)
+- From there please only have one ENB enabled at a time! The rest has been taken care of for you.
