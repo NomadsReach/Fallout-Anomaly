@@ -34,7 +34,7 @@
 
 15. **Added FOV Slider Mod**
 
-16. **Added Sdak awesome car mod. Please report any issues with it**
+16. **SDAK car mod to be added this weekend.**
 
 17. **NAC X will now be the main weather mod.** 
 
