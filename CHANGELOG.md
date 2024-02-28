@@ -1,4 +1,4 @@
-2/26/2024 UPDATE: 
+2/26/2024 UPDATE: NEW SAVE REQUIRED!!
 
 ---
 
@@ -35,6 +35,12 @@
 15. **Added FOV Slider Mod**
 
 16. **Added Sdak awesome car mod. Please report any issues with it**
+
+17. **NAC X will now be the main weather mod.** 
+
+18. **God mod bug has been fixed.**
+
+19. **New fix to hopefully fix the Concord Museum crash**
 
 ---
 
