@@ -1,6 +1,6 @@
 <a name="falloutanomalymaster"></a>
 
-![Fallout Anomaly](https://github.com/NomadsReach/Test32/assets/144523850/c415a315-09ae-4fd7-985e-59e007b32493)
+![Fallout Anomaly](https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/master/images/74075-1708904095-15055222.png)
 
 ![Digital Construction](https://www.fg-a.com/under-construction/digital-construction.gif)
 
