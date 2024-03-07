@@ -106,9 +106,9 @@
 
 ---
 
-To begin, ensure that Wabbajack is installed on your system. It's crucial to install it in a location separate from your typical profile folder to avoid errors. You can download Wabbajack from the following link: [Wabbajack](https://www.wabbajack.org/). For example, you might choose to install it in C:\Wabbajack.
+To begin, ensure that Wabbajack is installed on your system. It's crucial to install it in a location separate from your typical profile folder to avoid errors. You can download Wabbajack from the following link: [Wabbajack](https://www.wabbajack.org/). For example, you might choose to install it in C:\Wabbajack Install\Wabbajack. Do not install directly at the root of your O.S. drive.
 
-Once Wabbajack is successfully installed, create a new folder dedicated to Fallout Anomaly. For instance, you can create a folder at C:\Fallout Anomaly.
+Once Wabbajack is successfully installed, create a new folder dedicated to Fallout Anomaly. For instance, you can create a folder at C:\Mod List Installs\Fallout Anomaly.
 
 The next step involves downloading the mod list. You have two options to accomplish this:
 
