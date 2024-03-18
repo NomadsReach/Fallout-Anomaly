@@ -82,7 +82,7 @@
 
 ---
 
-### **Finally, make sure to uninstall the HD texture pack. It is highly flawed, and we have much better options.**
+### **Finally, make sure to uninstall the HD texture pack. It is highly flawed, and we have much better options. You will also need to have a ENGLISH version of the game!**
 
 1. Open Steam
 2. Navigate to your Library
@@ -150,8 +150,8 @@ Updating is similar to installing. Simply ensure to select the same path and che
 
 Upon launching Mod Organizer 2 (MO2), you might initially find the interface complex. However, the process has been simplified for ease. In the interface's top right corner, look for the option labeled F4SE and click it to launch the game.
 
-#### **F4SE (Fallout 4 Script Extender)**
-F4SE is crucial for the functioning of most Fallout mods and is used specifically to launch Fallout Anomaly.
+#### **F4SE (Launch Fallout Anomaly) (Fallout 4 Script Extender)**
+F4SE is crucial for the functioning of most Fallout mods and is used specifically to launch Fallout Anomaly. - F4SE will be named "Launch Fallout Anomaly" in the mod launcher.
 
 ![F4SE](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/9e575f2d-2cc1-4f64-a671-9bbe586d3e4e)
 
@@ -159,7 +159,12 @@ F4SE is crucial for the functioning of most Fallout mods and is used specificall
 For ENB support and instructions, please visit [HERE](https://github.com/NomadsReach/Fallout-Anomaly/edit/master/Optional.md).
 
 </details>
+<details>
+<summary>Crash Handling</summary>
 
+If the game crashes while you're playing, a log will pop up providing details about the crash. Please save this log to a location where you can easily upload it to the GitHub bug report section [here](https://github.com/NomadsReach/Fallout-Anomaly/issues/new/choose). Additionally, include your most recent save file for further analysis.
+
+</details>
 <details>
   <summary>Final Steps</summary>
 
