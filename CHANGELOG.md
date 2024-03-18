@@ -36,6 +36,7 @@
    - Retexture - Electrical Tower - Seen some shit - Added.
    - Rosanna The Mean (Fallout Anomaly) Female Preset - Added.
    - Toula The Synth (Fallout Anomaly) Female Preset - Added.
+   - REAL AI removed due to user feedback.
 
 4. **Compatibility and Stability:**
    - Removed Advanced Needs due to expansion beyond a needs mod, replaced with a more balanced framework, Survival Menu.
