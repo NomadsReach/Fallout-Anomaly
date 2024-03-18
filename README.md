@@ -164,6 +164,8 @@ For ENB support and instructions, please visit [HERE](https://github.com/NomadsR
 
 If the game crashes while you're playing, a log will pop up providing details about the crash. Please save this log to a location where you can easily upload it to the GitHub bug report section [here](https://github.com/NomadsReach/Fallout-Anomaly/issues/new/choose). Additionally, include your most recent save file for further analysis. If you are more familar with the crash tool you can also run it to generate the log yourself.
 
+**PLEASE ENSURE YOU SET UP AN EXCEPTION IN YOUR ANTIVIRUS FOR MO2.EXE, FALLOUT4.EXE, F4SE_LOADER.EXE, AND FINALLY THE "STOCK FOLDER" IN THE MOD ORGANIZER 2 FOLDER. THE STOCK FOLDER IS WHERE FALLOUT4.EXE, F4SE.EXE ARE LOCATED!**
+
 </details>
 <details>
   <summary>Final Steps</summary>
