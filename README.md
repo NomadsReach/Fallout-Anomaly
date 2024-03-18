@@ -162,7 +162,7 @@ For ENB support and instructions, please visit [HERE](https://github.com/NomadsR
 <details>
 <summary>Crash Handling</summary>
 
-If the game crashes while you're playing, a log will pop up providing details about the crash. Please save this log to a location where you can easily upload it to the GitHub bug report section [here](https://github.com/NomadsReach/Fallout-Anomaly/issues/new/choose). Additionally, include your most recent save file for further analysis.
+If the game crashes while you're playing, a log will pop up providing details about the crash. Please save this log to a location where you can easily upload it to the GitHub bug report section [here](https://github.com/NomadsReach/Fallout-Anomaly/issues/new/choose). Additionally, include your most recent save file for further analysis. If you are more familar with the crash tool you can also run it to generate the log yourself.
 
 </details>
 <details>
