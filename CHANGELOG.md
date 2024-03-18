@@ -1,3 +1,108 @@
+
+
+---
+
+**3/18/2024 0.4.9.8 UPDATE: NEW SAVE REQUIRED!!**
+
+**Changes Made:**
+
+1. **Features:**
+   - Dynamic helm feature disabled by default.
+   - SS2 realistic build times disabled due to bugs.
+   - MAIM balanced with new game difficulty.
+
+2. **Bug Fixes:**
+   - Fixed hunting shotgun reload crash.
+   - Reverted Stalker HUD to previous version to resolve conflicts with other mods.
+   - Merged and organized bug fixes.
+   - Optimized load order.
+   - Removed True Grass due to conflicts with tree mod.
+   - Removed Tinker's Workbench Remade as it is covered in Eco.
+   - Removed annoying molotov grenade sound from Commonwealth Warfare - Explosions.
+   - Removed Crime and Punishment due to heavy script load, replaced with the new prison system from SS3.
+   - Wilderness mod removed due to potential conflicts with SS2 and limited exploration opportunities.
+   - Synths are no longer invisible.
+   - All Lexington/Corvega known issues have been resolved.
+
+3. **Mod Changes:**
+   - Added Survival Config Menu and Campsite.
+   - Included two new quest mods: "Ashland Station" and "In The Flesh."
+   - Replaced existing weapons with new ones and injected other items.
+   - Replaced Quick Trade with Alternative Activation Prompts.
+   - Removed Wilderness mod due to potential conflicts with SS2.
+   - Subway Runner Revised Added.
+   - Long Loading Time Fix mod removed due to still causing low quality textures.
+   - Oppressor's Flip Lighter (4K) - Replacer - ADDED.
+   - Retexture - Electrical Tower - Seen some shit - Added.
+   - Rosanna The Mean (Fallout Anomaly) Female Preset - Added.
+   - Toula The Synth (Fallout Anomaly) Female Preset - Added.
+
+4. **Compatibility and Stability:**
+   - Removed Advanced Needs due to expansion beyond a needs mod, replaced with a more balanced framework, Survival Menu.
+   - Removed Chef due to conflicts with SS2.
+   - Controls reverted back to vanilla, but keybinds need to be set back in the MCM.
+   - Hopefully resolved crashing issues by removing conflicting mods.
+
+5. **Resolved Issues:**
+   - Weapon issue resolved.
+   - Sky issue resolved.
+   - Uneducated shooter leaning turned off and disabled.
+   - Load order adjusted.
+   - Set "Watch Check Hotkey" to left Shift-Z.
+   - Field of View (FOV) default set to 90 via FOV Slider in MCM.
+   - Workshop model replacer reverted back to the previous one to avoid previs issues.
+   - Adjusted ENBLocal settings based on recommendations.
+   - Difficulty set to survival at default.
+   - NAC replaced with True Storms to resolve flickering screen issues.
+   - New ENBs added for testing and feedback.
+   - ENBlocalini streamlined to have only one copy, ensuring correct placement.
+   - Additional performance tweaks implemented for hopefully improved FPS.
+
+6. **Mods Updated:**
+   - Garden of Eden Papyrus Script Extender - Updated.
+   - SUP F4SE - Updated.
+   - Workshop Framework - Updated.
+   - Workshop Framework Script Override - Updated.
+   - Minimal Minimap - Updated.
+   - Bengal - long-lasting Flare - Updated.
+   - S7 Skill System - A Skyrim Style Leveling Overhaul - Updated.
+   - FO4 Animated Traffic Lights - Updated.
+   - Sim Settlements 2 - All Chapters Pack - Updated.
+   - Settlement Menu Manager Patches - Updated.
+   - Crafting Mastery 2 - Updated.
+   - Eli's Armour Compendium - Updated.
+   - South of the Sea - Atomic Embrace (CBBE) - Updated.
+   - Look At Me - Gunners REDUX - Updated.
+   - Look At Me - Gunners REDUX - PMC Extended patch - Updated.
+   - Cautious Third Person Animations REDUX - Updated.
+   - RobCo - True Damage Patcher - Updated.
+   - Backpacks of the Commonwealth - Sneak Fix - Updated.
+   - Lima Detachment - America Rising 2 Integration - Updated.
+   - Gun For Hire - eXoPatch (Sim Settlements 2 Compat) - Updated.
+   - A StoryWealth Location - Diamond City - Updated.
+   - 4estGimp - Atom's Glory Threads SotS Atom's Storm patch - Updated.
+   - eXoSorter Patch - Updated.
+   - Reaper's Robco Munitions Patches - Updated.
+   - Fallout Anomaly Main Menu - Updated.
+   - Weapons Level List Patches - Updated.
+   - Merged RootBehavior - Updated.
+   - Sim Settlements 2 - Previsibines Expansion Pack - Updated.
+   - Ashland Station - Subway Runner Revised - Updated.
+
+7. **Known Issues:**
+   - Regions still need to be patched.
+   - Super mutants may not use weapons correctly.
+   - Some ENBs cause the Pip-Boy to be blurry.
+   - Some visual issues will still occur in Fens Sewer but have been fixed for most of the area.
+   - Some other visual issues that have not been detected yet may still occur.
+
+--- 
+
+
+
+
+
+
 2/26/2024 UPDATE: NEW SAVE REQUIRED!!
 
 ---
