@@ -181,6 +181,9 @@ If the game crashes while you're playing, a log will pop up providing details ab
    See [HERE](https://github.com/NomadsReach/Fallout-Anomaly/issues/new/choose) to make a mod/feature request.
     
    * Once you're in the game, please navigate through the menus by selecting "Yes" or "No." Allow a few minutes for all scripts to load after this process.
+
+EXCEPTION: Please click YES on this prompt and allow it to load. ![image](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/1883c87d-1cf9-4562-929d-7e088be00c82)
+
     
   * Once you've completed the above steps, please follow these instructions:
     
