@@ -201,5 +201,5 @@ EXCEPTION: Please click YES on this prompt and allow it to load. ![image](https:
 </details>
 <details>
 <summary>Helpful Links & Mod List Guides</summary>
-See [HERE](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Optional.md) for our guides and mods detail instructions.
+               * UNDER CONSTRUCTIONS.
 </details>
