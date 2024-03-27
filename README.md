@@ -50,7 +50,7 @@
 - RAM: Aim for 16GB, but 32GB is even better.
 - Video Card: At least 4GB of memory, ideally 6GB.
 - OS: Windows 10/11 (64-bit).
-- Free Disk Space: At least 300GB, preferably on an SSD for optimal performance.
+- Free Disk Space: At least 350GB, preferably on an SSD for optimal performance. If you have fast download speeds I suggest deleting the download folder if you are suffering on space.
 </details>
 
 <details>
