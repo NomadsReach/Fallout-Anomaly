@@ -75,8 +75,9 @@
 - [DirectX Redist (June 2010)](https://www.microsoft.com/en-us/download/details.aspx?id=8109) - **Pick your language, download, and install.**
 - [Vanilla Game Folder](https://www.youtube.com/watch?v=zwTJ3jImCiQ&t=1s) - **Please see the video below.**
 - [PageFile Setup](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/PageFile.md) - **Please click the blue link for instructions. This step is very important.**
+- [English Voice Files](https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/master/images/englishVoice.png) **Please click the blue link for instruction.**
 
-**FAILURE TO INSTALL ALL ABOVE WILL RESULT IN CRASHING**
+**FAILURE TO INSTALL ALL ABOVE WILL RESULT IN CRASHING OR WABBAJACK FAILING TO DOWNLOAD.**
 
 [![Installation Video](https://img.youtube.com/vi/zwTJ3jImCiQ/0.jpg)](https://www.youtube.com/watch?v=zwTJ3jImCiQ)
 
