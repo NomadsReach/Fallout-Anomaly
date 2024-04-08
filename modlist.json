@@ -7,10 +7,11 @@
       "github/NomadsReach"
     ],
     "game": "fallout4",
-    "official": false,
+    "official": true,
     "tags": [
+      "Offical",
       "Beta",
-      "Quests\u002B",
+      "Quests",
       "Sim Settlements 2",
       "S.T.A.L.K.E.R.",
       "Zombies",
