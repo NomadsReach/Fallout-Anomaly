@@ -27,7 +27,9 @@
 
 ### [Install Video](https://www.youtube.com/watch?v=z2EXvKHlHRU) 
 
-**WARNING: READ EVERYTHING BELOW! Failure to read will result in crashing. You MUST go over everything below!**
+**WARNING: READ EVERYTHING BELOW! Failure to read will result in crashing. You MUST go over everything below!** 
+
+**PLEASE JOIN THE DISCORD BY CLICKING THE LINK ABOVE!**
 
 ### **About**
 <details>
