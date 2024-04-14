@@ -9,7 +9,7 @@
 - Introduced Survival Bus Home for mobile shelter.
 - Included new texture mods for improved visuals.
 - Implemented bug fixes and mod updates for stability and compatibility.
-- Much more smaller changes done for private Anomaly patches.
+- More changes done for private Anomaly patches.
 
 ---
 
