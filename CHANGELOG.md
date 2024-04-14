@@ -1,4 +1,15 @@
+4/14/2024 VERSION: 0.4.9.8.1 - NEW SAVE REQUIRED
 
+---
+
+- Added Amazing Follower Tweaks for enhanced companion control.
+- Installed Immersive Hunting Overhaul - replacing Hunter of The Commonwealth
+- Updated NPC faces and body textures for a refreshed appearance.
+- Reintegrated Advanced Needs for immersive survival gameplay.
+- Introduced Survival Bus Home for mobile shelter.
+- Included new texture mods for improved visuals.
+- Implemented bug fixes and mod updates for stability and compatibility.
+- Much more smaller changes done for private Anomaly patches.
 
 ---
 
