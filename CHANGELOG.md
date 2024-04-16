@@ -1,3 +1,16 @@
+4/16/2024 VERSION 0.4.9.8.2 (0.4.9.8) HOTFIX - SAVE SAFE.
+
+   - Diamond City Visual issue resolved.
+   - Colt Weapon/Workbench Crash resolved.
+   - NPC Odd Visuals fixed.
+   - Possible Fix to feral ghoul expansion pack to help prevent it's known crashing.  
+   - Other small fixes and tweaks.
+   - Nick Valentine Face resolved. IW - Synaptic has been removed as this mod has unresolved bugs.
+
+
+---
+
+
 4/14/2024 VERSION: 0.4.9.8.1 (0.4.9.8) - NEW SAVE REQUIRED
 
 ---
