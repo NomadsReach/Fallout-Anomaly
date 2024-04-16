@@ -50,9 +50,10 @@
 
 - CPU: A modern CPU with at least 6 cores and a clock speed of 3GHz.
 - RAM: Aim for 16GB, but 32GB is even better.
-- Video Card: At least 4GB of memory, ideally 6GB.
-- OS: Windows 10/11 (64-bit).
+- Video Card: At least 6GB of memory, ideally 8GB.
+- OS: Windows 10/11 (64-bit). -  **WITH ALL UPDATED DRIVERS!**
 - Free Disk Space: At least 350GB, preferably on an SSD for optimal performance. If you have fast download speeds I suggest deleting the download folder if you are suffering on space.
+- Common knowledge on how to use a computer, how to keep it optimized, and how to keep it updated. If you download the list with a prebuilt that has Norton antivirus running, then you need to familiarize yourself more with computers.
 </details>
 
 <details>
