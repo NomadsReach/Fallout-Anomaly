@@ -1,4 +1,4 @@
-4/16/2024 VERSION 0.4.9.8.2 (0.4.9.8) HOTFIX - SAVE SAFE.
+4/16/2024 VERSION 0.4.9.8.2 (0.4.9.8) HOTFIX - SAVE SAFE ONLY FOR 0.4.9.8.1!!
 
    - Diamond City Visual issue resolved.
    - Colt Weapon/Workbench Crash resolved.
