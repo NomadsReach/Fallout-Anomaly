@@ -202,8 +202,8 @@ EXCEPTION: Please click YES on this prompt and allow it to load. ![image](https:
     
        * **Step 3:** Save your game and then reload it.
     
-       * **Step 4:** If your HUD doesn't update, reopen the MCM menu, navigate to FallUI HUD, and apply the S.T.A.L.K.E.R. HUD. Save your settings, reload the game, and enjoy the changes.
-        ![Click here to view Step 4](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/a55eb271-2113-4349-82be-926aafad343c)
+       * **Step 4:** If your HUD doesn't update, reopen the MCM menu, navigate to the FallUI HUD, and apply the (MAIM Lite) HUD. Save your settings, reload the game, and enjoy the changes. If you use a different hud, you will probably need to adjust the condition boy in the bottom right corner.
+        ![Click here to view Step 4]
 </details>
 <details>
 <summary>Helpful Links & Mod List Guides</summary>
