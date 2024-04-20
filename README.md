@@ -24,8 +24,10 @@
   </a>
 </p>
 
-
+---
 ### [Install Video](https://www.youtube.com/watch?v=z2EXvKHlHRU) <------ **Video is somewhat outdated but most of it still applies!**
+
+---
 
 **WARNING: READ EVERYTHING BELOW! Failure to read will result in crashing. You MUST go over everything below!** 
 
@@ -207,5 +209,5 @@ EXCEPTION: Please click YES on this prompt and allow it to load. ![image](https:
 </details>
 <details>
 <summary>Helpful Links & Mod List Guides</summary>
-               * UNDER CONSTRUCTIONS.
+               **UNDER CONSTRUCTION. - TBA**
 </details>
