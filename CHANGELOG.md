@@ -24,8 +24,8 @@
 - The 10/9x18 caliber is undergoing a reduction and will ultimately be phased out, to be replaced by Munitions 9mm. Correspondingly, weapons utilizing this caliber will also transition to 9mm exclusively. Please promptly report any issues encountered.
 - Ammo damage has been adjusted downwards, along with a considerable reduction in their value. Additionally, the spawn rate of ammo has been significantly decreased. Damage output has also been decreased. In particular shotgun damage halved by 50%.
 - MK18 Sight fixed has been added, please report issues.
-- Colt Pistol may still display as 10mm, but it actually is using 9mm.
-- Ultrawide support is not guaranteed.
+- https://www.nexusmods.com/fallout4/mods/53964 - Read and understand this mod. 
+
 
 ---
 
