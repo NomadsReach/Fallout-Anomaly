@@ -198,7 +198,7 @@ EXCEPTION: Please click YES on this prompt and allow it to load. ![image](https:
        * **Step 1:** Press ESC and access the MCM Settings Manager.
       ![Click here to view Step 1](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/eb6ebe41-ab0c-426c-969c-8b89ac1c0fbc)
     
-      * **Step 2:** Click on "Apply" on the settings slot called "Fallout Anomaly Settings Manager" Save your game and reload from the save you just created.
+      * **Step 2:** Click on "Apply" on the settings slot called "Fallout Anomaly Settings" Save your game and reload from the save you just created.
     
       ![Step2](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/images/306024184-fe31279d-599b-4e5c-9afe-e78036dc8b90.png)
     
@@ -209,5 +209,5 @@ EXCEPTION: Please click YES on this prompt and allow it to load. ![image](https:
 </details>
 <details>
 <summary>Helpful Links & Mod List Guides</summary>
-               **UNDER CONSTRUCTION. - TBA**
+               UNDER CONSTRUCTION. - TBA
 </details>
