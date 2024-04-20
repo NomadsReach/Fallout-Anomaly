@@ -66,7 +66,9 @@
 
 **Advanced Needs:**
 
-- Fast travel disabled to suggest use of survival bus travel located in Lexington.
+**A lot fo these settings may need to be applied manually if the MCM does not force them. AN76 is one of those mods that doesn't work the best with MCM. Use the below as a guide if so.**
+
+- Fast travel disabled to suggest use of survival bus travel located in Lexington. - You may have to manually apply this. 
 - Hunger/Thirst: Time to get hungry/thirsty increased.
 - Food Weight: Enabled.
 - Sleep Healing Factor: Partial - Doctor still needed for extreme injuries.
