@@ -15,6 +15,8 @@
 
 **KNOWN ISSUE & NEED TO KNOW CHANGES**
 - FGEP(FERAL GHOUL EXP PACK) KNOWN CRASH - A TEMP FIX HAS BEEN PUT IN PLACE FOR THIS. PLEASE REPORT ANY CRASH LOGS THAT TRIGGER FROM THIS MOD!
+- F is still the interact key. This is done to support the leaning mod.
+- MCM Keybinds is an ongoing task and will be updated from time to time.
 - Colt Pistol may still display as 10mm, but it actually is using 9mm.
 - Ultrawide support is not guaranteed.
 - 120 FPS mod has been added to optional section. Not guaranteed to cause issues.
