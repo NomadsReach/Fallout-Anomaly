@@ -14,7 +14,7 @@
 ---
 
 **KNOWN ISSUE & NEED TO KNOW CHANGES**
-
+- FGEP(FERAL GHOUL EXP PACK) KNOWN CRASH - A TEMP FIX HAS BEEN PUT IN PLACE FOR THIS. PLEASE REPORT ANY CRASH LOGS THAT TRIGGER FROM THIS MOD!
 - Colt Pistol may still display as 10mm, but it actually is using 9mm.
 - Ultrawide support is not guaranteed.
 - Laser Weapon Garand has been phased out due to crash issue. You will need to respawn the laser musket if on your character.
