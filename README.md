@@ -25,7 +25,7 @@
 </p>
 
 
-### [Install Video](https://www.youtube.com/watch?v=z2EXvKHlHRU) 
+### [Install Video](https://www.youtube.com/watch?v=z2EXvKHlHRU) <------ **Video is somewhat outdated but most of it still applies!**
 
 **WARNING: READ EVERYTHING BELOW! Failure to read will result in crashing. You MUST go over everything below!** 
 
