@@ -17,7 +17,7 @@
 
 **KNOWN ISSUE & NEED TO KNOW CHANGES**
 - FGEP(FERAL GHOUL EXP PACK) KNOWN CRASH - A TEMP FIX HAS BEEN PUT IN PLACE FOR THIS. PLEASE REPORT ANY CRASH LOGS THAT TRIGGER FROM THIS MOD!
-- F is still the interact key. This is done to support the leaning mod.
+- F is still the interact key. This is done to support the leaning mod which can be enabled in the optional mods section.
 - MCM Keybinds is an ongoing task and will be updated from time to time.
 - Colt Pistol may still display as 10mm, but it actually is using 9mm.
 - Ultrawide support is not guaranteed.
