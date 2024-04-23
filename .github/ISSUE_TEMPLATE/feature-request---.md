@@ -1,15 +1,6 @@
----
-name: "Feature request \U0001F680"
-about: Suggest an idea
-labels: enhancement
+**READ ME HAS BEEN MOVED HERE** [FALLOUT ANOMALY INSTALL GUIDE 2024](https://doc.clickup.com/9014300118/d/h/8cmpkep-6174/ae0788e9f3d2615)
 
----
 
-## Summary
-Brief explanation of the feature.
+MAKE A BUG REPORT: https://falloutanomaly.fillout.com/bugreports
 
-### Basic example
-Include a basic example or links here.
-
-### Motivation
-Why are we doing this? What use cases does it support? What is the expected outcome?
+MAKE A SUGGESTION: https://falloutanomaly.fillout.com/suggestions
