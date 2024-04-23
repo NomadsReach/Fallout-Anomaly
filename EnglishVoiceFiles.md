@@ -1,6 +1,0 @@
-- To address the issue where Wabbajack cannot download English voice files, follow these steps:
-  - First, open Steam and navigate to your game library to find Fallout 4.
-  - Right-click on Fallout 4 and select "Properties."
-  - In the general settings tab, locate the "Language" option and change it to English.
-  - Next, verify your game files in the "Installed Files" section.
-  - After completing these steps, close Wabbajack and relaunch it. This should resolve the error. However, please note that Anomaly is only supported in the English language, meaning all voiced characters will now speak English.
