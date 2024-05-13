@@ -83,7 +83,9 @@ Once you've crafted the workbench and your battery, it will last for about 2 min
 
 30. Backpacks are now required and strong back perk has been removed. Player starts with 50 carry weight on their person and backpacks will give 100 carry weight. Some backpacks will have the ability to adjust the players internal carry weight.
 
-31. Multiple small balance changes and bug fixing done.
+31. New Boss Type Enemy...good luck.
+
+32. Multiple small balance changes and bug fixing done.
 
 ---
 
