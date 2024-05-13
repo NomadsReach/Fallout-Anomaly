@@ -1,3 +1,92 @@
+**5/13/2024 - NEW SAVE MUST BE DONE!
+---
+Updates:
+
+1. SS2 Removal and Functionality:
+   - Successfully removed SS2 (Sim Settlement 2) to address community concerns regarding performance issues, which were overstressing the game engine and potentially leading to crashes or save corruption. This decision was made collaboratively to prioritize stability. With SS2 removed, resources previously allocated to it can now be redirected to adding new content that was previously inaccessible due to resource limitations imposed by SS2.
+
+2. Night Vision Alternative:
+   - Developed an alternative solution for night vision. No longer needing to switch between multiple different armor types and conflict issues. You'll need 1 TM Battery, which can be crafted at the electronics workbench. Note that this workbench must be initially unlocked at the engineer workbench.
+
+Once you've crafted the workbench and your battery, it will last for about 2 minutes for flashlight and night vision goggles usage. As you progress further, you can craft NVG and even a recharge device, eliminating the need to make more batteries.
+
+3. Pipboy WS Integration:
+   - Integrated Pipboy WS into the game.
+
+4. Resolution of Pink Raider Texture Issue:
+   - Investigated and resolved the texture issue affecting Pink Raider, potentially linked to PipPad.
+
+5. Previs Patching:
+   - Currently underway with previs patching, enhancing the modlist performance overall.
+
+6. Weapon Patching and Expansion:
+   - New patches to fix some reported weapon issues and added additional weapons to level list.
+
+7. Replacement of Soda Machine:
+   - Replaced malfunctioning soda machine with a functional one, featuring an activator for player interaction.
+
+8. Enhanced Lighting and FX:
+   - Implemented enhanced lighting (AKA ELFX) patching of Previs Underway.
+
+9. NPC Armor Loading Issue:
+    - Currently investigating and addressing issues related to certain NPC armors not loading correctly.
+
+10. FIS Complex Patcher:
+    - Developed a patcher for FIS & Complex Sorter to provide tags/icons to game items.
+
+11. Prologue Outfit Adjustment:
+    - Modified Prologue outfits to better align with the default character. (More options coming)
+
+12. Replacement of S7 with Hot Diggity Redux:
+    - Replaced S7 Skill System with Hot Diggity Redux, currently undergoing rigorous testing to ensure seamless compatibility and stability. Consideration will be given to potentially reintroducing it in the future once it exits the beta phase and proves itself to be more reliable, especially for a large mod list and a substantial user base.
+
+13. Removal of Crashing Presets:
+    - Removed presets that were causing the game to crash upon loading character.
+
+14. Update of Outdated Mods:
+    - Updated all outdated mods to their latest versions, ensuring compatibility with the current build.
+
+15. Read Me Update with Installation Video:
+    - Updated the Read Me file with a new installation video guide, simplifying the installation process for players.
+
+16. Development of New Keybinds:
+    - Creating new keybinds to support all mods.
+
+17. Expansion of Controller Support:
+    - Expanding controller support to accommodate a wider range of gameplay preferences and accessibility needs. - Still limited to vanilla game controls and very few mods supported.
+
+18. Music and Audio Revamp:
+   - Overhauling music and audio options to align more closely with the atmospheric tone of the Stalker game.
+
+19. Removal of Enjoy the Darkness (Flashlight Rads):
+   - Temporarily removing Enjoy the Darkness (Flashlight Rads) from the game due to widespread user complaints. Will look at adding it back as a optional mod.
+
+20. The APC issue in American Rising is currently under investigation. If necessary, the APC mod will be removed to ensure compatibility. Update: The only current resolution is to make a patch to move the quest item outside of the APC. Unreliable due to AM2 having multiple updates. Removing APC Mod....
+
+21. Removal of Quick Modification Weapon (Q.M.W.) due to its susceptibility to users exploiting weapon attachments, and its limited support for only a few select weapons.
+
+22. Advanced Needs removed and replaced with Survival Mode/ Immersive Hunting Overhaul. Game will be set in Survival Mode.
+
+23. Removal of Children of Ug Qualtoth.esp due to it's buggy and outdated nature.
+
+24. Corrected Photo Output.
+
+25. Adjusted HighFPS.ini to help with loading times. Load screen may seem black. This is normal.
+
+26. Fixed an issue with Pipboy killing off FPS and setting at 2-5 FPS.
+
+27. Vault-Tec MPL removed due to unresolved issues from the mod itself. Last update from 2017-2018.
+
+28. Added Long Loading Times Mod back to see if it can help with loading.
+
+29. Added multiple new crafting changes and survival changes. Tools must be needed to craft and balance of crafting output nerfed such as water output, food, etc. Sewe here for more: https://www.nexusmods.com/fallout4/mods/50890?tab=posts
+
+30. Backpacks are now required and strong back perk has been removed. Player starts with 50 carry weight on their person and backpacks will give 100 carry weight. Some backpacks will have the ability to adjust the players internal carry weight.
+
+31. Multiple small balance changes and bug fixing done.
+
+---
+
 
 **4/19/2024 VERSION 0.4.9.8.2 (0.4.9.8) Minor Patch/ Changes. - SAVE SAFE ONLY FOR 0.4.9.8.1!!!**
 
