@@ -85,7 +85,9 @@ Once you've crafted the workbench and your battery, it will last for about 2 min
 
 31. New Boss Type Enemy...good luck.
 
-32. Multiple small balance changes and bug fixing done.
+32. New Alternate Start added.
+
+33. Multiple small balance changes and bug fixing done.
 
 ---
 
