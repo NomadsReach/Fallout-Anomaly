@@ -1,4 +1,21 @@
-**5/13/2024 - NEW SAVE MUST BE DONE!
+**5/14/2024 - HOTFIX SAVE SAFE!**
+---
+
+1.  Fixed HUD issue with container overlays.
+2.  Corrected Medic perk display in the crafting menu.
+3.  Buffed Metro Gas Mask and added IHO keyword.
+4.  Simplified medical items in the crafting bench to be less confusing.
+5.  Adjusted damage values based on player feedback.
+6.  Added multiple new keybinds, focusing on VATS/Action Key support.
+7.  Enabled MCM force refresh to apply the update hotfix. Set it to off after applying the MCM preset.
+8.  Nerfed Lone Wanderer carry weight bonus.
+9.  Removed Synthesis.esp as it was no longer needed and caused more issues.
+10. Fixed an issue with keybinds not being set right.
+11. Probably some other fixes I forgot to mention here.
+
+---
+
+**5/13/2024 - NEW SAVE MUST BE DONE!**
 ---
 Updates:
 
