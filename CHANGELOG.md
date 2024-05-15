@@ -12,6 +12,7 @@
 9.  Removed Synthesis.esp as it was no longer needed and caused more issues.
 10. Fixed an issue with keybinds not being set right.
 11. Probably some other fixes I forgot to mention here.
+12. Possibly resolved a weird MCM Preset Apply issue.
 
 ---
 
