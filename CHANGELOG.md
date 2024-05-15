@@ -15,6 +15,8 @@
 12. Possibly resolved a weird MCM Preset Apply issue.
 13. Possibly resolved a issue with CTD with no crash log.
 14. Removed a 3D load model that was missed.
+15. Introducing a new Crafting Section named "Wasteland Healing." These items are more aligned with what you might craft while out in the world, rather than advanced equipment. - Ongoing WIP.
+16. The Skill menu "Medicine" has been renamed to "Medic," and the description has been updated to reflect its focus on MAIM crafting.
 ---
 
 **5/13/2024 - NEW SAVE MUST BE DONE!**
