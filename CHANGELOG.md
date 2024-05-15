@@ -5,7 +5,7 @@
 2.  Corrected Medic perk display in the crafting menu.
 3.  Buffed Metro Gas Mask and added IHO keyword.
 4.  Simplified medical items in the crafting bench to be less confusing.
-5.  Adjusted damage values based on player feedback.
+5.  Adjusted damage values based on player feedback. Humans should be less bullet spongies.
 6.  Added multiple new keybinds, focusing on VATS/Action Key support. See new optional tab.
 7.  Enabled MCM force refresh to apply the update hotfix. Set it to off after applying the MCM preset in MAIM menu!
 8.  Nerfed Lone Wanderer carry weight bonus.
