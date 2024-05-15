@@ -1,4 +1,4 @@
-**5/14/2024 - HOTFIX SAVE SAFE!**
+**5/14/2024 - HOTFIX SAVE SAFE! YOU MUST APPLY THE MCM PRESET AGAIN** 
 ---
 
 1.  Fixed HUD issue with container overlays.
@@ -106,6 +106,8 @@ Once you've crafted the workbench and your battery, it will last for about 2 min
 32. New Alternate Start added.
 
 33. Multiple small balance changes and bug fixing done.
+
+34. Minimap removed due to heavy performance issues.
 
 ---
 
