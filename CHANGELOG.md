@@ -13,7 +13,7 @@
 10. Fixed an issue with keybinds not being set right.
 11. Probably some other fixes I forgot to mention here.
 12. Possibly resolved a weird MCM Preset Apply issue.
-
+13. Possibly resolved a issue with CTD with no crash log.
 ---
 
 **5/13/2024 - NEW SAVE MUST BE DONE!**
