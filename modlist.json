@@ -24,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/master/images/Banner%20Images/Fo4Anomaly27.png",
       "readme": "https://doc.clickup.com/9014300118/d/h/8cmpkep-6174/ae0788e9f3d2615",
-      "download": "https://authored-files.wabbajack.org/Fallout Anomaly.wabbajack_f550a3f9-f67e-48ba-8606-603168392f64",
+      "download": "https://authored-files.wabbajack.org/Fallout Anomaly.wabbajack_88068506-f4d5-4ac5-8524-48acc155d26d",
       "machineURL": "Fallout_Anomaly",
       "discordURL": "https://discord.gg/falloutanomaly"
     },
     "download_metadata": {
-      "Hash": "al2m89YUbuI=",
-      "Size": 849430367,
+      "Hash": "lYPMHvNmEXE=",
+      "Size": 849720345,
       "NumberOfArchives": 1125,
       "SizeOfArchives": 173068967497,
-      "NumberOfInstalledFiles": 94366,
-      "SizeOfInstalledFiles": 191660788818
+      "NumberOfInstalledFiles": 94369,
+      "SizeOfInstalledFiles": 191664131799
     },
     "version": "0.4.9",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-05-19T04:55:06.5635947Z",
+    "dateUpdated": "2024-05-19T06:16:56.1999127Z",
     "repositoryName": ""
   }
 ]
