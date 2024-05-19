@@ -5,11 +5,17 @@
 Here is a revised version for clarity and grammar:
 
 1. Multiple bug fixes reported through Discord or our bug tracker.
+
 2. Major crafting overhaul: See new medical stations for crafting medical items and drugs (WIP). A toolbox is now required to craft all workshop items instead of individual tools. Use tools to craft the toolbox. Multiple other items moved behind standalone benches. - This is still a heavy WIP overhaul project and issues will be expected.
+
 3. Additional damage value tweaks.
+
 4. Long loading time issue fixed.
+
 5. Controller meta ini file fixed.
-6. New flashlight widget mod added, which includes an on-screen battery widget to track battery level. It will also give rads when the battery runs out, similar to the "Enjoy the Darkness" mod.
+
+6. New flashlight widget mod added, which includes an on-screen battery widget to track battery level. It will also give rads when the battery runs out, similar to the "Enjoy the Darkness" mod. SEE HERE: [Battery Widget - A Thermal Vision Framework Addition](https://www.nexusmods.com/fallout4/mods/82937?tab=description)
+
 7. More mods adjusted and balanced based on player feedback.
 
 
