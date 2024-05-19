@@ -4,11 +4,11 @@
 
 Here is a revised version for clarity and grammar:
 
-1. Multiple bug fixes reported through Discord or our bug tracker.
+1. Multiple bug fixes reported through Discord or our bug tracker. Lots of perk patching done.
 
-2. Major crafting overhaul: See new medical stations for crafting medical items and drugs (WIP). A toolbox is now required to craft all workshop items instead of individual tools. Use tools to craft the toolbox. Multiple other items moved behind standalone benches. - This is still a heavy WIP overhaul project and issues will be expected.
+2. Major crafting overhaul: See new medical stations for crafting medical items and drugs (WIP). A toolbox is now required to craft all workshop items (Over 800 in total) instead of individual tools. Use tools to craft the toolbox. Multiple other items moved behind standalone benches. - This is still a heavy WIP overhaul project and issues will be expected.
 
-3. Additional damage value tweaks.
+3. Additional damage value tweaks based on feedback.
 
 4. Long loading time issue fixed.
 
