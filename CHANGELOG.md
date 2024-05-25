@@ -1,3 +1,28 @@
+5/25/2024 - Bug Fixes. Save Safe - Always apply MCM Preset. 
+
+### Changelog
+
+**Fixes:**
+- Possibly resolved the Diamond City crash issue. Have tested over last 24 hours with postive results.
+- Resolved the lost footage download issues due to it being removed off Nexus.
+- Removed the Silly Nemesis Spawn mod.
+- Adjusted INI settings to fix rusty face and low texture issues.
+- Included a fix for the gas mask unequipping problem.
+- Special thanks to @Chinpira for fixing the IHO mod.
+
+**Additions and Changes:**
+- Added the Fallout Anomaly game holotape.
+- Made Strong Back an optional mod.
+- Fixed issues related to the hatchet; however, it is currently incompatible with the IHO mod.
+- Made tweaks to settlements for better balance, with more adjustments coming soon.
+
+**Notes:**
+- This hotfix was prioritized to address urgent issues. Further improvements and balance adjustments are on the way.
+
+Thank you for your patience and support!
+---
+
+
 5/18/2024 - Crafting and bug fixing update. - SAVE SAFE - APPLY MCM PRESET.
 
 ---
