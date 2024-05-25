@@ -5,7 +5,7 @@
 **Fixes:**
 - Possibly resolved the Diamond City crash issue. Have tested over last 24 hours with postive results.
 - Resolved the lost footage download issues due to it being removed off Nexus.
-- Removed the Silly Nemesis Spawn mod.
+- Removed the Nemesis FGEP Spawn mod. He will still spawn in but at a much more reasonable rate.
 - Adjusted INI settings to fix rusty face and low texture issues.
 - Included a fix for the gas mask unequipping problem.
 - Special thanks to @Chinpira for fixing the IHO mod.
