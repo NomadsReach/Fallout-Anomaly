@@ -1,3 +1,12 @@
+7/10/2024 - 0.49 Bug Fixes - Not save Safe: 0.5 is now in WIP.
+
+- Removed Feral Ghoul Expansion due to crash issues.
+- Updated compile to Wabbajack 3.7
+- Updated Several mods.
+- Removed other minor mods causing issues or crashes. 
+
+  ## Advice for New Members: If you’re new to Anomaly, please wait for the full revamp of 0.5. The official release of 0.5 will only happen after thorough testing, ensuring it is much better than 0.4.9 ever has been before.
+
 5/25/2024 - Bug Fixes. Save Safe - Always apply MCM Preset. 
 
 ### Changelog
