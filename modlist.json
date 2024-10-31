@@ -1,7 +1,7 @@
 [
   {
     "title": "Fallout Anomaly",
-    "description": "Seamlessly merging the Stalker series \u0026 Fallout 4 universe. It introduces Stalker-like elements into Fallout 4, such as harsh survival mechanics, dangerous mutants, and a gritty atmosphere, offering players a unique and unparalleled gaming experience. UNDER MAINTENANCE PENDING FOR 0.5 RELEASE.",
+    "description": "Seamlessly merging the Stalker series and Fallout 4 universe. It introduces Stalker-like elements into Fallout 4, such as harsh survival mechanics, dangerous mutants, and a gritty atmosphere, offering players a unique and unparalleled gaming experience. UNDER MAINTENANCE PENDING FOR 0.5 RELEASE.",
     "author": "Fallout Anomaly Team",
     "maintainers": [
       "github/NomadsReach"
@@ -39,6 +39,6 @@
     "version": "0.4.9",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-07-10T12:21:46.2403629Z",
-    "repositoryName": ""
+    "repositoryName": "FAnomaly"
   }
 ]
