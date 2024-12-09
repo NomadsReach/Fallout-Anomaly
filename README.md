@@ -98,19 +98,22 @@ While not mandatory, Nexus Premium is strongly advised as it streamlines the mod
 </details>
 
 <details>
-  <summary>STEP 2: Understanding Wabbajack Install</summary>
+  <summary>STEP 2: Installing Fallout Anomaly </summary>
 
+## Please watch the video below on how to download and install Anomaly. (The video is somewhat outdated, join our discord for assistance. New install guide TBA.)
+
+[![Video Preview](https://img.youtube.com/vi/6b-wDKrKR-U/0.jpg)](https://www.youtube.com/watch?v=6b-wDKrKR-U)
+
+---
+
+[![discord](https://img.shields.io/badge/Click_For_Support-blue?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&logoSize=auto&color=%235661ea
+)](https://discord.gg/anomaly-1113971680419782666)
 [![wabbajackwiki](https://img.shields.io/badge/Wabbajack%20Wiki-blue?style=for-the-badge&logo=wikipedia&logoColor=%23FFFFFF&logoSize=auto&color=%235f437d
 )](https://wiki.wabbajack.org/)
 [![wabbajackwiki](https://img.shields.io/badge/Wabbajack%20Discord-blue?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&logoSize=auto&color=%235f437d
 )](https://discord.gg/wabbajack)
 
 ---
-- Watch the video below to help understand Wabbajack.
----
-[![Watch the video](https://img.youtube.com/vi/c9jDnjSRqOE/0.jpg)](https://www.youtube.com/watch?v=c9jDnjSRqOE)
-
-
 # Problems with Wabbajack
 
 - **Could not download MOD:** If certain mods fail to download, You can manually download them from their source and place the archived folder in the downloads folder of where your Wabbajack is downloading to. At times nexus mods may be down. You can check if this is the case by following this link: [NEXUS MODS STATUS](https://nexusmods.statuspage.io/)
