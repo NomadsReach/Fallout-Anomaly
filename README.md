@@ -9,6 +9,8 @@
 )](https://www.youtube.com/@FalloutAnomaly)
 [![nexus](https://img.shields.io/badge/Nexus-blue?style=for-the-badge&logo=nexusmods&logoColor=%23FFFFFF&logoSize=auto&color=%2392ab20
 )](https://www.nexusmods.com/fallout4/mods/74075)
+[![bug](https://img.shields.io/badge/Submit%20Bug%20Report-Blue?style=for-the-badge&logo=codementor&logoColor=%23FFFFFF&logoSize=auto&color=%23260026
+)](https://falloutanomaly.fillout.com/bugreports)
 
 
 ![Logo](https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Banner%20Images/Fo4Anomaly27.png)
