@@ -100,7 +100,7 @@ While not mandatory, Nexus Premium is strongly advised as it streamlines the mod
 <details>
   <summary>STEP 2: Installing Fallout Anomaly </summary>
 
-## Please watch the video below on how to download and install Anomaly. (The video is somewhat outdated, join our discord for assistance. New install guide TBA.)
+## Please watch the video below on how to download and install Anomaly.
 
 [![Video Title](https://img.youtube.com/vi/Bn6dmrsJAX0/0.jpg)](https://youtu.be/Bn6dmrsJAX0)
 
