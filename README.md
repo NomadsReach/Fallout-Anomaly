@@ -102,7 +102,7 @@ While not mandatory, Nexus Premium is strongly advised as it streamlines the mod
 
 ## Please watch the video below on how to download and install Anomaly. (The video is somewhat outdated, join our discord for assistance. New install guide TBA.)
 
-[![Video Preview](https://img.youtube.com/vi/6b-wDKrKR-U/0.jpg)](https://www.youtube.com/watch?v=6b-wDKrKR-U)
+[![Video Title](https://img.youtube.com/vi/Bn6dmrsJAX0/0.jpg)](https://youtu.be/Bn6dmrsJAX0)
 
 - Note: After downloading and installing Fallout Anomaly, it’s a good idea to reopen the .wabbajack file in the Wabbajack program and click "Verify Installation." This will check your files and report any errors. If the verification process reports any issues, please reach out to us on Discord for troubleshooting assistance. 
 
