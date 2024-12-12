@@ -41,7 +41,8 @@ Recognizing the opportunity to combine both worlds, we created a modlist blendin
 ## Getting Started - You must go through each step!
 
 <details>
-  <summary>STEP 1: Getting Started</summary>
+<summary><h2><ins>STEP 1: Getting Started</ins></h2></summary>
+  
  
 # Hardware:
 
@@ -98,15 +99,17 @@ While not mandatory, Nexus Premium is strongly advised as it streamlines the mod
 </details>
 
 <details>
-  <summary>STEP 2: Installing Fallout Anomaly </summary>
+  <summary><h2><ins>STEP 2: Installing Fallout Anomaly</ins></h2></summary>
 
 ## Please watch the video below on how to download and install Anomaly.
 
 [![Video Title](https://img.youtube.com/vi/Bn6dmrsJAX0/0.jpg)](https://youtu.be/Bn6dmrsJAX0)
 
-- Note: After downloading and installing Fallout Anomaly, it’s a good idea to reopen the .wabbajack file in the Wabbajack program and click "Verify Installation." This will check your files and report any errors. If the verification process reports any issues, please reach out to us on Discord for troubleshooting assistance. 
+##  <ins>Please watch the entire video as there are key parts once in-game, like applying the MCM preset and launching the game, that you need to understand.</ins>
 
-- <ins>Please use the image below to reference the above.<ins>
+- **Note:** After downloading and installing Fallout Anomaly, it’s a good idea to reopen the `.wabbajack` file in the Wabbajack program and click **"Verify Installation."** This will check your files and report any errors. If the verification process reports any issues, please reach out to us on **Discord** for troubleshooting assistance.
+
+- <ins>Please refer to the image below to better understand the above instructions.</ins>
 
 ![Verify Image](https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Readme%20Docs/Verify.png)
 
@@ -157,7 +160,8 @@ The Fallout Anomaly team will notify you in advance of any upcoming updates via 
 </details>
 
 <details>
-  <summary>STEP 3: Launching Fallout Anomaly</summary>
+<summary><h2><ins>STEP 3: Launching Fallout Anomaly</ins></h2></summary>
+ 
   
 ## Launching the Game
 
@@ -207,24 +211,217 @@ Additionally, **add the 'Stock Folder'** located within the **Mod Organizer 2** 
 For **F4SE**, add an exception for the following path:  
 `mods\F4SE & Other Root Folders\Root\f4se_loader.exe`.
 
-# **Failure to do this will cause issues! Do not ignore these steps or you will not be helped.**
+# **Failure to do this will cause issues! Do not ignore these steps or we can not help you.**
 
 
 </details>
 
 <details>
-  <summary>STEP 4: Known Issues & Common Mistakes</summary>
-   # ⚠️ UNDER CONSTRUCTION. ⚠️
+  <summary><h2><ins>STEP 4: Known Issues</ins></h2></summary>
+
+## Main Menu Delay
+
+When clicking "Play," the main menu may experience a delay as scripts load. This delay varies based on your system's power; more powerful systems may not encounter this issue.
+
+## Stuck in Menu
+
+If you find yourself unable to progress from the first loading or main menu:
+
+1. Please allow a few minutes for the game to fully load after it boots up. It may seem like the game is frozen during this time, but rest assured that it is simply processing the necessary assets.
+2. Alt-tab out of the game & back in.
+3. Press the "Esc" key in the menu to load into the game
+
+## Post-Character Creation Freeze
+
+After creating your character:
+- Your game will save and may appear to freeze temporarily.
+- This is due to multiple scripts loading simultaneously.
+- Be patient and wait for a few minutes; the game will resume normally.
+
+## Falling Through Vault Issue
+
+If you're falling through the vault floor:
+- This is likely due to the "Uneducated Shooter" mod.
+- **Solution**: Only enable the "Uneducated Shooter" mod after leaving the vault.
+
+---
 </details>
 
 <details>
-  <summary>STEP 5: Optionals, Settings, & Keybinds</summary>
-   # ⚠️ UNDER CONSTRUCTION. ⚠️
+  <summary><h2><ins>STEP 5: Essential Mods and Key Gameplay Mechanics</ins></h2></summary>
+
+# Survival Mechanics: Immersive Hunting Overhaul (IHO)
+
+## Key Features
+- **Advanced Food Mechanics**: Includes spoilage, disposal, blood sampling, salvaging, hunting, and trapping.
+- **Camping System**: Lightweight yet effective camping mechanics.
+- **Challenges and Achievements**: Unlock bonuses and items based on the IHO concept.
+- **Cooking Overhaul**: Unlockable recipes and rebalanced food mechanics.
+- **Customizable Experience**: Convenient MCM menu with numerous options to fine-tune gameplay.
+
+---
+
+## Carry Weight System
+
+- Starting carry weight is lower than normal.
+- **Carry Weight Formula**:
+  - 1 STR = 85 Carry Weight (CW).
+  - Each additional STR point provides +10 CW.
+- **Robustness Skill**:
+  - Increases carry weight as you level up, allowing more freedom to carry armor and junk.
+- **Traits**:
+  - Two traits can increase starting carry weight by +50 each but come with drawbacks for balance.
+
+### Backpacks
+- Backpacks can be found or crafted using perks from the *Junk Jockey* skill.
+- Backpacks provide an additional **100 CW capacity**.
+- Use the "Open Backpack" aid item (found in the Aid section) to move items freely between inventory and backpack.
+
+#### Known Bug & Fix:
+- If your backpack disappears, respawn it using the "Commonwealth Backpacks Settings Holotape."
+- Avoid spamming the backpack key to prevent this issue.
+
+### Keybinding
+1. Open your inventory and navigate to the **Aid** section.
+2. Locate "Open Backpack."
+3. Hover over it and press `Q` to bind it to a key (1–9).
+4. Note: Only keys `1–9` work for keybindings.
+
+---
+
+## Skills and Levels
+
+- Utilizes the **[YAE mod](https://www.nexusmods.com/fallout4/mods/76739)**, which introduces new skills and modifies the perk system.
+- Adds new traits for enhanced character customization.
+
+---
+
+# Combat Overhaul: SCOURGE
+
+## Overview
+- SCOURGE overhauls NPC stats by using scripts to randomly generate values, creating realistic variations in NPC strength. This ensures that enemies are no longer predictable while addressing issues with Fallout's vanilla scaling system.
+
+### Key Features
+- Implements **normal distribution** for stat allocation (e.g., health, damage resistance).
+- Highly customizable via MCM:
+  - Adjust stats for specific NPC races.
+  - Exclude specific NPCs or individual stats from being affected.
+- Optimized scripting to prevent lag or bloat.
+
+### Example
+- Deathclaws now have randomized health between 500–900, with an average of ~700.
+- Infinite variations mean there are over **12 million possible combinations** for Deathclaw stats alone.
+
+---
+
+# Better Locational Damage (BLD)
+
+- Equipment is what matters. Weapons/Modifications have been overhauled and you are now able to play a raider style character with pipe weapons only. All weapons are lethal. Getting a good balanced armor rating is key to survive as health does no longer scale with level. Use tactics and plan your actions, when breaching rooms and areas.
+Many new features, like stagger, bleedings, stealth killmoves and more wait to be used!
+
+## Combat Mechanics
+
+### Enemy Categories
+1. **Low Races**: Bloatfly, Bloodbug, Humans (no helmets), Ghouls (non-glowing), Radstags, Dogs.
+2. **Medium Races**: Super Mutants, Mirelurks, helmeted Humans.
+3. **High Races**: Yao Guai, Fog Crawlers, Anglers.
+4. **Special Races**: Robots/Synths.
+
+### Headshot Mechanics
+- Effectiveness varies by race and weapon caliber:
+  - Low races can be killed with most weapons via headshots.
+  - Medium races require higher-caliber weapons (.308, .50) or shotguns at close range.
+  - High races are resistant to headshots; use explosives or tactics instead.
+
+### Pain System
+- Introduces three pain levels: Minor, Moderate, Severe.
+- Pain affects gameplay but can be treated with items like Med-X or alcohol.
+
+---
+
+# Deadeye Mod
+
+## Overview
+- Deadeye is a headshot-focused mod that adds tactical depth to combat. Players can choose between one-shot kills, helmet protection mechanics, or head destruction mechanics.
+
+### Race Categories
+1. Weak: Easily killed by most weapons (e.g., Bloatfly, Human).
+2. Moderate: Requires moderate-caliber weapons or shotguns at close range (e.g., Super Mutants).
+3. Strong: Requires high-caliber weapons (.50 rounds) (e.g., Yao Guai).
+4. Powerful: Immune to headshots by default but can be enabled via configuration (e.g., Deathclaws).
+
+---
+
+# Munitions: Ammo Expansion Project
+
+- Munitions is a lore-friendly and modular ammunition expansion project & framework that adds new ballistic, energy, and explosive ammunition types seamlessly into the vanilla sandbox. Unlike other ammo frameworks, Munitions gives players control over what ammo they do or don't want added to their game. Features high-quality custom textures and meshes.
+
+## Features
+- Adds new ballistic, energy, and explosive ammunition types.
+- Modular design allows players to control which ammo types are added to their game.
+- Lore-friendly additions inspired by previous Fallout games.
+
+---
+
+# Radiation System: Damn Apocalypse
+
+## Mechanics
+1. Introduces a dual radiation system:
+   - **IRA (Ingested Radioactive Particles)**: Accumulated from food, water, weather hazards.
+   - **RAD (Tissue Damage)**: Standard radiation damage from exposure.
+2. Radiation poisoning mimics Acute Radiation Syndrome with progressive effects.
+3. Weather-based radiation hazards require protective gear like gas masks or hazmat suits.
+
+### New Items
+- RadAway: Purges IRA and cures radiation poisoning.
+- MutAway: Heals RADs directly.
+- Rad-X: Increases IRA resistance.
+- Pb-Jelly: Increases RAD resistance.
+
+---
+
+# Crafting System
+
+## Overview
+Crafting has been expanded with additional requirements:
+1. Perk-based crafting for specialized items (e.g., Dogmeat-related perks for Dogmeat items).
+2. Higher-tier armors require advanced crafting perks and materials like ballistic weave.
+
+- <ins>This is all still ongoing and will be improved and expanded in later updates./<ins>
+
+---
+
+# Settlements
+
+Settlement features are currently a work in progress and will be added in future updates.
+
+---
+
+
+   
 </details>
 
 <details>
-  <summary>FINAL STEP: Community and Getting Support</summary>
-   # ⚠️ UNDER CONSTRUCTION. ⚠️
+  <summary><h2><ins>FINAL STEP: Community and Getting Support</ins></h2></summary>
+   
+# Support Links
+
+The quickest way to receive support is by joining our **Discord** community. If you encounter any issues or need assistance, our Discord channel provides direct access to our team and fellow users who can promptly address your concerns. Alternatively, you can submit a bug report. Below are additional resources and links related to Fallout Anomaly:
+
+- **Discord**: [Join our Discord community](https://discord.gg/ECuAthsdwJ)
+- **Mod List**: [View the mod list](https://loadorderlibrary.com/lists/fallout-anomaly-0-5)
+- **Bug Report**: [Submit a bug report](https://falloutanomaly.fillout.com/bugreports)
+- **Suggestions**: [Share your suggestions](https://falloutanomaly.fillout.com/suggestions)
+- **Nexus**: [Visit our Nexus page](https://www.nexusmods.com/fallout4/mods/74075?tab=description)
+- **YouTube**: [Check out our YouTube channel](https://www.youtube.com/@FalloutAnomaly/videos)
+
+---
+
+# Thank You
+
+**Thank you for your dedication to our community and team. We are excited about the future and confident that, together, we will continue to shape Anomaly into an extraordinary mod list for Fallout 4.**
+
+
 </details>
 
 
