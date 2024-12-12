@@ -139,6 +139,10 @@ While not mandatory, Nexus Premium is strongly advised as it streamlines the mod
 - **Mod is not a whitelisted download:** This error can occur when the modlist is updated or the mod link no longer works. Check for updates and wait for a new release if necessary. If you get this error please notify us on discord.
 - **Missing Game Files:** More than likely you have not updated your game to the next gen version. You must do this.
 - **Wabbajack could not find my game folder:** Wabbajack will not work with a pirated version of the game. Ensure you own the game on Steam and follow the pre-installation steps accordingly.
+
+- # ⚠️ Important Note: ENB DOWNLOAD ISSUE ⚠️
+  
+   - If your download fails for ENB you need to download the file manually and place it into your download folder. Find the ENB file [here](http://enbdev.com/mod_fallout4_v0496.htm)
 ---
 ## Updating Fallout Anomaly
 
