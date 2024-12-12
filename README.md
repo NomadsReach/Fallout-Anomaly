@@ -33,11 +33,20 @@ Recognizing the opportunity to combine both worlds, we created a modlist blendin
 
 ---
 
-## ⚠️ Important Update Requirement ⚠️
+## ⚠️ IMPORTANT MESSAGE DO NOT SKIP ⚠️
+---
+- 🚨 YOU ABSOLUTELY NEED TO UPDATE FALLOUT 4 TO THE NEXT-GEN VERSION. THIS IS MANDATORY FOR WABBAJACK TO RUN ITS DOWNGRADE INSTALL. 🚨
+ ---
+- 🚨 **YOU ABSOLUTELY NEED TO DISABLE OVERLAYS SUCH AS STEAM, MEDAL, ETC. THESE ARE KNOWN TO CAUSE CRASHES.** 🚨
+---
+- 🚨 **YOU ABSOLUTELY NEED TO SET UP PAGE FILE. THIS WILL HELP PREVENT CRASHES OR PERFORMANCE ISSUES.** 🚨
+---
+- 🚨 YOU ABSOLUTELY NEED TO SET ANTI-VIRUS EXCLUSIONS. AV IS KNOWN TO WRECK HAVOC WITH DLL MODS SUCH AS ENB, F4SE, ETC. 🚨
+---
 
-### 🚨 **YOU ABSOLUTELY NEED TO UPDATE FALLOUT 4 TO THE NEXT-GEN VERSION. THIS ISN'T UP FOR DEBATE; IT'S MANDATORY.** 🚨
+<ins>Instructions on how to do all of the above are covered in the Getting Started section below.<ins>
 
-
+---
 ## Getting Started - You must go through each step!
 
 <details>
@@ -67,9 +76,9 @@ Recognizing the opportunity to combine both worlds, we created a modlist blendin
 
 While not mandatory, Nexus Premium is strongly advised as it streamlines the mod download and installation process, saving you time. By opting for Nexus Premium, you'll enjoy uncapped download speeds and won't have to manually approve each download. This is a restriction from the Nexus website itself and is not a limitation imposed by Fallout Anomaly.
 
-- Click the logo below to be directed to subscribe to Nexus Premium.
+- Click the logo below to be directed to subscribe to Nexus Premium. (https://next.nexusmods.com/premium)
 
-![Logo](https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/nexuslogo.png)
+[![Logo](https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/nexusprem.png)](https://next.nexusmods.com/premium)
 
 # Important Installation Steps (Click the blue links for instructions)
 
@@ -89,7 +98,7 @@ While not mandatory, Nexus Premium is strongly advised as it streamlines the mod
   This step is crucial for performance. Follow the instructions carefully.
 
 - [**English Voice Files** - This is required if you're not using English.](https://steamcommunity.com/sharedfiles/filedetails/?id=552541227)  
-  You must install the voice files to avoid download errors if your game is not in English.
+  To avoid download errors, you must install the voice files if your game is not in English. You are welcome to use your native language for the game, but these files are required for certain English-based mods/files.
 
 - [**Disable Overlays**](https://www.youtube.com/watch?v=7e_kY6LmQ0Y)  
   Ensure all overlays (Steam, Nvidia, Medal, etc.) are disabled to avoid crashes or performance issues.
@@ -244,6 +253,15 @@ If you're falling through the vault floor:
 - This is likely due to the "Uneducated Shooter" mod.
 - **Solution**: Only enable the "Uneducated Shooter" mod after leaving the vault.
 
+## Known Crash Related Issues:
+
+- Programs like medal (recording software) or anything that adds an overlay can conflict with the ENBS, or other DLL hooked mods. If you are crashing right at the launch of game or at the main menu this can be one of the main causes.
+
+## Minor Issues
+
+- Some NPCs may fail to use weapons even if they have ammunition in their inventory. If you experience this issue, please report it.. 
+
+- Controller Support: Most mods currently do not include controller support. However, the base game offers controller support in vanilla Fallout. The Anomaly Team is working to provide controller support for these mods, with prior permission from the authors.
 ---
 </details>
 
