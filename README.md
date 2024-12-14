@@ -114,7 +114,15 @@ While not mandatory, Nexus Premium is strongly advised as it streamlines the mod
 
 [![Video Title](https://img.youtube.com/vi/Bn6dmrsJAX0/0.jpg)](https://youtu.be/Bn6dmrsJAX0)
 
+[Click here to watch install video](https://www.youtube.com/watch?v=Bn6dmrsJAX0&t=49s)
+
 ##  <ins>Please watch the entire video as there are key parts once in-game, like applying the MCM preset and launching the game, that you need to understand.</ins>
+
+# ⚠️ Important Note: APPLY THE MCM PRESET ⚠️
+![image](https://github.com/user-attachments/assets/44cddb55-e164-4cc5-9e22-511ba50ad6e3)
+
+- Do not forget to apply the preset as shown in the screenshot above.
+
 
 - **Note:** After downloading and installing Fallout Anomaly, it’s a good idea to reopen the `.wabbajack` file in the Wabbajack program and click **"Verify Installation."** This will check your files and report any errors. If the verification process reports any issues, please reach out to us on **Discord** for troubleshooting assistance.
 
@@ -225,6 +233,12 @@ For **F4SE**, add an exception for the following path:
 `mods\F4SE & Other Root Folders\Root\f4se_loader.exe`.
 
 # **Failure to do this will cause issues! Do not ignore these steps or we can not help you.**
+
+# ⚠️ Important Note: APPLY THE MCM PRESET ⚠️
+![image](https://github.com/user-attachments/assets/44cddb55-e164-4cc5-9e22-511ba50ad6e3)
+
+- Do not forget to apply the preset as shown in the screenshot above.
+
 
 
 </details>
