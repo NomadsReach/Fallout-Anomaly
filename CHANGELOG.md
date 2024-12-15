@@ -46,6 +46,9 @@
 **DO NOT FORGET TO APPLY MCM PRESET, SAVE GAME, AND RELOAD SAVE!!!!!!!******
 
 
+  ----------END OF UPDATE NOTES FOR 12/15/2024------------
+
+---
 
 
 7/10/2024 - 0.49 Bug Fixes - Not save Safe: 0.5 is now in WIP.
