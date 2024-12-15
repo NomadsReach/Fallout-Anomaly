@@ -1,3 +1,53 @@
+0.5.2 BETA UPDATE
+
+### Updates and Changes:
+
+1. **NAC Weathers:**
+   - Fixed fog-related issues.
+   - Nights are now significantly darker.
+   - Added special FX settings for certain weather types.
+   - Resolved the bugged dark night issue.
+   - Thanks to the community for testing and feedback!  
+   *(More details: [Discord Link](https://discord.com/channels/1113971680419782666/1317296323250229318))*
+
+2. **Item Changes:**
+   - Stimpaks renamed to **Med-Tek MKII Injector Kit**.
+   - Starter items added to the wooden box in Vault 111's control booth.
+     *(For existing saves, use console commands: click the box and type `resetinventory`. Future updates will automate this process.)*
+
+3. **Settings and Features:**
+   - MCM configuration updated.
+  - MCM will now load much faster. '`**The issue of MCM freezing the game for several minutes is now fixed**`
+   - Increased NPC travel behavior—more NPCs will roam around.
+   - Disabled darkening effects for equipped glasses and masks.
+   - Field of View (FOV) increased to **90**.
+   - Enabled **Fast Wait/Sleep** functionality.
+   - Activated **Legendary Effects for weapons & armors.**.
+   - Rebuild Settlement Mod removed for time being until Previs issues are resolved.
+   - Install size reduced from 182gbs to 167gbs.
+
+4. **Crafting and Mod Balance:**
+   - **Mobile Workbenches** disabled in ECO. Use **IHO** instead for crafting.  
+     *(Other settings adjusted for better balance.)*
+
+---
+
+### Keybind Changes:
+
+- **Mod Explorer Window:** `]`
+- **Quick Mod Weapon:** `[` *(Note: This feature can be overpowered and some weapons do not work with it—use with caution.)*
+- **Change Weather to Random:** `Numpad /`
+
+
+
+**IF ANY ISSUES PLEASE GO TO** https://discord.com/channels/1113971680419782666/1316838773757317240  - Join our discord for help ASAP.
+
+
+**DO NOT FORGET TO APPLY MCM PRESET, SAVE GAME, AND RELOAD SAVE!!!!!!!******
+
+
+
+
 7/10/2024 - 0.49 Bug Fixes - Not save Safe: 0.5 is now in WIP.
 
 - Removed Feral Ghoul Expansion due to crash issues.
