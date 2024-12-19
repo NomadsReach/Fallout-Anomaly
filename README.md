@@ -17,9 +17,7 @@
 
 # What is Fallout Anomaly?
 
-The **S.T.A.L.K.E.R. series**, developed by Ukrainian game studio **GSC Game World**, is known for its blend of survival horror, open-world exploration, and atmospheric storytelling. Fallout 4, on the other hand, is renowned for its vast open world and role-playing elements, set in a retro-futuristic post-apocalyptic America.
-
-Recognizing the opportunity to combine both worlds, we created a modlist blending the bleak world of **S.T.A.L.K.E.R.** with the sandbox of **Fallout 4**, offering a unique blend of survival, exploration, and storytelling.
+Fallout Anomaly is a true hardcore experience, bringing you as close to realism as possible with mods like Damn Apocalypse, Better Locational Damage, and much more. Packed with new weapons and armor to face harsher challenges, Anomaly also features new enemy types, quests, settlement items, and a complete assortment of textures to elevate your game to modern standards. If you’re searching for that gritty, harsh survival experience, Anomaly has you covered.
 
 ---
 
