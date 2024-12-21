@@ -151,7 +151,7 @@ While not mandatory, Nexus Premium is strongly advised as it streamlines the mod
 
 - # ⚠️ Important Note: ENB DOWNLOAD ISSUE ⚠️
   
-   - If your download fails for ENB you need to download the file manually and place it into your download folder. Find the ENB file [here](http://enbdev.com/mod_fallout4_v0496.htm)
+   - If your download fails for ENB you need to download the file manually and place it into your download folder. Find the ENB file [here](http://enbdev.com/mod_fallout4_v0496.htm)  DO NOT EXTRACT THE FILE! Just move the download to the Anomaly Downloads folder that has been created by your set paths from Wabbajack.
 ---
 ## Updating Fallout Anomaly
 
