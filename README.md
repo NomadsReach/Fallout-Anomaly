@@ -31,18 +31,20 @@ Fallout Anomaly is a true hardcore experience, bringing you as close to realism 
 
 ---
 
-## ⚠️ IMPORTANT MESSAGE DO NOT SKIP ⚠️
----
-- 🚨 **YOU ABSOLUTELY NEED TO UPDATE FALLOUT 4 TO THE NEXT-GEN VERSION. THIS IS MANDATORY FOR WABBAJACK TO RUN ITS DOWNGRADE INSTALL.** 🚨
- ---
-- 🚨 **YOU ABSOLUTELY NEED TO DISABLE OVERLAYS SUCH AS STEAM, MEDAL, ETC. THESE ARE KNOWN TO CAUSE CRASHES.** 🚨
----
-- 🚨 **YOU ABSOLUTELY NEED TO SET UP PAGE FILE. THIS WILL HELP PREVENT CRASHES OR PERFORMANCE ISSUES.** 🚨
----
-- 🚨 **YOU ABSOLUTELY NEED TO SET ANTI-VIRUS EXCLUSIONS. AV IS KNOWN TO WRECK HAVOC WITH MODS SUCH AS ENB, ETC.** 🚨
----
+<details>
+  <summary>⚠️ IMPORTANT MESSAGE DO NOT SKIP - CLICK ME! ⚠️</summary>
 
-<ins>Instructions on how to do all of the above are covered in the Getting Started section below.<ins>
+  <ul>
+    <li>🚨 <strong>YOU ABSOLUTELY NEED TO UPDATE FALLOUT 4 TO THE NEXT-GEN VERSION. THIS IS MANDATORY FOR WABBAJACK TO RUN ITS DOWNGRADE INSTALL.</strong></li>
+    <li>🚨 <strong>YOU ABSOLUTELY NEED TO DISABLE OVERLAYS SUCH AS STEAM, MEDAL, ETC. THESE ARE KNOWN TO CAUSE CRASHES.</strong></li>
+    <li>🚨 <strong>YOU ABSOLUTELY NEED TO SET UP PAGE FILE. THIS WILL HELP PREVENT CRASHES OR PERFORMANCE ISSUES.</strong></li>
+    <li>🚨 <strong>YOU ABSOLUTELY NEED TO SET ANTI-VIRUS EXCLUSIONS. AV IS KNOWN TO WRECK HAVOC WITH MODS SUCH AS ENB, ETC.</strong></li>
+    <li>🚨 <strong>All of this is covered in the instructions below.</strong></li>
+  </ul>
+
+</details>
+
+
 
 ---
 ## Getting Started - You must go through each step!
