@@ -263,6 +263,23 @@ For **F4SE**, add an exception for the following path:
 
 - Do not forget to apply the preset as shown in the screenshot above.
 
+# Changing ENB - Letter Box. 
+
+### Disable Black Bars (Letterbox)
+
+If you dislike the black bars at the top and bottom of the screen, you can disable them by following these steps:
+
+1. Press the `~` key (located next to the `1` key) to open the console.
+2. Press the `END` key to open the ENB menu.
+3. Navigate to the **Post Processing** section on the right side of the menu.
+4. Uncheck the option labeled **Letterbox**.
+5. Click **Save Configuration** at the top-left corner of the menu.
+6. Press `END` and then `~` again to close the menus and resume your game.
+
+![image](https://github.com/user-attachments/assets/c416445f-e1b8-4bc3-9efa-7906d7eb586e)
+
+
+
 
 
 </details>
