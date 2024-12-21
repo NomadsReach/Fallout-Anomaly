@@ -108,11 +108,14 @@ While not mandatory, Nexus Premium is strongly advised as it streamlines the mod
 <details>
   <summary><h2><ins>STEP 2: Installing Fallout Anomaly</ins></h2></summary>
 
-## Please watch the video below on how to download and install Anomaly.
-
-[![Video Title](https://img.youtube.com/vi/Bn6dmrsJAX0/0.jpg)](https://youtu.be/Bn6dmrsJAX0)
+## Please click on the video link below on how to download and install Anomaly.
 
 [Click here to watch install video](https://www.youtube.com/watch?v=Bn6dmrsJAX0&t=49s)
+
+- Do not forget to make sure you are logged into nexus in Wabbajack before starting your download. You can access this by clicking the cogwheel in wabbajack and then hitting login on the nexus panel. 
+
+![image](https://github.com/user-attachments/assets/4cde8ad6-c5e1-4daa-b2c5-78b4dcb293cf)
+
 
 ##  <ins>Please watch the entire video as there are key parts once in-game, like applying the MCM preset and launching the game, that you need to understand.</ins>
 
