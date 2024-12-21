@@ -171,6 +171,24 @@ The Fallout Anomaly team will notify you in advance of any upcoming updates via 
   1. Select the same install path.
   2. Ensure you check the "**overwrite existing**" option to update correctly.
 
+
+
+
+# Changing Resolution
+
+After updating make sure to open BethIni via the Mod Organizer drop down and change your Resolution to your monitor and set display mode to borderless windowed.
+
+### Steps to change resolution:
+1. Open **BethINI** and select **Fallout 4** (do not change INI paths, as they are set correctly).
+2. In the **Basic** tab, adjust the resolution.
+3. Close **BethINI** and save your settings.
+
+![image](https://github.com/user-attachments/assets/c4a1b7ba-056b-4933-9ba2-3897a1591129)
+
+# ⚠️ Important Note: APPLY THE MCM PRESET ⚠️
+![image](https://github.com/user-attachments/assets/44cddb55-e164-4cc5-9e22-511ba50ad6e3)
+
+
 ### Additional Resources:
 
 - **Changelog**:  
@@ -217,6 +235,9 @@ If your game resolution is not centered correctly, you can use **BethINI** to ad
 1. Open **BethINI** and select **Fallout 4** (do not change INI paths, as they are set correctly).
 2. In the **Basic** tab, adjust the resolution.
 3. Close **BethINI** and save your settings.
+
+![image](https://github.com/user-attachments/assets/e83c48cc-d321-4fd9-b17f-02d7f399c80c)
+
 
 ---
 
