@@ -1,7 +1,7 @@
 [
   {
     "title": "Fallout Anomaly",
-    "description": "Fallout Anomaly is a true hardcore experience, bringing you as close to realism as possible with mods like Damn Apocalypse, Better Locational Damage, and much more. Packed with new weapons and armor to face harsher challenges, Anomaly also features new enemy types, quests, settlement items, and a complete assortment of textures to elevate your game to modern standards. If you’re searching for that gritty, harsh survival experience, Anomaly has you covered. New winter update out now!",
+    "description": "Fallout Anomaly is a true hardcore experience, bringing you as close to realism as possible with mods like Damn Apocalypse, Better Locational Damage, and much more. Packed with new weapons and armor to face harsher challenges, Anomaly also features new enemy types, quests, settlement items, and a complete assortment of textures to elevate your game to modern standards. If you\u2019re searching for that gritty, harsh survival experience, Anomaly has you covered. New winter update out now!",
     "author": "Fallout Anomaly Team",
     "maintainers": [
       "github/NomadsReach"
@@ -23,21 +23,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Banner%20Images/74075-1734647779-1573003925.png",
       "readme": "https://github.com/NomadsReach/Fallout-Anomaly",
-      "download": "https://authored-files.wabbajack.org/Fallout Anomaly Winter Edition.wabbajack_9b37361a-c48c-40d8-bd40-f6aa38939e1c",
+      "download": "https://authored-files.wabbajack.org/Fallout Anomaly Winter Edition.wabbajack_0968824c-218f-4279-906f-842925687b22",
       "machineURL": "Fallout_Anomaly",
       "discordURL": "https://discord.gg/ECuAthsdwJ"
     },
     "download_metadata": {
-      "Hash": "dAxYkPY5YHs=",
-      "Size": 350144656,
-      "NumberOfArchives": 1040,
-      "SizeOfArchives": 170170550169,
-      "NumberOfInstalledFiles": 45435,
-      "SizeOfInstalledFiles": 186702535636
+      "Hash": "y0aqQIsSGTg=",
+      "Size": 402039190,
+      "NumberOfArchives": 1041,
+      "SizeOfArchives": 170170552675,
+      "NumberOfInstalledFiles": 45494,
+      "SizeOfInstalledFiles": 186798975724
     },
     "version": "0.5.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-12-21T22:08:32.6160465Z",
+    "dateUpdated": "2024-12-21T22:33:39.0473311Z",
     "repositoryName": ""
   }
 ]
