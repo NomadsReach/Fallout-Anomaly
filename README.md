@@ -46,8 +46,6 @@ Fallout Anomaly is a true hardcore experience, bringing you as close to realism 
 
 
 
----
-## Getting Started - You must go through each step!
 
 <details>
 <summary><h2><ins>STEP 1: Getting Started</ins></h2></summary>
