@@ -106,7 +106,7 @@ While not mandatory, Nexus Premium is strongly advised as it streamlines the mod
 </details>
 
 <details>
-  <summary><h2><ins>STEP 2: Installing Fallout Anomaly</ins></h2></summary>
+  <summary><h2><ins>STEP 2: Installing Fallout Anomaly & Updating</ins></h2></summary>
 
 ## Please click on the video link below on how to download and install Anomaly.
 
@@ -187,6 +187,8 @@ After updating make sure to open BethIni via the Mod Organizer drop down and cha
 
 # ⚠️ Important Note: APPLY THE MCM PRESET ⚠️
 ![image](https://github.com/user-attachments/assets/44cddb55-e164-4cc5-9e22-511ba50ad6e3)
+
+- Do not forget to apply the preset as shown in the screenshot above.
 
 
 ### Additional Resources:
