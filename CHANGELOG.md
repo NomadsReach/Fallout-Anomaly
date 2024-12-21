@@ -1,3 +1,52 @@
+**The Winter Update is Here!**  
+
+This major update transforms the wasteland with a complete retexture and introduces a specially designed snow-themed weather system. It also includes new armors, weapons, settlement items, crafting options, and a brand-new power armor.  
+
+Please note that Winter Overhaul, which retextured buildings and cars with snow, has been replaced with Winter Redone. This change was necessary due to the numerous bugs and nearly 30 unresolved issues in Winter Overhaul. Winter Redone provides a more stable and polished winter experience. The only drawback is that some buildings, cars, and other objects won't be completely covered in snow. However, the majority of the Commonwealth still captures the wintry aesthetic. See our plans for the future below for how we aim to improve this further.  
+
+This update is save-safe, but as always, minor issues may occur. For the smoothest experience, starting a new save is recommended.  
+
+To update, follow the instructions in the ReadMe. Once updated, you’ll have two profiles to choose from: the standard version and the Winter version.  
+
+Enjoy exploring the wasteland in its wintery glory!  
+
+**Known Issues:**
+
+- Please note that Winter Overhaul, which retextured buildings and cars with snow, has been replaced with Winter Redone. This change was necessary due to the numerous bugs and nearly 30 unresolved issues in Winter Overhaul. Winter Redone provides a more stable and polished winter experience. The only drawback is that some buildings, cars, and other objects won't be completely covered in snow. However, the majority of the Commonwealth still captures the wintry aesthetic. See our plans for the future below for how we aim to improve this further.
+
+- Winter Overhaul requires a new previs patch, as its current version is several updates behind. We plan to release an update addressing this in the future. If you encounter any issues with buildings flickering, please report them. We've taken care to minimize this issue as much as possible in the meantime.
+
+**Plans for the Future:**  
+
+Looking ahead, we’re focused on enhancing seasonal immersion. In the next major update, we plan to replace the current setup with a dynamic seasonal system that changes based on real-world dates. This change is dependent on the mod meeting our quality standards, as the current tree placement requires improvement. If approved, we’ll streamline back to a single profile.  
+
+We’re also exploring the idea of a nuclear winter mod, though this is unlikely due to its significant instability.  
+
+Additionally, we intend to phase out Christmas-themed mods over time. Just like in real life, holiday decorations such as Christmas trees shouldn’t linger year-round!  
+
+Lastly, I couldn’t implement the quest mods I wanted in this update while maintaining save compatibility. These remain a priority for future updates.  
+
+
+**Final Notes and Save Transfer:**
+
+
+
+- To transfer your saves to the Winter Update, follow these steps:  
+
+1. Open Mod Organizer and click on the profile dropdown.  
+2. Select "Manage."  
+3. Choose the "Fallout Anomaly Winter" profile.  
+4. Click "Transfer Saves."  
+5. Select your character name from the other profile and click "Copy" to transfer it to the Winter Update.  
+
+That's it—your save is now ready for the Winter Update!
+
+- If you encounter any issues during installation or gameplay, please report them as usual on the Support Forum.
+
+## END OF WINTER UPDATE NOTES!
+
+---
+
 0.5.2 BETA UPDATE
 
 ### Updates and Changes:
