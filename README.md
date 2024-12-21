@@ -2,7 +2,6 @@
 
 # Fallout Anomaly Install Guide.
 
-## 🔗 Links
 [![discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&logoSize=auto&color=%235661ea
 )](https://discord.gg/anomaly-1113971680419782666)
 [![youtube](https://img.shields.io/badge/Youtube-blue?style=for-the-badge&logo=youtube&logoColor=%23FFFFFF&logoSize=auto&color=%23ff1a47
