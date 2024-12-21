@@ -1,7 +1,7 @@
 [
   {
     "title": "Fallout Anomaly",
-    "description": "Fallout Anomaly is a true hardcore experience, bringing you as close to realism as possible with mods like Damn Apocalypse, Better Locational Damage, and much more. Packed with new weapons and armor to face harsher challenges, Anomaly also features new enemy types, quests, settlement items, and a complete assortment of textures to elevate your game to modern standards. If you\u2019re searching for that gritty, harsh survival experience, Anomaly has you covered.Now soon to be including our new Winter Update!.",
+    "description": "Fallout Anomaly is a true hardcore experience, bringing you as close to realism as possible with mods like Damn Apocalypse, Better Locational Damage, and much more. Packed with new weapons and armor to face harsher challenges, Anomaly also features new enemy types, quests, settlement items, and a complete assortment of textures to elevate your game to modern standards. If you’re searching for that gritty, harsh survival experience, Anomaly has you covered. New winter update out now!",
     "author": "Fallout Anomaly Team",
     "maintainers": [
       "github/NomadsReach"
@@ -21,7 +21,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/master/images/Banner%20Images/Fo4Anomaly27.png",
+      "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Banner%20Images/74075-1734647779-1573003925.png",
       "readme": "https://github.com/NomadsReach/Fallout-Anomaly",
       "download": "https://authored-files.wabbajack.org/Fallout Anomaly Winter Edition.wabbajack_9b37361a-c48c-40d8-bd40-f6aa38939e1c",
       "machineURL": "Fallout_Anomaly",
