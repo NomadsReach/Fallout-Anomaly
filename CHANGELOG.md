@@ -1,3 +1,25 @@
+# 12/23/2024 Update
+
+### Changelog  
+
+- **Fixed** plugin load order issues.  
+- **Updated** Complex Sorter for improved item tagging (e.g., Stimpaks).  
+- **INI Changes:** Resolved issues with INI settings not applying correctly. If your resolution is still incorrect, use BethINI outside of MO2. Detailed instructions are provided in the included README file.  
+- **Resolved** overwrites of outdated plugins.  
+- **Fixed** a crash caused by LOD errors.  
+- **Addressed** an issue with containers spawning medical items inconsistently across multiple locations.  
+- **Corrected** the Sneak perk leveling bug.  
+- **Nerfed** ECO significantly: crafting late-game ammo, weapons, and armors is no longer possible.  
+- **Introduced** new MCM changes for both profiles.  
+- **Added** new save fallback options for players stuck on a black screen! Use this as a last resort, not as a primary solution.  
+- **Added** a brand-new player home!  
+
+**Check it out here:** [Nexus Mods - Fallout 4](https://www.nexusmods.com/fallout4/mods/60496?tab=description)  
+
+--- 
+
+END OF 12/23/24 UPDATE
+---
 **The Winter Update is Here!**  
 
 This major update transforms the wasteland with a complete retexture and introduces a specially designed snow-themed weather system. It also includes new armors, weapons, settlement items, crafting options, and a brand-new power armor.  
