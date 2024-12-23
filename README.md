@@ -301,7 +301,7 @@ When launching the game you may experience a delay as scripts load. This delay v
 
 If you find yourself unable to progress from the first loading or main menu:
 
-**Watch this video [here](https://www.youtube.com/watch?v=JTnhJsM3_hg&t=97s) for help with the issue. If the video doesn’t resolve it, we’ve provided new save files for you to load and customize your character as needed.**  
+**Watch this video [here](https://www.youtube.com/watch?v=JTnhJsM3_hg&t) for help with the issue. If the video doesn’t resolve it, we’ve provided new save files for you to load and customize your character as needed.**  
 
 
 ## Post-Character Creation Freeze
