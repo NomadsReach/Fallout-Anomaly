@@ -295,15 +295,14 @@ If you don’t like the black bars at the top and bottom of the screen, you can 
 
 ## Main Menu Delay
 
-When clicking "Play," the main menu may experience a delay as scripts load. This delay varies based on your system's power; more powerful systems may not encounter this issue.
+When launching the game you may experience a delay as scripts load. This delay varies based on your system's power; more powerful systems may not encounter this issue.
 
 ## Stuck in Menu
 
 If you find yourself unable to progress from the first loading or main menu:
 
-1. Please allow a few minutes for the game to fully load after it boots up. It may seem like the game is frozen during this time, but rest assured that it is simply processing the necessary assets.
-2. Alt-tab out of the game & back in.
-3. Press the "Esc" key in the menu to load into the game
+**Watch this video [here](https://www.youtube.com/watch?v=JTnhJsM3_hg&t=97s) for help with the issue. If the video doesn’t resolve it, we’ve provided new save files for you to load and customize your character as needed.**  
+
 
 ## Post-Character Creation Freeze
 
@@ -323,8 +322,6 @@ If you're falling through the vault floor:
 - Programs like medal (recording software) or anything that adds an overlay can conflict with the ENBS, or other DLL hooked mods. If you are crashing right at the launch of game or at the main menu this can be one of the main causes.
 
 ## Minor Issues
-
-- Some NPCs may fail to use weapons even if they have ammunition in their inventory. If you experience this issue, please report it.. 
 
 - Controller Support: Most mods currently do not include controller support. However, the base game offers controller support in vanilla Fallout. The Anomaly Team is working to provide controller support for these mods, with prior permission from the authors.
 ---
