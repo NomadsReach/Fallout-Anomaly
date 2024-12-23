@@ -253,7 +253,7 @@ If your game’s resolution is not centered correctly, use **BethINI** to adjust
 1. Close **Mod Organizer 2**.  
 2. Navigate to your **Anomaly installation folder**:  
    - Open the folder and locate the **`Tools`** directory.  
-   - Inside, find and open the **BethINI** folder, then run the `BethINI.exe`.  
+   - Inside, find and open the **BethINI** folder, then run the `BethINI.exe` in admin mode by right clicking and selecting "run as admin"
 3. In **BethINI**, select **Fallout 4** (do not change INI paths, as they are already set correctly).  
 4. Go to the **Basic** tab and adjust the resolution to your desired setting.  
 5. Close **BethINI**, ensuring you save your changes.  
