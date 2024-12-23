@@ -57,6 +57,8 @@ Fallout Anomaly is a true hardcore experience, bringing you as close to realism 
 - **Operating System**: Windows 10/11 (64-bit) with up-to-date drivers.
 - **Free Disk Space**: A minimum of 350GB of storage is required, with an SSD being mandatory. Do not use a hard disk drive (HDD) as it will significantly affect load times.
 - **Skills**: Basic computer usage knowledge, including maintenance and regular updates.
+---
+🚨 Do not install **Anomaly** directly on a root drive (e.g., `C:\Fallout Anomaly`). Instead, install it within a dedicated folder structure, such as: `C:\Fallout Modlist\Fallout Anomaly`. 🚨
 
 For guidance on checking your system specs, refer to this [link](https://www.howtogeek.com/80108/how-to-get-detailed-information-about-your-pc-2/).
 
@@ -201,17 +203,6 @@ Failure to adjust these settings WILL result in issues. **Do not ignore this ste
 
 ---
 
-## Changing Resolution
-
-After updating, ensure to open **BethINI** via the Mod Organizer dropdown and adjust the resolution to match your monitor. Set the display mode to **borderless windowed**.
-
-### Steps to Change Resolution:
-1. Open **BethINI** and select **Fallout 4** (do not change INI paths, as they are set correctly).
-2. In the **Basic** tab, adjust the resolution.
-3. Close **BethINI** and save your settings.
-
----
-
 ## Additional Resources
 
 - **Changelog**:  
@@ -224,7 +215,7 @@ After updating, ensure to open **BethINI** via the Mod Organizer dropdown and ad
 </details>
 
 <details>
-<summary><h2><ins>STEP 3: Launching Fallout Anomaly</ins></h2></summary>
+<summary><h2><ins>STEP 3: Launching The List, Checking Resolution, & Applying MCM Preset</ins></h2></summary>
  
   
 ### Launching the Game
@@ -257,10 +248,16 @@ If the game crashes, a log will be generated with details about the crash. Follo
 
 If your game’s resolution is not centered correctly, use **BethINI** to adjust it. **Do not alter any other settings**.
 
-#### Steps to change resolution:
-1. Open **BethINI** and select **Fallout 4** (do not change the INI paths as they are already set correctly).
-2. In the **Basic** tab, adjust the resolution.
-3. Close **BethINI** and save your changes.
+### Steps to Change Resolution  
+
+1. Close **Mod Organizer 2**.  
+2. Navigate to your **Anomaly installation folder**:  
+   - Open the folder and locate the **`Tools`** directory.  
+   - Inside, find and open the **BethINI** folder, then run the `BethINI.exe`.  
+3. In **BethINI**, select **Fallout 4** (do not change INI paths, as they are already set correctly).  
+4. Go to the **Basic** tab and adjust the resolution to your desired setting.  
+5. Close **BethINI**, ensuring you save your changes.  
+
 
 ![BethINI Screenshot](https://github.com/user-attachments/assets/e83c48cc-d321-4fd9-b17f-02d7f399c80c)
 
