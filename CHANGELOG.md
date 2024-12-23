@@ -9,13 +9,14 @@
 - **Fixed** a crash caused by LOD errors.  
 - **Addressed** an issue with containers spawning medical items inconsistently across multiple locations.  
 - **Corrected** the Sneak perk leveling bug.  
-- **Nerfed** ECO significantly: crafting late-game ammo, weapons, and armors is no longer possible.  
+- **Nerfed** ECO significantly: crafting late-game ammo, weapons, and armors is no longer possible. While these can be re-enabled via the MCM, this is not recommended as it undermines the intended gameplay balance.  
 - **Introduced** new MCM changes for both profiles.  
-- **Added** new save fallback options for players stuck on a black screen! Use this as a last resort, not as a primary solution.  
+- **Added** new save fallback options for players stuck on a black screen! Use this as a last resort, not as a standard fix.  
 - **Added** a brand-new player home!  
 
 **Check it out here:** [Nexus Mods - Fallout 4](https://www.nexusmods.com/fallout4/mods/60496?tab=description)  
 
+### **Download now on Wabbajack and don’t forget to apply the MCM preset!**  
 --- 
 
 END OF 12/23/24 UPDATE
