@@ -12,9 +12,7 @@
 - Reported Previs (Texture Flickering) issues fixed.  
 - Resolution INI issue resolved.  
 
-**Advisory:** Users should remove all files in the Anomaly install folder, except for the folder where downloaded mods are stored, to ensure a fully clean installation.  [Click Here for help on a clean install](https://github.com/user-attachments/assets/a0d8c912-44da-4f8c-879a-f6c370bc5b0b) Make sure that you click overwrite install.
-
-
+**Advisory:** Users should remove all files in the Anomaly install folder, except for the folder where downloaded mods are stored, to ensure a fully clean installation.  [Click Here for help on a clean install](https://github.com/user-attachments/assets/78774c32-2807-46cb-aec1-c99db04db745) Make sure that you click overwrite install.
 
 
 **Advisory:** 
