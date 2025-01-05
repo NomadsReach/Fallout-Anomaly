@@ -23,21 +23,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Banner%20Images/74075-1734647779-1573003925.png",
       "readme": "https://github.com/NomadsReach/Fallout-Anomaly",
-      "download": "https://authored-files.wabbajack.org/Fallout Anomaly Winter Update.wabbajack_7884f885-6de6-4817-89f8-a1ccf3f8a433",
+      "download": "https://authored-files.wabbajack.org/Fallout Anomaly Winter Edition.wabbajack_6cf241db-7d17-430b-97a5-6cba51fbe9f5",
       "machineURL": "Fallout_Anomaly",
       "discordURL": "https://discord.gg/ECuAthsdwJ"
     },
     "download_metadata": {
-      "Hash": "nwnqc4YkKdQ=",
-      "Size": 386005813,
-      "NumberOfArchives": 1046,
-      "SizeOfArchives": 168852116978,
-      "NumberOfInstalledFiles": 45495,
-      "SizeOfInstalledFiles": 184733091218
+      "Hash": "RtwxOGfd0/8=",
+      "Size": 433460180,
+      "NumberOfArchives": 1029,
+      "SizeOfArchives": 157921171109,
+      "NumberOfInstalledFiles": 44912,
+      "SizeOfInstalledFiles": 172751000819
     },
-    "version": "0.5.2",
+    "version": "0.5.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-12-23T11:04:14.9485151Z",
+    "dateUpdated": "2025-01-05T02:57:23.1788408Z",
     "repositoryName": ""
   }
 ]
