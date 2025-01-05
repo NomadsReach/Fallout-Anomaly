@@ -1,3 +1,38 @@
+# 01/04/2025
+
+### Changlog
+
+**FIRST 2025 UPDATE:**  **NECESSARY REQUIRED UPDATE**  - **SAVE SAFE** -
+
+- **Weapon pickup issue resolved:** Users must wait 72 hours in an interior space to reset leveled lists.  
+- Crash related to Wattz Electronic fixed.  
+- Crash related to the *America Rising* quest, "Humanity Must Shape Their Tools," fixed.  
+- Crash and audio issues in DLC areas resolved.  
+- Facegen and NPC issues, including "Kim NPC" and Honest Dan, fixed.
+- Reported Previs (Texture Flickering) issues fixed.  
+- Resolution INI issue resolved.  
+
+**Advisory:** Users should remove all files in the Anomaly install folder, except for the folder where downloaded mods are stored, to ensure a fully clean installation.  [Click Here for help on a clean install](https://github.com/user-attachments/assets/a0d8c912-44da-4f8c-879a-f6c370bc5b0b) Make sure that you click overwrite install.
+
+
+
+
+**Advisory:** 
+
+If the resolution issue persists, follow these steps:  
+1. Click on the dropdown menu under **Profiles** in Mod Organizer, select your profile, and ensure that **Profile-specific Game INI Files** is unchecked.  
+2. Close Mod Organizer.  
+3. Navigate to your Anomaly installation directory, then open **Tools/BethINI**.  
+4. Launch BethINI.exe and verify that your settings match these: [Click Here](https://github.com/user-attachments/assets/3ed374f4-7989-4317-9054-f2f98bfd625a)
+
+5. Save your changes and close BethINI.  
+
+**FIRST 2025 UPDATE:**  **NECESSARY REQUIRED UPDATE**  - **SAVE SAFE** -
+
+
+# END OF 01/04/25 UPDATE
+
+
 # 12/23/2024 Update
 
 ### Changelog  
