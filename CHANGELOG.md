@@ -1,3 +1,11 @@
+# 01/05/2025
+
+- Fixed: https://discord.com/channels/1113971680419782666/1325536091880820866
+- Fixed: https://discord.com/channels/1113971680419782666/1325497509195288617
+- Fixed: https://discord.com/channels/1113971680419782666/1325454421244641290
+- Fixed relapsed issue where meds were spawning in all wooden boxes.  
+- Cleaned up root folder to ensure files no longer place themselves in the overwrite directory.
+
 # 01/04/2025
 
 ### Changlog
