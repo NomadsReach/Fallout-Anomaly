@@ -452,7 +452,7 @@ Many new features, like stagger, bleeding, stealth killmoves, and more await to 
 </details>
 
 <details>
-<summary><h2>7. Radiation System: Damn Apocalypse</h2></summary>
+<summary><h2>7. Radiation System & Healing</h2></summary>
 
 ### Mechanics
 1. Introduces a dual radiation system:
@@ -467,6 +467,55 @@ Many new features, like stagger, bleeding, stealth killmoves, and more await to 
 - Rad-X: Increases IRA resistance.
 - Pb-Jelly: Increases RAD resistance.
 
+
+---
+
+### Bleed System Overview
+
+**Managing Bleeding**  
+Stimpaks no longer work if you're experiencing internal or external bleeding. Before using a Stimpak, you must first mend your wounds.  
+
+Bleeding is caused by bullets or bladed weapons and can be treated in two primary ways:  
+- **Bandages**: Use these to stop the bleeding and close the wound.  
+- **Bloodpacks**: These replenish blood but should be used sparingly—overuse can lead to cardiac arrest.  
+
+---
+
+**Healing Limbs**  
+Stimpaks are no longer effective for healing limbs. Instead, you'll need specific medical items:  
+- **Jerry-Rigged Medic Kits**: Temporary, painful solutions to stabilize limb injuries.  
+- **Surgery Kits**: A more permanent fix, but they often leave open wounds, requiring bandages to stop the bleeding afterward.  
+
+Healing is not instant, and the process can be painful. Always carry enough bandages when venturing into the Wastes.  
+
+---
+
+**Managing Pain**  
+Pain from injuries can be treated with:  
+- **Med-X**  
+- **Painkillers**  
+
+For persistent or severe pain, it's best to visit a doctor in a major settlement.  
+
+---
+
+**Treating Diseases**  
+Each disease requires specific medication:  
+- **Antibiotics**: Treat infections.  
+- **Sleep Aid**: Cures insomnia. Note: Sleep aids are addictive, so use them in moderation.  
+- **Anodyne**: Relieves fatigue.  
+- **Anti-Parasitic**: Removes parasites.  
+- **Stimulants**: Alleviate lethargy.  
+- **Energy Pills**: Address weakness.  
+
+Most of these medications can be found with doctors. If you're lucky, you might also find them on raiders, gunners, or other NPCs.  
+
+---
+
+**Final Tips**  
+The Wastes are unforgiving, and every decision matters. Always carry enough medical supplies—bandages, painkillers, and specialized treatments—before heading out. Staying prepared can mean the difference between survival and death.  
+
+--- 
 </details>
 
 <details>
@@ -477,7 +526,7 @@ Crafting has been expanded with additional requirements:
 1. Perk-based crafting for specialized items (e.g., Dogmeat-related perks for Dogmeat items).
 2. Higher-tier armors require advanced crafting perks and materials like ballistic weave.
 
-- *This is all still ongoing and will be improved and expanded in later updates.*
+
   
   </details>
 
