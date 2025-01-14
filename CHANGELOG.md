@@ -67,8 +67,8 @@
 7. [Pip-Boy Flashlight Mod](https://www.nexusmods.com/fallout4/mods/89217)
 8. [Underground Tunnels Mod](https://www.nexusmods.com/fallout4/mods/52227)
 9. [Drumlin Diner Update](https://www.nexusmods.com/fallout4/mods/60367)
-10.   [Heather Companion Mod](https://www.nexusmods.com/fallout4/mods/23273)  
-
+10. [Heather Companion Mod](https://www.nexusmods.com/fallout4/mods/23273)  
+11. [Fog Isolation](https://www.nexusmods.com/fallout4/mods/90580)
 ---
 
 
