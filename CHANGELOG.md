@@ -56,19 +56,45 @@
    - Press `F6` for manual saves.  
 
 ---
-
 ### **Added Mods**  
-1. [APC Transport - Settlement Workshop Integration](https://www.nexusmods.com/fallout4/mods/89930)  
-2. [APC Home](https://www.nexusmods.com/fallout4/mods/16211)  
-3. [AR2 Texture Improvements 1.1](https://www.nexusmods.com/fallout4/mods/79001)  
-4. [HUDCaps](https://www.nexusmods.com/fallout4/mods/43505)  
-5. [Skip Kellogg's Memories](https://www.nexusmods.com/fallout4/mods/73643)  
-6. [Skip Dima's Memories](https://www.nexusmods.com/fallout4/mods/39417)  
-7. [Pip-Boy Flashlight Mod](https://www.nexusmods.com/fallout4/mods/89217)
-8. [Underground Tunnels Mod](https://www.nexusmods.com/fallout4/mods/52227)
-9. [Drumlin Diner Update](https://www.nexusmods.com/fallout4/mods/60367)
+
+1. [Project Arroyo - Pip-Boy 2000](https://www.nexusmods.com/fallout4/mods/89217)  
+2. [APC Transport - Settlement Workshop Integration](https://www.nexusmods.com/fallout4/mods/89930)  
+3. [APC Home](https://www.nexusmods.com/fallout4/mods/16211)  
+4. [AR2 Texture Improvements 1.1](https://www.nexusmods.com/fallout4/mods/79001)  
+5. [HUDCaps](https://www.nexusmods.com/fallout4/mods/43505)  
+6. [Skip Kellogg's Memories](https://www.nexusmods.com/fallout4/mods/73643)  
+7. [Skip Dima's Memories](https://www.nexusmods.com/fallout4/mods/39417)  
+8. [Underground Tunnels Mod](https://www.nexusmods.com/fallout4/mods/52227)  
+9. [Drumlin Diner Update](https://www.nexusmods.com/fallout4/mods/60367)  
 10. [Heather Companion Mod](https://www.nexusmods.com/fallout4/mods/23273)  
-11. [Fog Isolation](https://www.nexusmods.com/fallout4/mods/90580)
+11. [Fog Isolation](https://www.nexusmods.com/fallout4/mods/90580)  
+12. [Better Vertibird LiTE](https://www.nexusmods.com/fallout4/mods/76349)  
+13. [Disable Exit Save](https://www.nexusmods.com/fallout4/mods/73462)  
+14. [EFT Font Replacer - Bender](https://www.nexusmods.com/fallout4/mods/90482)  
+15. [HD LockPick Interface](https://www.nexusmods.com/fallout4/mods/24884)  
+16. [Immersive Scrapping](https://www.nexusmods.com/fallout4/mods/90580)  
+17. [Mason Jar Cap Stash](https://www.nexusmods.com/fallout4/mods/52752)  
+18. [OLD WORLD RADIO - BOSTON](https://www.nexusmods.com/fallout4/mods/9048)  
+19. [Console Autocomplete](https://www.nexusmods.com/fallout4/mods/86290)  
+20. [Highlight Console Reference](https://www.nexusmods.com/fallout4/mods/43560)  
+21. [NPC Can Heal](https://www.nexusmods.com/fallout4/mods/72177)  
+22. [Real Interiors - Persistent Weather](https://www.nexusmods.com/fallout4/mods/88889)  
+23. [Better Casing Ejection](https://www.nexusmods.com/fallout4/mods/59910)  
+24. [Cryolator HD](https://www.nexusmods.com/fallout4/mods/31564)  
+25. [Consolidate Weapon Crafting Recipes](https://www.nexusmods.com/fallout4/mods/45387)  
+26. [Cryolator Moved To Fort Hagen](https://www.nexusmods.com/fallout4/mods/75690)  
+27. [Icon Expansion Pack for FIS](https://www.nexusmods.com/fallout4/mods/40268)  
+28. [M2 Flamethrower Redux](https://www.nexusmods.com/fallout4/mods/88022)  
+29. [Moon Rotation Fix](https://www.nexusmods.com/fallout4/mods/80005)  
+30. [Nuanced Eye Reflection](https://www.nexusmods.com/fallout4/mods/21719)  
+31. [Puddle Replacer](https://www.nexusmods.com/fallout4/mods/53834)  
+32. [Put Ur Gun In - Immersive Weapon Switch](https://www.nexusmods.com/fallout4/mods/88447)  
+33. [Sprint Jump AP Fix](https://www.nexusmods.com/fallout4/mods/73888)  
+34. [The Flamer Project](https://www.nexusmods.com/fallout4/mods/51479)  
+35. [TBS - Turret Blind Spots](https://www.nexusmods.com/fallout4/mods/44173) - 180-degree turning points.  
+36. [America Rising 2 - Texture Improvements](https://www.nexusmods.com/fallout4/mods/79001)  
+
 ---
 
 
