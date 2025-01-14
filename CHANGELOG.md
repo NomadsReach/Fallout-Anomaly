@@ -22,17 +22,31 @@
 
 ---
 
-#### **Bug Fixes**  
-1. **Audio Issue**: Resolved problem caused by exceeding the `.ba2` file limit.  
-2. **Crackle Cough Audio Bug**: Fixed persistent coughing sound.  
-3. **Crackle Breathing Sound Bug**: Addressed constant breathing sound issue.  
-4. **Strong NPC Behavior**: Fixed related bug.  
-5. **Screen Splash Issue**: Investigated and possibly resolved; awaiting feedback.  
-6. **North Boston PD Previs Conflict**: Fixed.  
-7. **IHO Gas Mask Script**: Resolved issue causing nonstop script execution and spam of broken mask messages.  Thanks to Chinpira!
-8. **Brightness Adjustment**:  
+### **Bug Fixes**
+
+1. **Audio Issues**:  
+   - Resolved the problem caused by exceeding the `.ba2` file limit.  
+   - Fixed the persistent crackling cough sound.  
+   - Addressed the constant crackling breathing sound issue.  
+
+2. **NPC Behavior**:  
+   - Corrected the issue with overly strong NPC behavior.  
+
+3. **Screen Splash Issue**:  
+   - Investigated and potentially resolved the screen splash problem; awaiting feedback.  
+
+4. **North Boston PD Previs Conflict**:  
+   - Fixed the conflict causing issues with North Boston PD previs.  
+
+5. **IHO Gas Mask Script**:  
+   - Resolved issue causing continuous script execution and spam of broken mask messages. Special thanks to Chinpira!  
+
+6. **America Rising Vertibird Issue**:  
+   - Fixed internal bug with AR2. Workaround implemented: Use the console command `ResetQuest AR_EnclaveVertibirdFastTravel` if the Enclave vertibird fails to arrive.  
+
+7. **Brightness Adjustment**:  
    - Tweaked NAC settings to improve night visibility.  
-   - Persistent bug causing NAC settings to reset to dark temp workaround added. 
+   - Added a workaround for the persistent bug causing NAC settings to reset to dark temperatures.
 
 ---
 
