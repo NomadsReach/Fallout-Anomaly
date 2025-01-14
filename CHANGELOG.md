@@ -63,7 +63,7 @@
 1. **Photos Relocated**: Moved to `mods\FO4 Photo Mode\Root\Photos`.  
 2. **Updated PRP**: Applied latest release from 01/07.**  
 3. **America Rising 2 PRP Patch**: Updated.
-3. **LOD**: Generated & Updated for both profiles.
+3. **LOD Optimized**: Generated & Updated for both profiles.
 5. **New Damn Apoc patch**: added to help simplify things. - Thank you to: I LOVE FROZEN!
 6. **Quick Save Disabled**: Replaced with manual save.  
    - Players can wait anywhere by pressing `T`.  
