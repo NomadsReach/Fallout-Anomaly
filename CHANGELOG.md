@@ -13,7 +13,7 @@
 4. **Survival Fast Travel**:  
    - Enabled fast travel in Survival mode.  
    - Requires save and reload if not functioning immediately.  
-5. **Caps Stash Update**: Made more lore-friendly (e.g., shoebox containers).  
+5. **Caps Stash Update**: Made more lore-friendly (replaced shoebox containers).  
 6. **Crafting Adjustments**:  
    - Reduced requirements for crafting Mutaway.  
    - Increased spawn chances for crafting materials.  
@@ -25,9 +25,9 @@
 ### **Bug Fixes**
 
 1. **Audio Issues**:  
-   - Resolved the problem caused by exceeding the `.ba2` file limit.  
-   - Fixed the persistent crackling cough sound.  
-   - Addressed the constant crackling breathing sound issue.  
+   - Resolved the DLC area crash/audio problem caused by exceeding the `.ba2` file limit.  
+   - Fixed the persistent cough sound.  
+   - Addressed the constant breathing sound issue.  
 
 2. **NPC Behavior**:  
    - Corrected the issue with overly strong NPC behavior.  
