@@ -1,3 +1,75 @@
+# UPCOMING UPDATE RELEASE DATE TBA: 
+
+#### **Gameplay Changes**  
+1. **Grass Levels**: Reduced density and height for better optimization.  
+2. **Flamethrowers and Cryo Weapons**:  
+   - Boosted damage.  
+   - Added the new M2 Flamethrower.  
+   - Reassigned multiple weapons to the appropriate crafting benches.  
+3. **Enhanced Movement Mechanics**:  
+   - Sprinting out of combat now enabled with half AP cost.  
+   - Disabled AP drain while swimming.  
+   - Sliding enabled (caution: can be buggy).  
+4. **Survival Fast Travel**:  
+   - Enabled fast travel in Survival mode.  
+   - Requires save and reload if not functioning immediately.  
+5. **Caps Stash Update**: Made more lore-friendly (e.g., shoebox containers).  
+6. **Crafting Adjustments**:  
+   - Reduced requirements for crafting Mutaway.  
+   - Increased spawn chances for crafting materials.  
+7. **Tape Reversion**: Returned crafting tape from tiny electrical tape back to duct tape.  
+8. **FallUI Carry Weight**: Removed the "Show Category Weight" display.  
+
+---
+
+#### **Bug Fixes**  
+1. **Audio Issue**: Resolved problem caused by exceeding the `.ba2` file limit.  
+2. **Crackle Cough Audio Bug**: Fixed persistent coughing sound.  
+3. **Crackle Breathing Sound Bug**: Addressed constant breathing sound issue.  
+4. **Strong NPC Behavior**: Fixed related bug.  
+5. **Screen Splash Issue**: Investigated and possibly resolved; awaiting feedback.  
+6. **North Boston PD Previs Conflict**: Fixed.  
+7. **IHO Gas Mask Script**: Resolved issue causing nonstop script execution and spam of broken mask messages.  Thanks to Chinpira!
+8. **Brightness Adjustment**:  
+   - Tweaked NAC settings to improve night visibility.  
+   - Persistent bug causing NAC settings to reset to dark temp workaround added. 
+
+---
+
+#### **Removed or Adjusted Features**  
+1. **Car Alarms**:  
+   - Disabled due to annoyance and lack of lore consistency with retro Fallout cars.  
+   - Potential to create custom alarms if requested.  
+2. **Damn Apocalypse Radiation Equipment Breakage**: Disabled in favor of IHO mechanics to avoid confusion.  
+3. **Wild Wasteland Location Mod**: Removed due to unresolved bugs.
+
+---
+
+#### **Miscellaneous Updates**  
+1. **Photos Relocated**: Moved to `mods\FO4 Photo Mode\Root\Photos`.  
+2. **Updated PRP**: Applied latest release from 01/07.  
+3. **America Rising 2 PRP Patch**: Updated.  
+4. **Quick Save Disabled**: Replaced with manual save.  
+   - Players can wait anywhere by pressing `T`.  
+   - Press `F6` for manual saves.  
+
+---
+
+### **Added Mods**  
+1. [APC Transport - Settlement Workshop Integration](https://www.nexusmods.com/fallout4/mods/89930)  
+2. [APC Home](https://www.nexusmods.com/fallout4/mods/16211)  
+3. [AR2 Texture Improvements 1.1](https://www.nexusmods.com/fallout4/mods/79001)  
+4. [HUDCaps](https://www.nexusmods.com/fallout4/mods/43505)  
+5. [Skip Kellogg's Memories](https://www.nexusmods.com/fallout4/mods/73643)  
+6. [Skip Dima's Memories](https://www.nexusmods.com/fallout4/mods/39417)  
+7. [Pip-Boy Flashlight Mod](https://www.nexusmods.com/fallout4/mods/89217)
+8. [Underground Tunnels Mod](https://www.nexusmods.com/fallout4/mods/52227)
+9. [Drumlin Diner Update](https://www.nexusmods.com/fallout4/mods/60367)
+10.   [Heather Companion Mod](https://www.nexusmods.com/fallout4/mods/23273)  
+
+---
+
+
 # 01/05/2025
 
 - Fixed: https://discord.com/channels/1113971680419782666/1325536091880820866
