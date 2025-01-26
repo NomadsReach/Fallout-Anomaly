@@ -1,4 +1,68 @@
-# UPCOMING UPDATE RELEASE DATE TBA: 
+###  Major Update: Revamped Systems, New Features, and More!  1/26/2025
+
+We’re thrilled to announce the next major update, packed with exciting changes and enhancements to bring a deeper, more immersive experience to your gameplay. This update introduces sweeping overhauls, new mechanics, and refined systems to ensure every aspect of your journey feels fresh and rewarding.  
+
+---
+
+**⚠️ A NEW SAVE IS HIGHLY SUGGESTED!**  
+Playing on an old save may cause issues due to major system changes, including the removal of NAC. Starting fresh is highly recommended for the best experience.  
+
+---
+
+### **What’s New?**  
+- **Presets** – Customize your player with new presets!  
+- **New Companion** – A fresh face to join you on your adventures.  
+- **Rebuild Settlement (AIO)** – Transform and expand settlements with a complete rebuild system.  
+- **Place Everywhere** – Build with unparalleled freedom and precision.  
+- **Wasteland Codex** – Discover the lore and history of the wasteland in a brand-new codex system.  
+- **Fallsouls** – Seamless, immersive gameplay with no menu interruptions.  
+- **Weather System Overhaul** – NAC has been replaced with an enhanced, dynamic weather system.  
+- **Economy and Combat Overhaul** – Rebalanced mechanics for more depth and challenge.  
+- **New Player Homes** – Three additional player homes have been added, bringing the total to six to discover and enjoy.  
+- **Anomaly Starter Guide** – A brand-new, expansive guide located in the MCM menu to help new players navigate and master the game’s systems.  
+- **Carry Weight Changes** – Base carry weight is now set to **80**, requiring you to manage your inventory carefully. Gain more carry weight through perks or by finding backpacks in the world. Backpacks can be opened using the **“I”** key to provide additional capacity.  
+- **Winter Profile Removal** – The winter profile has been temporarily removed and will return in the future under a single seasonal mod. It will utilize the **Seasons Change Mod** ([Seasons Change](https://www.nexusmods.com/fallout4/mods/76710)) to deliver a dynamic and immersive seasonal experience.  
+
+---
+
+### **Key System Overhauls**  
+
+#### **First Aid System**  
+The First Aid system has been completely reimagined to enhance survival gameplay. Key changes include:  
+- **Rebalanced Item Effectiveness** – Medical items now feel more impactful, with a stronger emphasis on strategic use.  
+- **Dynamic Crafting Requirements** – Crafting First Aid items now demands thoughtful resource management.  
+- **Synergy with Survival Mechanics** – Injuries and treatments are now integrated with survival systems, encouraging players to plan ahead and prioritize their health.  
+
+These changes make every medical decision meaningful and amplify the tension of surviving in the wasteland.  
+
+---
+
+#### **Crafting System Redesign**  
+Crafting has been overhauled to provide greater depth and progression. Highlights include:  
+- **New Schematics System** – Unlock advanced crafting recipes by finding schematics in the world, completing quests, or achieving milestones. This system rewards exploration and gives crafting a sense of progression.  
+- **Universal Workbench Updates** – Improved usability and versatility, allowing crafting across all categories (including most modded ones) from a single workbench once unlocked.  
+- **Streamlined Crafting Categories** – Materials and recipes are now better organized for quicker navigation.  
+
+These updates make crafting more intuitive, rewarding, and integral to gameplay while encouraging players to explore every corner of the wasteland.  
+
+---
+
+### **Concord Revamp and New Locations**  
+Concord has been completely transformed with new locations, stories, and challenges. Dive into a reimagined environment brimming with hidden treasures, dangerous encounters, and exciting new narratives.  
+
+---
+
+### **Bug Fixes and Polishing**  
+This update also includes an expansive list of bug fixes and quality-of-life improvements, ensuring a smoother and more enjoyable experience.  
+
+---
+
+### **An Enhanced Start to Your Journey**  
+For those new to the wasteland, the **Anomaly Starter Guide** provides a comprehensive resource to help you navigate the world’s systems, now accessible directly from the MCM menu.  
+
+---
+
+Prepare to explore a more immersive, challenging, and rewarding wasteland! Stay tuned for the full patch notes and get ready to embark on your greatest adventure yet.
 
 #### **Gameplay Changes**  
 1. **Grass Levels**: Reduced density and height for better optimization.  
@@ -44,9 +108,7 @@
 6. **America Rising Vertibird Issue**:  
    - Fixed internal bug with AR2. Workaround implemented: Use the console command `ResetQuest AR_EnclaveVertibirdFastTravel` if the Enclave vertibird fails to arrive.  
 
-7. **Brightness Adjustment**:  
-   - Tweaked NAC settings to improve night visibility.  
-   - Added a workaround for the persistent bug causing NAC settings to reset to dark temperatures.
+
 
 ---
 
