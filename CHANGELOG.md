@@ -1,3 +1,18 @@
+# Update: 1/27/2025
+
+- Updated ENB settings to remove border and lowered some settings for performance.
+- Disabled HighFPS OSD.
+- Adjusted HUD settings for a cleaner user interface.  
+- Added a .22 Carbine to the player’s starting inventory to ease difficulty in the starting area.  
+- Cleaned up unused downloads.
+- Updated Loading Screen
+- More MCM Tweaks/ENB.
+- Balanced Deathclaw and Minigun in Concord.
+- Reduced radiation effects from Damn Apocalypse.
+- Fixed reported crashes near Starlight.
+- Lowered the spawn rate of large hostile enemy NPC groups.
+- Nerfed Heather's Bone Meal effect.
+
 ###  Major Update: Revamped Systems, New Features, and More!  1/26/2025
 
 We’re thrilled to announce the next major update, packed with exciting changes and enhancements to bring a deeper, more immersive experience to your gameplay. This update introduces sweeping overhauls, new mechanics, and refined systems to ensure every aspect of your journey feels fresh and rewarding.  
@@ -10,7 +25,8 @@ Playing on an old save may cause issues due to major system changes, including t
 ---
 
 ### **What’s New?**  
-- **Presets** – Customize your player with new presets!  
+- **Presets** – Customize your player with new presets!
+- **Quest** – In The Flesh - A Horror Quest Mod: Delve into the madness. A horror inspired dungeon with custom enemies and scares.   
 - **New Companion** – A fresh face to join you on your adventures.  
 - **Rebuild Settlement (AIO)** – Transform and expand settlements with a complete rebuild system.  
 - **Place Everywhere** – Build with unparalleled freedom and precision.  
