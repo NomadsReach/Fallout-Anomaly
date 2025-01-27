@@ -160,6 +160,17 @@ Follow these steps before proceeding with the mod installation:
 
 ## ⚠️ **Important Notes**
 
+## Download Issues
+
+- If you have issues with google drive downloads please download manually, place inside your Wabbajack download folder and restart the install.
+
+https://drive.google.com/file/d/1sWpTDjSYC4xwhEveSuVhykjzHpZ2Qk1Y/view
+
+
+https://drive.google.com/file/d/1APDBlK9UuPkXgptW0U1IHtKgEv4s9ruP/view
+
+---
+
 ### **ENB Download Issue**
 - If your ENB download fails, download it manually and place it into the Anomaly Downloads folder created by Wabbajack.  
   **Download ENB here**: [ENB for Fallout 4](http://enbdev.com/mod_fallout4_v0496.htm)  
@@ -324,6 +335,7 @@ If you're falling through the vault floor:
 ## Minor Issues
 
 - Controller Support: Most mods currently do not include controller support. However, the base game offers controller support in vanilla Fallout. The Anomaly Team is working to provide controller support for these mods, with prior permission from the authors.
+
 ---
 </details>
 
