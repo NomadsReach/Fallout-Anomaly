@@ -12,7 +12,7 @@
 - Fixed reported crashes near Starlight.
 - Lowered the spawn rate of large hostile enemy NPC groups.
 - Nerfed Heather's Bone Meal effect.
-
+---
 ###  Major Update: Revamped Systems, New Features, and More!  1/26/2025
 
 We’re thrilled to announce the next major update, packed with exciting changes and enhancements to bring a deeper, more immersive experience to your gameplay. This update introduces sweeping overhauls, new mechanics, and refined systems to ensure every aspect of your journey feels fresh and rewarding.  
