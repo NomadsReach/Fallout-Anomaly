@@ -112,6 +112,8 @@ Follow these steps before proceeding with the mod installation:
 
 ![image](https://github.com/user-attachments/assets/4cde8ad6-c5e1-4daa-b2c5-78b4dcb293cf)
 
+Once you locate *Fallout Anomaly* in the Wabbajack Browser and download the file, you'll be directed to the installer page. Here, you'll need to set both your **Install Location** and **Download Location**. For optimal performance and a significantly faster installation, it's recommended to place both on the same drive.
+
 - **Note:** After downloading and installing Fallout Anomaly, it’s a good idea to reopen the `.wabbajack` file in the Wabbajack program and click **"Verify Installation."** This will check your files and report any errors. If the verification process reports any issues, please reach out to us on **Discord** for troubleshooting assistance.
 
 - <ins>Please refer to the image below to better understand the above instructions.</ins>
