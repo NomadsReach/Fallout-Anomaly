@@ -332,10 +332,6 @@ If you're falling through the vault floor:
 
 - Programs like medal (recording software) or anything that adds an overlay can conflict with the ENBS, or other DLL hooked mods. If you are crashing right at the launch of game or at the main menu this can be one of the main causes.
 
-## Minor Issues
-
-- Controller Support: Most mods currently do not include controller support. However, the base game offers controller support in vanilla Fallout. The Anomaly Team is working to provide controller support for these mods, with prior permission from the authors.
-
 ---
 </details>
 
