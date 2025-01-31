@@ -295,7 +295,11 @@ If you don’t like the black bars at the top and bottom of the screen, you can 
 
 ![ENB Menu Screenshot](https://github.com/user-attachments/assets/c416445f-e1b8-4bc3-9efa-7906d7eb586e)
 
+### Optional Section
 
+Anomaly includes a collection of optional custom mods designed to enhance your gameplay experience. See below: 
+
+![image](https://github.com/user-attachments/assets/708ad0e6-37fe-4ecd-a215-82e110ae1c4f)
 
 
 
