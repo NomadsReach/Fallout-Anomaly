@@ -108,16 +108,9 @@ Follow these steps before proceeding with the mod installation:
 <details>
   <summary><h2><ins>STEP 2: Installing Fallout Anomaly & Updating</ins></h2></summary>
 
-## Please click on the video link below on how to download and install Anomaly.
-
-[Click here to watch install video](https://www.youtube.com/watch?v=Bn6dmrsJAX0&t=49s)
-
 - Do not forget to make sure you are logged into nexus in Wabbajack before starting your download. You can access this by clicking the cogwheel in wabbajack and then hitting login on the nexus panel. 
 
 ![image](https://github.com/user-attachments/assets/4cde8ad6-c5e1-4daa-b2c5-78b4dcb293cf)
-
-
-##  <ins>Please watch the entire video and then continue on with the other sections below.</ins>
 
 - **Note:** After downloading and installing Fallout Anomaly, it’s a good idea to reopen the `.wabbajack` file in the Wabbajack program and click **"Verify Installation."** This will check your files and report any errors. If the verification process reports any issues, please reach out to us on **Discord** for troubleshooting assistance.
 
