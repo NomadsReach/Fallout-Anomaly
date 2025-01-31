@@ -1,3 +1,66 @@
+# Update: 1/30/2025
+
+## Bug Fixes  
+- Fixed a crash with Piper during the opening quest.  
+- Fixed a possible crash related to high-level player progression and the Combined Arms ammo distribution system.  
+- Fixed other **reported crash issues**.  
+- Fixed duplicate healing items appearing in crafting benches.  
+- Fixed a typo in the Power Armor Training holotape.  
+- Corrected the placement of benches in underground tunnels.  
+- Fixed leftover spawns of unused aspirin from the Agony mod.  
+- Resolved issue with **10mm Revolver** showing a mesh error.  
+
+## ⚖ Balance Adjustments  
+- Balanced the Storyteller companion.  
+- Increased the price of 9mm ammunition.  
+- Increased bandage availability at vendors.  
+- Reverted seeds back to the **cooking** bench.  
+- Reduced the price of Heather's bone meal.  
+- Reduced the impact of certain explosion types.  
+- Balanced post-apocalyptic outfit and Gunner Armor.  
+- Increased requirements for IHO Challenges to unlock perks.  
+
+## :video_game: Gameplay & UI Improvements  
+- Reset NPC travel for dangerous creatures back to 10%.  
+- Restored NPC detection radius to version 0.5.3 values. (Increase) 
+- Removed red marks and enemy indicators from the compass.  
+- **Added "E" key support for activation** in the optional section of the modlist. *(Ensure keybinds are set correctly if using the lean mod.)*  
+- Adjusted stealth effect visuals—Check the Pip-Boy display when under the chameleon effect. *(Disable in the optional section if it breaks immersion.)*  
+- Increased overall NPC voice volume.  
+- Pip-Boy color now correctly displays.  
+- **Provided controller support for PlayStation controllers.**  
+- Updated **Game Guide**: Controller Support and Keybind Customization.  
+
+## Crafting & Settlement Changes  
+- Fixed an issue where some crafting stations were not appearing in engineering benches.  
+- Adjusted **Crafting Master** to immersive mode and ensured the IHO integrity system is turned off.  
+- Added the settlement overlay back—Yellow overlay now shows when trying to scrap items in settlement benches.  
+- Fixed additional crafting bench placement and organization.  
+
+## :wrench: Modlist & System Adjustments  
+- Removed Root Builder, and files are now placed directly in the Stock Folder.  
+- **Added "Grabbing is Stealing"**.  
+- Disabled **Damn Apocalypse** visual filter system.  
+- Reworked the complex sorter.  
+- Enabled the "bit reload" for one-in-the-chamber MCM—Proper keyword is now added.  
+- Disabled exit saves *(to prevent vanilla save corruption).*  
+- Disabled auto-saves *(to prevent vanilla save corruption).*  
+- Updated **Modlist** section in line for next major version update.  
+- **Locked Global Stash behind a Main Story Quest**.  
+
+## :soon: Upcoming Changes (TBA)  
+- **Fix animation not playing for the backpack** due to the removal of the QMW mod. *(Later Update)*
+- **Add Xbox Controller Support.** *(Later Update - WIP)*    
+- **Rebuild LOD.** *(Later Update)*  
+- **Increase gas mask durability.** *(WIP)* 
+- **Add more animals to be able to be skinned.** *(WIP)*  
+- **Ongoing Perk Overhaul based on Fallout Anomaly Setting.** *(WIP)* 
+- **Add Enjoy the Darkness - Flashlights and Night Vision Use Fusion Cells and Overheat - Plus Stealth Fix.** *(WIP)*  
+- **Add Thermal Vision Framework** *(WIP)*
+- **Battery Widget - A Thermal Vision Framework Addition** *(WIP)*
+
+---
+
 # Update: 1/27/2025
 
 - Updated ENB settings to remove border and lowered some settings for performance.
