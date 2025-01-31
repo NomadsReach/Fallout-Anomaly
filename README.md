@@ -120,6 +120,17 @@ Once you locate *Fallout Anomaly* in the Wabbajack Browser and download the file
 
 ![Verify Image](https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Readme%20Docs/Verify.png)
 
+## ⚠️ **Important Notes**
+
+## Download Issues
+
+- If you have issues with google drive downloads please download manually, place inside your Wabbajack download folder and restart the install.
+
+https://drive.google.com/file/d/1sWpTDjSYC4xwhEveSuVhykjzHpZ2Qk1Y/view
+
+
+https://drive.google.com/file/d/1APDBlK9UuPkXgptW0U1IHtKgEv4s9ruP/view
+
 
 ---
 
@@ -150,19 +161,6 @@ Once you locate *Fallout Anomaly* in the Wabbajack Browser and download the file
 
 #### **4. Wabbajack Could Not Find My Game Folder**
 - Wabbajack does not work with pirated versions of the game. Ensure you own the game on Steam and follow the pre-installation steps accordingly.
-
----
-
-## ⚠️ **Important Notes**
-
-## Download Issues
-
-- If you have issues with google drive downloads please download manually, place inside your Wabbajack download folder and restart the install.
-
-https://drive.google.com/file/d/1sWpTDjSYC4xwhEveSuVhykjzHpZ2Qk1Y/view
-
-
-https://drive.google.com/file/d/1APDBlK9UuPkXgptW0U1IHtKgEv4s9ruP/view
 
 ---
 
