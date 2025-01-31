@@ -108,113 +108,109 @@ Follow these steps before proceeding with the mod installation:
 <details>
   <summary><h2><ins>STEP 2: Installing Fallout Anomaly & Updating</ins></h2></summary>
 
-- Do not forget to make sure you are logged into nexus in Wabbajack before starting your download. You can access this by clicking the cogwheel in wabbajack and then hitting login on the nexus panel. 
-
-![image](https://github.com/user-attachments/assets/4cde8ad6-c5e1-4daa-b2c5-78b4dcb293cf)
-
-Once you locate *Fallout Anomaly* in the Wabbajack Browser and download the file, you'll be directed to the installer page. Here, you'll need to set both your **Install Location** and **Download Location**. For optimal performance and a significantly faster installation, it's recommended to place both on the same drive.
-
-- **Note:** After downloading and installing Fallout Anomaly, it’s a good idea to reopen the `.wabbajack` file in the Wabbajack program and click **"Verify Installation."** This will check your files and report any errors. If the verification process reports any issues, please reach out to us on **Discord** for troubleshooting assistance.
-
-- <ins>Please refer to the image below to better understand the above instructions.</ins>
-
-![Verify Image](https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Readme%20Docs/Verify.png)
-
-## ⚠️ **Important Notes**
-
-## Download Issues
-
-- If you have issues with google drive downloads please download manually, place inside your Wabbajack download folder and restart the install.
-
-https://drive.google.com/file/d/1sWpTDjSYC4xwhEveSuVhykjzHpZ2Qk1Y/view
-
-
-https://drive.google.com/file/d/1APDBlK9UuPkXgptW0U1IHtKgEv4s9ruP/view
-
+Here's a cleaner and more structured version of your guide with improved readability:
 
 ---
 
-[![discord](https://img.shields.io/badge/Click_For_Support-blue?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&logoSize=auto&color=%235661ea
-)](https://discord.gg/anomaly-1113971680419782666)
-[![wabbajackwiki](https://img.shields.io/badge/Wabbajack%20Wiki-blue?style=for-the-badge&logo=wikipedia&logoColor=%23FFFFFF&logoSize=auto&color=%235f437d
-)](https://wiki.wabbajack.org/)
-[![wabbajackwiki](https://img.shields.io/badge/Wabbajack%20Discord-blue?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&logoSize=auto&color=%235f437d
-)](https://discord.gg/wabbajack)
+# **STEP 2: Installing Fallout Anomaly & Updating**  
 
----
-# Fallout Anomaly - Wabbajack Installation & Update Guide
+## **Pre-Installation Checklist**  
+✅ **Log into Nexus in Wabbajack**:  
+- Open Wabbajack, click the ⚙️ cogwheel, and log in under the Nexus panel.  
 
-## Troubleshooting
-
-### **Common Issues & Solutions**
-
-#### **1. Could Not Download MOD**
-- If certain mods fail to download, you can manually download them from their source and place the archived folder in the download folder where Wabbajack is downloading.
-- Sometimes Nexus Mods may experience downtime. You can check the status here: [Nexus Mods Status](https://nexusmods.statuspage.io/).
-
-#### **2. Mod Is Not a Whitelisted Download**
-- This error may occur when the modlist is updated, or the mod link is no longer valid.
-- Ensure you check for updates and wait for a new release. If you encounter this issue, please notify us on Discord.
-
-#### **3. Missing Game Files**
-- Ensure your game is updated to the next-gen version. This update is required to proceed with the installation.
-
-#### **4. Wabbajack Could Not Find My Game Folder**
-- Wabbajack does not work with pirated versions of the game. Ensure you own the game on Steam and follow the pre-installation steps accordingly.
+![image](https://github.com/user-attachments/assets/4cde8ad6-c5e1-4daa-b2c5-78b4dcb293cf)  
 
 ---
 
-### **ENB Download Issue**
-- If your ENB download fails, download it manually and place it into the Anomaly Downloads folder created by Wabbajack.  
-  **Download ENB here**: [ENB for Fallout 4](http://enbdev.com/mod_fallout4_v0496.htm)  
-  **Important**: Do **NOT extract** the file; just move it to the Downloads folder.
+## **Installation Instructions**  
+### **1️⃣ Downloading Fallout Anomaly**  
+- Locate *Fallout Anomaly* in the Wabbajack Browser and download the file.  
+- You'll be directed to the installer page to set your **Install Location** and **Download Location**.  
+  - 🔹 **For best performance**, place both on the **same drive**.  
+
+### **2️⃣ Verifying Installation**  
+- After installation, **reopen** the `.wabbajack` file in Wabbajack.  
+- Click **"Verify Installation"** to check for errors.  
+- If issues arise, reach out on **Discord** for troubleshooting.  
+
+![Verify Image](https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Readme%20Docs/Verify.png)  
 
 ---
 
-## Updating Fallout Anomaly
+## ⚠️ **Troubleshooting Download Issues**  
 
-The Fallout Anomaly team will notify you about upcoming updates via **Discord** and **Nexus**. If a new save is required for the update, we will communicate this in advance.
+### **Google Drive Download Issues**  
+- If downloads fail, **download manually** and place the file in your Wabbajack download folder.  
+- Restart the install.  
 
-### What to Expect During an Update:
+🔹 [Download Link 1](https://drive.google.com/file/d/1sWpTDjSYC4xwhEveSuVhykjzHpZ2Qk1Y/view)  
+🔹 [Download Link 2](https://drive.google.com/file/d/1APDBlK9UuPkXgptW0U1IHtKgEv4s9ruP/view)  
 
-#### **Wabbajack Update Process**
-- During an update, Wabbajack will delete any files that are **not part of the modlist** from the previous version, including any manually installed mods.
+### **ENB Download Issues**  
+- If your ENB download fails, download it manually and move it to the **Anomaly Downloads** folder created by Wabbajack.  
+- ❗ **DO NOT extract the file**—just place it in the folder.  
+- Restart Wabbajack and run the installer again.  
 
-#### **Save Preservation**
-- Your saves will **remain intact** unless explicitly stated otherwise. You can find your saved games at:  
-  `(Fallout Anomaly Install)/Profiles/Fallout Anomaly/Saves`.
-
-#### **Updating the Modlist**
-- To update Fallout Anomaly, follow the same process as the initial installation:
-  1. Select the same install path.
-  2. Ensure the "**overwrite existing**" option is checked to update correctly.
+🔹 [**Download ENB for Fallout 4**](http://enbdev.com/mod_fallout4_v0496.htm)  
 
 ---
 
-## ⚠️ **Antivirus Settings Adjustment**
-
-To ensure smooth operation, **add exceptions** for the following files in your antivirus software:
-
-1. **MO2.exe** – Mod Organizer 2 executable
-2. **Fallout4.exe** – Main game executable
-3. **F4SE_Loader.exe** – Fallout 4 Script Extender (F4SE)
-
-Additionally, **add the 'Stock Folder'** in the Mod Organizer 2 directory, which contains the `Fallout4.exe` file.
-
-
-
-Failure to adjust these settings WILL result in issues. **Do not ignore this step!**
+## **Need Help?**  
+[![Discord Support](https://img.shields.io/badge/Click_For_Support-blue?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&logoSize=auto&color=%235661ea)](https://discord.gg/anomaly-1113971680419782666)  
+[![Wabbajack Wiki](https://img.shields.io/badge/Wabbajack%20Wiki-blue?style=for-the-badge&logo=wikipedia&logoColor=%23FFFFFF&logoSize=auto&color=%235f437d)](https://wiki.wabbajack.org/)  
+[![Wabbajack Discord](https://img.shields.io/badge/Wabbajack%20Discord-blue?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&logoSize=auto&color=%235f437d)](https://discord.gg/wabbajack)  
 
 ---
 
-## Additional Resources
+## **Common Issues & Fixes**  
 
-- **Changelog**:  
-  You can view the detailed changelog for each update [here](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/CHANGELOG.md).
+### **1️⃣ "Could Not Download MOD"**  
+- Manually download the mod and place it in Wabbajack's download folder.  
+- Check if Nexus Mods is down: [**Nexus Mods Status**](https://nexusmods.statuspage.io/)  
 
+### **2️⃣ "Mod Is Not a Whitelisted Download"**  
+- The modlist may have been updated, making an old mod link invalid.  
+- Wait for a new release or notify us on **Discord**.  
 
+### **3️⃣ "Missing Game Files"**  
+- Ensure your game is updated to the **next-gen version**.  
 
+### **4️⃣ "Wabbajack Could Not Find My Game Folder"**  
+- **Pirated versions are not supported**. Ensure you own Fallout 4 on **Steam**.  
 
+---
+
+## ⚠️ **Antivirus Settings Adjustment**  
+
+To prevent issues, **add exceptions** for these files in your antivirus software:  
+
+✅ **MO2.exe** – Mod Organizer 2  
+✅ **Fallout4.exe** – Main game executable  
+✅ **F4SE_Loader.exe** – Fallout 4 Script Extender  
+
+Additionally, **add the ‘Stock Folder’** from Mod Organizer 2, which contains `Fallout4.exe`.  
+🔹 **Skipping this step WILL cause problems!**  
+
+---
+
+# **Updating Fallout Anomaly**  
+
+✅ **Update Notifications**  
+- Updates will be announced on **Discord** and **Nexus Mods**.  
+- If a **new save is required**, we will notify you.  
+
+### **🔄 Update Process in Wabbajack**  
+- Wabbajack **deletes any manually installed mods** not part of the official modlist.  
+- Follow the **same installation process** as before:  
+  1. Select the same **install path**.  
+  2. Check "**overwrite existing**" to update properly.  
+
+### **💾 Save Preservation**  
+- Your saves **will remain intact** unless explicitly stated otherwise.  
+- Find your saves at:  
+  `(Fallout Anomaly Install)/Profiles/Fallout Anomaly/Saves`  
+
+---
 
 </details>
 
@@ -222,84 +218,96 @@ Failure to adjust these settings WILL result in issues. **Do not ignore this ste
 <summary><h2><ins>STEP 3: Launching The List, Checking Resolution, & Applying MCM Preset</ins></h2></summary>
  
   
-### Launching the Game
-
-When you launch **Mod Organizer 2 (MO2)**, the interface may seem a bit complex at first, but don’t worry—we’ve simplified the process for ease of use. To launch Fallout Anomaly:
-
-1. In the **top-right corner** of the MO2 interface, click on the option labeled **"Launch Fallout Anomaly"** to start the game.
-
-### F4SE (Fallout 4 Script Extender)
-
-**F4SE** is essential for most Fallout mods and is required to run Fallout Anomaly. When using MO2, you’ll see **F4SE** listed as **"Launch Fallout Anomaly"** in the mod launcher.
-
-> **Important**:  
-> **DO NOT** use the vanilla game launcher at any point! Also, please ensure you set antivirus exceptions for the entire **Mod Organizer 2** folder.
+Here’s a more polished and visually engaging version of your guide:  
 
 ---
 
-### Crash Handling
+# 🚀 **Launching Fallout Anomaly**  
 
-If the game crashes, a log will be generated with details about the crash. Follow these steps:
+When you open **Mod Organizer 2 (MO2)**, the interface might seem complex at first, but don’t worry—we’ve streamlined the process!  
 
-1. **Save the log** to a location you can easily access.
-2. **Upload the log** to the bug report form [here](https://falloutanomaly.fillout.com/bugreports). OR if you are in our discord you can post it there as well in the support section.
-3. **Include your save file**: Attach your most recent save file to assist with further analysis.
-4. **Crash Tool**: If you're familiar with it, you can also run the crash tool to generate the log manually.
+### 🎮 **How to Launch the Game**  
 
----
+1️⃣ In the **top-right corner** of the MO2 interface, click **"Launch Fallout Anomaly"** to start the game.  
 
-### Changing Resolution
-
-If your game’s resolution is not centered correctly, use **BethINI** to adjust it. **Do not alter any other settings**.
-
-### Steps to Change Resolution  
-
-1. Close **Mod Organizer 2**.  
-2. Navigate to your **Anomaly installation folder**:  
-   - Open the folder and locate the **`Tools`** directory.  
-   - Inside, find and open the **BethINI** folder, then run the `BethINI.exe` in admin mode by right clicking and selecting "run as admin"
-3. In **BethINI**, select **Fallout 4** (do not change INI paths, as they are already set correctly).  
-4. Go to the **Basic** tab and adjust the resolution to your desired setting.  
-5. Close **BethINI**, ensuring you save your changes.  
-
-
-![BethINI Screenshot](https://github.com/user-attachments/assets/e83c48cc-d321-4fd9-b17f-02d7f399c80c)
+> ⚠️ **DO NOT** use the vanilla game launcher!
 
 ---
 
-### ⚠️ Important: APPLY THE MCM PRESET ⚠️
+# 🔧 **F4SE (Fallout 4 Script Extender)**  
 
-Don't forget to apply the preset as shown below:
-
-![Preset Screenshot](https://github.com/user-attachments/assets/44cddb55-e164-4cc5-9e22-511ba50ad6e3)
+**F4SE** is essential for most Fallout mods and is required to run Fallout Anomaly.  
+When using MO2, **F4SE** is automatically included in **"Launch Fallout Anomaly"**—no extra setup needed!  
 
 ---
 
-### Changing ENB - Disabling Letterbox (Black Bars)
+# 💥 **Crash Handling**  
 
-If you don’t like the black bars at the top and bottom of the screen, you can disable them by following these steps:
+If your game crashes, follow these steps to report the issue:  
 
-1. Press the `~` key (next to the `1` key) to open the console.
-2. Press the `END` key to open the ENB menu.
-3. Navigate to the **Post Processing** section on the right side of the menu.
-4. Uncheck the option labeled **Letterbox**.
-5. Click **Save Configuration** at the top-left corner of the menu.
-6. Press `END` and then `~` again to close the menus and resume your game.
+1️⃣ **Save the log** to an easily accessible location.  
+2️⃣ **Upload the log** via our [bug report form](https://falloutanomaly.fillout.com/bugreports) OR post it in our **Discord support section**.  
+3️⃣ **Attach your most recent save file** to help with debugging.  
 
-![ENB Menu Screenshot](https://github.com/user-attachments/assets/c416445f-e1b8-4bc3-9efa-7906d7eb586e)
+---
 
-### Optional Section
+# 🖥️ **Changing Resolution (BethINI)**  
 
-Anomaly includes a collection of optional custom mods designed to enhance your gameplay experience. See below: 
+If your game’s resolution isn’t correct, use **BethINI** to adjust it. **Do NOT modify other settings!**  
 
-![image](https://github.com/user-attachments/assets/708ad0e6-37fe-4ecd-a215-82e110ae1c4f)
+### 📌 **How to Change Resolution:**  
 
+1️⃣ **Close** **Mod Organizer 2**.  
+2️⃣ Navigate to your **Anomaly installation folder**:  
+   - Open the **`Tools`** directory.  
+   - Inside, find and open the **BethINI** folder.  
+   - Right-click `BethINI.exe` and select **"Run as Administrator"**.  
+3️⃣ In **BethINI**, select **Fallout 4** (**DO NOT** change INI paths!).  
+4️⃣ Go to the **Basic** tab and adjust your resolution.  
+5️⃣ Click **Save & Exit** to apply the changes.  
+
+📷 ![BethINI Screenshot](https://github.com/user-attachments/assets/e83c48cc-d321-4fd9-b17f-02d7f399c80c)  
+
+---
+
+# ⚠️ **Apply the MCM Preset!** ⚠️  
+
+Don't forget to apply the preset for proper settings:  
+
+📷 ![Preset Screenshot](https://github.com/user-attachments/assets/44cddb55-e164-4cc5-9e22-511ba50ad6e3)  
+
+---
+
+# 🎞️ **Disabling Black Bars (Letterbox) in ENB**  
+
+If you don’t like the black bars at the top and bottom of the screen, follow these steps to disable them:  
+
+1️⃣ Press the **`~`** key (next to the `1` key) to open the console.  
+2️⃣ Press **`END`** to open the ENB menu.  
+3️⃣ Navigate to the **Post Processing** section.  
+4️⃣ **Uncheck** the **Letterbox** option.  
+5️⃣ Click **Save Configuration** (top-left).  
+6️⃣ Press **`END`** and **`~`** again to exit the menus.  
+
+📷 ![ENB Menu Screenshot](https://github.com/user-attachments/assets/c416445f-e1b8-4bc3-9efa-7906d7eb586e)  
+
+---
+
+# 🎭 **Optional Mods**  
+
+Anomaly includes a collection of **optional** mods to enhance your gameplay experience. Browse through them and customize your experience!  
+
+📷 ![image](https://github.com/user-attachments/assets/708ad0e6-37fe-4ecd-a215-82e110ae1c4f)  
+
+---
+
+This version makes the guide more visually engaging with clear sections, emojis, and formatting for readability. Let me know if you'd like any tweaks! 😊
 
 
 </details>
 
 <details>
-  <summary><h2><ins>STEP 4: Known Issues</ins></h2></summary>
+  <summary><h2><ins>STEP 4: Known Issues & Controller Support.</ins></h2></summary>
 
 ## Main Menu Delay
 
@@ -328,6 +336,26 @@ If you're falling through the vault floor:
 ## Known Crash Related Issues:
 
 - Programs like medal (recording software) or anything that adds an overlay can conflict with the ENBS, or other DLL hooked mods. If you are crashing right at the launch of game or at the main menu this can be one of the main causes.
+
+
+## **Controller Support** 🎮  
+
+We currently support **PS5 controllers**, with **Xbox support planned for the future.**  
+
+### **Step 1: Configure Steam Settings**  
+- Ensure your **Steam controller settings** are correctly set up as shown in the window below.  
+- **Steam Overlay** must be enabled for the controller to function properly.  
+- **Steam Input**: Paste the following link into your browser and open Steam when prompted:  
+  **steam://controllerconfig/377160/3417630938**  
+  This will install the **custom controller profile** for Fallout Anomaly.  
+
+### **Step 2: Enable the Controller Support Mod**  
+- In **MO2**, activate the optional mod:  
+  **"A - OPT - Controller Support - PS5 Support"**  
+
+This ensures full functionality for your PS5 controller in-game. 🚀
+
+![image](https://github.com/user-attachments/assets/06e65ae6-05b8-4a1e-9d33-ca8ec5b9bc7f)
 
 ---
 </details>
