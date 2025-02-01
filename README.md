@@ -217,11 +217,6 @@ Additionally, **add the ‘Stock Folder’** from Mod Organizer 2, which contain
 <details>
 <summary><h2><ins>STEP 3: Launching The List, Checking Resolution, & Applying MCM Preset</ins></h2></summary>
  
-  
-Here’s a more polished and visually engaging version of your guide:  
-
----
-
 # 🚀 **Launching Fallout Anomaly**  
 
 When you open **Mod Organizer 2 (MO2)**, the interface might seem complex at first, but don’t worry—we’ve streamlined the process!  
