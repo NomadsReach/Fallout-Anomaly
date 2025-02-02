@@ -352,6 +352,9 @@ This ensures full functionality for your PS5 controller in-game. 🚀
 
 ![image](https://github.com/user-attachments/assets/06e65ae6-05b8-4a1e-9d33-ca8ec5b9bc7f)
 
+![image](https://github.com/user-attachments/assets/8b3ae832-e62e-4817-b858-d70256727bf8)
+
+
 ---
 </details>
 
