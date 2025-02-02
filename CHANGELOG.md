@@ -1,3 +1,24 @@
+# Update Notes  2/2/2025
+
+- **Updated Guide** – Added instructions on how to save progress.  
+- **Fixed MO2 Modlist Issue** – Resolved an issue where separators were not properly moved during compilation.  
+- **New Crafting Requirements** – Workbenches now require crafting journals.  
+- **Crash Fixes** – Addressed multiple reported crashes.  
+- **Restored VATS Button** – The VATS button has been restored in the controls menu.  
+- **Global Stash Aid Item Overhaul** – Replaced with a new version that now requires crafting.  
+- **Companion Carry Weight Fix** – Adjusted to reflect intended values.  
+- **MCM Presets Fix** – Resolved inconsistencies in preset settings.  
+
+### New Additions:  
+- **F4EE-Patched** – Integrated for improved functionality.  
+- **Modern Replacer - Nuka-Cola** – Updated models and textures.  
+- **HFs - Bowling Set (HI-Poly)** – High-poly bowling set added.  
+- **Smokable Cigars and Cigarettes** – Introduced a new way to save. You can now smoke! When smoking this will create a save.
+- **Added Proof of Concept Overlays for Gas Masks** – Vanilla Gas Masks and GP-5 will now have a overlay more to come in the future.
+- **HD Architecture - Hightech and Skyscraper** – High Quality Texture Replacements.
+
+---
+
 # Update: 1/30/2025
 
 ## Bug Fixes  
