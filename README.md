@@ -341,7 +341,7 @@ We currently support **PS5 controllers**, with **Xbox support planned for the fu
 - Ensure your **Steam controller settings** are correctly set up as shown in the window below.  
 - **Steam Overlay** must be enabled for the controller to function properly.  
 - **Steam Input**: Paste the following link into your browser and open Steam when prompted:  
-  **steam://controllerconfig/377160/3417630938**  
+  **steam://controllerconfig/377160/3420527035**  
   This will install the **custom controller profile** for Fallout Anomaly.  
 
 ### **Step 2: Enable the Controller Support Mod**  
