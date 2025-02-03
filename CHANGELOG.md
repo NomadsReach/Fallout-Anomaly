@@ -1,3 +1,97 @@
+# UPDATE 2/3/2025
+
+### **Patch Notes**  
+
+## **Fixes & Improvements**  
+- **Resolved previs issue near Covenant (North Boston Police HQ).** *(Some minor issues remain near the bridge—still under investigation.)*  
+- **Permanently fixed controller and keyboard keybinds.**  (Controller users make sure to get the new steam config link in the read me)
+- **Addressed HUD reset issue with condition display.**  
+- **Fixed various texture issues:**  
+  - **APC textures**  
+  - **Gas masks and Pip-Boy textures**  
+  - **Puddle rendering issues**  
+- **Fixed an issue where lootable cars were not scrappable.**  
+- **Cleaned up additional workbenches.**  
+
+## **Gameplay Adjustments**  
+
+### **Survival & Balance Changes**  
+- **Reduced first aid item spawns, particularly from raiders.**  
+- **Halved purified water availability while increasing its value.**  
+- **Increased RadAway spawn rate.**  
+- **Balanced smokable item prices.**  
+  - *Smoking and bed sleeping are now the only ways to save.* <---------- Important Notice  
+- **Fast travel is fully disabled.**  
+  - *Alternative travel methods include APCs, underground sewers, subway stations, Vertibirds, and certain player homes.*  
+  - *A hard save is automatically created every 15 minutes as a fallback.* <---------- Important Notice   
+
+### **Combat & Enemy Adjustments**  @Important Notice 
+- **Boosted Deathclaws from *Deadlier Deathclaws* and improved NPC travel behavior.**  
+  - *You should fear these and run!*  
+  - **Legendary Deathclaws** are even deadlier, cannot be staggered, and require serious firepower.  
+- **Behemoths have been enhanced and now function as endgame bosses.**  
+- **Increased Mirelurk Queen’s health during the Castle battle.**  
+
+### **Mechanics & Perks**  
+- **Adjusted night vision requirements** – Now requires higher-level perks.  
+- **Added Stimpak cooldown mechanic.** <---------- Important Notice  
+  - *Stimpaks now have a 40-second cooldown between uses.*  
+- **Reduced car explosion damage and radiation but increased stagger effect when too close.**  
+
+## **HUD & Interface Updates**  
+- **Revised HUD with an added active effects display.**  
+- **Moved gas mask overlay to optional settings for those who prefer no overlays.**  
+
+## **Additional Content & Guides**  
+- **Updated hint guide.**  
+- **Updated saving guide.**  
+- **Added Codex entry to guide.**
+- **Added climbable ladders. (Craftable)**  
+- **Added *FallEvil Zombie Overhauls* and *FallEvil Complete Edition*.**  
+- **Introduced new boss types!**  
+  - *Hopefully, they don’t sneak up on you in the dark…*  
+
+## **Miscellaneous Changes**  
+- **Adjusted Concord Home water pump to require more than just one steel and a fusion cell.**  
+- **Moved *Place Everywhere* to optional settings.**  
+- **Additional crafting and balance changes not listed.**  
+- **Companions are now limited to 2 at a time.**  <--------- Important Notice 
+- **Boosted overall sound volumes.**   
+- **Tuned FPS cap to 120.**  
+- **Updated perk descriptions to reflect correct workbenches.** 
+
+## **Known Issues**  <---- Important Notice 
+- **Some minor flickering still at North Boston PD.** - WIP Patching.
+- **No crashes so far with the new FallEvil Zombie overhaul but we are tracking it's reported issues.** 
+- **SKK: New Start Location - Picking the Glowing Sea Option will cause the player to crash. ** - Under investigation.
+- **Investigate radiation causing body armor damage** – Issue currently observed only in Beantown.
+- **Any other unresolved issues reported to team not addressed yet.**
+- **Bugged Presets - Some character presets are bugged. Will be fixed once new facegen and 2k textures are optimized.**
+
+## :soon: Upcoming Changes (TBA)  
+- **Fix animation not playing for the backpack** due to the removal of the QMW mod. *(Later Update)*
+- **Add Xbox Controller Support.** *(Later Update - WIP)*
+- **Rebuild LOD.** *(Later Update)*   
+- **Increase gas mask durability.** *(WIP)* 
+- **Add more animals to be able to be skinned.** *(WIP)*  
+- **Ongoing Perk Overhaul based on Fallout Anomaly Setting.** *(WIP)* 
+- **Add Enjoy the Darkness - Flashlights and Night Vision Use Fusion Cells and Overheat - Plus Stealth Fix.** *(WIP)*  
+- **Add Thermal Vision Framework** *(WIP)*
+- **Add Battery Widget - A Thermal Vision Framework Addition** *(WIP)* 
+- **Evaluate removal of placed workbenches across the world.** 
+- **Balance OP Backpacks**  
+- **Begin locking weapons behind schematics.**  
+- **Restore Synthesis first-person message.**  
+- **Prevent climbing with a broken limb.**  
+- **Patch Player Homes to support modded radios.**  
+- **Add Monorail To Spectacle Island**  
+- **Add Immersive Gunners Plaza.**  
+- **Overhaul Other Misc Areas and Cities.** 
+- **Make new mod that opens doorway to Deathclaw and fix his pathing so he can enter. (Concord Deathclaw Quest)**
+ - **Look into making new low health sounds (Sucking chest wounds, choking on blood etc)**   
+
+---
+
 # Update Notes  2/2/2025
 
 - **Updated Guide** – Added instructions on how to save progress.  
