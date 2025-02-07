@@ -1,3 +1,55 @@
+# **Patch Notes**  2/6/2025
+
+### **Balance Changes**  
+- Swan buffed.  
+- Tyrants nerfed.  
+
+### **Progression Adjustments**  
+- **Local Leader Perk:** Rank 1 locked behind taking castle back (minuteman) rank 2 requires rank 1.  
+- **Purified Water:** Now required for most healing items.  
+- **Water Bench:** Required to craft Purified Water, locked behind the Engineer Bench.  
+
+### **Item & Crafting Changes**  
+- **APC Fuel:** Now requires APC Fuel, crafted from Nuclear Fuel.  
+- **Defusing Kit:**  
+  - Required for defusing mines.  
+  - Lockpicking ability removed.  
+  - Available once Rank 2 of Gun Nut & Demolition Expert are unlocked.  
+
+### **Fixes & Improvements**  
+- **Black screen on new game:** Fixed.  (If you encounter it please try join our discord for help.)
+- **Keybinds during character creation (hair options):** Fixed.  
+- **Game Freezing at start of game during vault cutscene:** Fixed. 
+- **SKK Location:** Removed while we look into a crash issue.
+- **Photo mode will now save in it's own mod within "Photos"**.
+- **NPC Travel:**.   - NPCs are now in order with better locational damage values.
+
+### **Modifications & Additions**  
+- **SKK Global Stash:** Moved into storyline NPC inventory. (Still can craft)
+- **Immersive HUD:** Conditional Boy patch added.  
+- **Smoking Save Mod:** Removed and replaced with a new survival pack mod, allowing saves without issues and quicker.
+- **Unleveled World - F4SE**    - Added
+
+[How to disarm mines](https://www.nexusmods.com/fallout4/mods/91349/)
+
+[New Save System - Read to understand](https://www.nexusmods.com/fallout4/mods/91340?tab=description)
+
+[Unleveled World - F4SE](https://www.nexusmods.com/fallout4/mods/72784)
+
+
+- SAVE SAFE 
+
+- DO NOT FORGET TO OVERWRITE INSTALL AND APPLY MCM PRESET 
+
+
+---
+
+**You should not have any mods with [NoDelete] in the name. If you do, they must be deleted! To find them, type [NoDelete] in the search bar at the bottom of Mod Organizer 2. If you find any, delete them—they are either unnecessary or have been updated/renamed. Failure to do this will cause install issues and crashing.** @Important Notice 
+
+ **If you experience keybind issues after this update, press ESC, go to Settings > Controls, and reset your keybinds to default.**
+
+---
+
 # UPDATE 2/3/2025
 
 ### **Patch Notes**  
