@@ -1,3 +1,15 @@
+# **Patch Notes**  2/9/2025
+
+- Added Loft Enhanced mod.  Door at the bottom is now fixed.
+- Updated Joel ENB.
+- Balanced damage and sneak perks.
+- Removed GCM, as it is no longer needed.  NPC Ai Stealth values have been adjusted as well.
+- Fixed Stimpak bugs. Removed cool down for time being due to bug issues
+- Changed the cheat menu to the Anomaly Debug Menu and Anomaly systems now manage the device.
+- Lots more bug fixes.
+- HUD should work correctly with cond boy now.
+---
+
 # **Patch Notes**  2/6/2025
 
 ### **Balance Changes**  
