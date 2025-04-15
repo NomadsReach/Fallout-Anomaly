@@ -6,7 +6,7 @@ We’ve taken a step back to examine every system, mechanic, and design choice. 
 This is not a patch. It’s a new foundation — a full reimagining of what Anomaly can be.
 
 We understand many of you have been frustrated with bugs, crashes, or inconsistent features.  
-We’ve felt that frustration too. In the past, our approach was to release large beta builds and continue patching them as new issues came to light. And while those builds represented a ton of hard work, they were still limited by the size of our testing team — usually fewer than ten people — compared to the 5,000+ of you who were jumping into the game on release.
+We’ve felt that frustration too. In the past, our approach was to release large beta builds and continue patching them as new issues came to light. And while those builds represented a ton of hard work, they were still limited by the size of our testing team — usually fewer than ten people — compared to the 5,000+ of you who were jumping into the list on release.
 
 When bugs slip through and patches pile up, the entire experience suffers. It becomes messy, unstable, and harder to maintain — for us and for you.
 
