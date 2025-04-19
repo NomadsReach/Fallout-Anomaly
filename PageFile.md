@@ -1,26 +1,30 @@
-## Pagefile Config
+## Pagefile Configuration
 
+To improve overall system stability—especially if you're running with **16 GB of RAM or less**—we highly recommend setting a custom **pagefile** on the same drive where *Fallout Anomaly* is installed. This adjustment helps prevent crashes and performance drops caused by memory limitations in heavily modded environments.
 
-To enhance system stability, especially if you're operating with limited RAM (such as 16 GB), it's advisable to configure the page file system for the drive where you're running Fallout Anomaly. Follow these steps:
+We’ve created a simple batch file that automates this process for you.
 
-1. Press the Windows key and R key simultaneously to open the Run dialog box.
-2. Type `sysdm.cpl` and hit Enter. This command opens the System Properties window.
-3. In the System Properties window, navigate to the "Advanced" tab.
-4. Under the "Performance" section, click on the "Settings" button. This will open the Performance Options window.
-5. In the Performance Options window, go to the "Advanced" tab.
-6. Under the "Virtual memory" section, click on the "Change" button. This will allow you to adjust the virtual memory settings.
-7. Uncheck the box that says "Automatically manage paging file size for all drives" if it's checked.
-8. Select the drive where Fallout Anomaly is installed.
-9. Choose the option "Custom size" and specify the Initial size (MB) and Maximum size (MB) for the page file. The recommended size is typically 1.5 times your physical RAM size, but with only 16 GB of RAM, setting it to a fixed size around 20 GB (20480 MB) might be sufficient for stability. If you have 32gb you can set this to 40,000MB.
-10. Click on the "Set" button, then click "OK" to confirm the changes.
-11. Restart your computer for the changes to take effect.
+---
 
-By configuring the page file system in this manner, you can potentially improve system stability, particularly when running resource-intensive applications like Fallout Anomaly on a system with limited RAM.
+### 🔧 Script Details:
+- **VirusTotal Scan:**  
+  [View Scan Results](https://www.virustotal.com/gui/file/4a1e05f67bbd7228db1fc20c624bdec7d272f86c0afcdee352227eb6d8fa97cb?nocache=1)  
+- **Source Code:**  
+  [View on GitHub](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Set-Pagefile-CustomDrive.bat)
 
-![image](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/0615e759-be9b-485f-b5b7-c8a8e9623896)
+---
 
-![image](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/6e9030cc-35db-4ecb-95a7-2dcd273ad3e5)
+### ✅ Instructions:
 
-![image](https://github.com/NomadsReach/Fallout-Anomaly/assets/144523850/67b3680c-2982-4b8d-b159-33d939ee34b6)
+1. **Download the batch file:**  
+   [Download Now](https://drive.google.com/file/d/1NoMOPFUVqpAUqEgxAjI-t0BBr32h6obg/view?usp=sharing)
 
-## **Do not forget to reboot.**
+2. **Right-click the file** and select **"Run as Administrator."**
+
+3. When prompted, **enter the drive letter** where *Fallout Anomaly* is installed.
+
+4. **Type `Y` and press Enter** to restart your system and apply the new pagefile settings.
+
+---
+
+By setting the pagefile this way, you can significantly improve system performance and reduce the risk of crashes when playing *Fallout Anomaly*—especially on systems with limited physical RAM.
