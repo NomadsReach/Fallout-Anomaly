@@ -10,14 +10,14 @@ To make this easier, we've created a simple batch script that handles everything
 - **VirusTotal Report:**  
   [View Scan Results](https://www.virustotal.com/gui/file/4a1e05f67bbd7228db1fc20c624bdec7d272f86c0afcdee352227eb6d8fa97cb?nocache=1)  
 - **Open Source Code:**  
-  [View on GitHub](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/Set-Pagefile-CustomDrive.bat)
+  [View on GitHub](https://github.com/NomadsReach/Fallout-Anomaly/blob/master/PageFileSourceCode/Set-Pagefile-CustomDrive.bat)
 
 ---
 
 ### How to Use:
 
 1. **Download the batch file:**  
-   [Click here to download](https://drive.google.com/file/d/1NoMOPFUVqpAUqEgxAjI-t0BBr32h6obg/view?usp=sharing)
+   Click here to download: [Github](https://github.com/b325db72-a49f-4134-86e9-d54aa1b619ad)
 
 2. **Right-click the file** and select **“Run as Administrator.”**
 
