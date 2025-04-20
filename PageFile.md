@@ -19,7 +19,7 @@ To make this process easier, we've created an automated batch script that handle
 ### How to Use
 
 1. **Download the script**:  
-   [Click here to download](https://github.com/b325db72-a49f-4134-86e9-d54aa1b619ad)
+   [Click here to download](https://github.com/NomadsReach/Fallout-Anomaly/releases/download/Page_File/Set-Pagefile-CustomDrive.bat)
 
 2. **Right-click** the downloaded file and select **“Run as Administrator.”**
 
