@@ -9,38 +9,51 @@ if %errorlevel% NEQ 0 (
     exit /b
 )
 
-:: Get total physical memory in MB using WMIC
-for /f "tokens=2 delims==" %%A in ('wmic computersystem get totalphysicalmemory /value ^| find "="') do set "rambytes=%%A"
-set /a rammb=%rambytes:~0,-6%
-set /a pagefilemb=%rammb% * 3 / 2
+echo ============================================
+echo   Fallout Anomaly Pagefile Setup Utility
+echo ============================================
+
+:: Use PowerShell to fetch RAM in MB safely (works over 32-bit limits)
+for /f %%A in ('powershell -command "(Get-CimInstance Win32_ComputerSystem).TotalPhysicalMemory / 1MB"') do set rammb=%%A
+set /a pagefilemb=rammb * 3 / 2
 
 echo Detected RAM: %rammb% MB
-echo Setting Pagefile size to: %pagefilemb% MB (1.5x RAM)
+echo Recommended Pagefile Size: %pagefilemb% MB (1.5x RAM)
 
 :: List available drives
 echo.
-echo Available drives with free space:
-wmic logicaldisk get name,freespace,drivetype | findstr /R "^ [A-Z]:"
+echo Available Drives:
+wmic logicaldisk where "DriveType=3" get DeviceID,VolumeName,FreeSpace | more
+echo.
 
-:: Prompt user for drive letter
-set /p drive=Enter the drive letter to set the pagefile on (e.g., C):
+:: Prompt for drive letter
+set /p drive=Enter the drive letter to place the pagefile on (e.g., E):
 
-:: Clean up input
+:: Normalize input
 set "drive=%drive::=%"
 set "drive=%drive: =%"
 set "drive=%drive:~0,1%"
 set "drive=%drive%:"
 
-:: Set registry key
-reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" /v PagingFiles /t REG_MULTI_SZ /d "%drive%\pagefile.sys %pagefilemb% %pagefilemb%" /f
+:: Remove broken entry
+reg delete "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" /v PagingFiles /f >nul 2>&1
 
-:: Confirm success
+:: Write new entry
+set "pagefile=%drive%\pagefile.sys %pagefilemb% %pagefilemb%"
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" /v PagingFiles /t REG_MULTI_SZ /d "%pagefile%" /f
+
+:: Disable auto-management
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" /v "SystemManagedSize" /t REG_DWORD /d 0 /f >nul
+
+:: Confirm
 echo.
-echo Pagefile has been set to %pagefilemb% MB on drive %drive%
+echo Pagefile set to:
+echo   Path: %drive%\pagefile.sys
+echo   Size: %pagefilemb% MB
 echo.
 
-:: Prompt to reboot
-choice /m "Restart now to apply the changes?"
+:: Prompt for reboot
+choice /m "Restart now?"
 if errorlevel 2 (
     echo Restart canceled. Please reboot manually later.
     pause
