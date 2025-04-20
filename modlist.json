@@ -1,7 +1,7 @@
 [
   {
     "title": "Fallout Anomaly",
-    "description": "Fallout Anomaly is a true hardcore experience, bringing you as close to realism as possible with mods like Damn Apocalypse, Better Locational Damage, and much more. Packed with new weapons and armor to face harsher challenges, Anomaly also features new enemy types, quests, settlement items, and a complete assortment of textures to elevate your game to modern standards. If you\u2019re searching for that gritty, harsh survival experience, Anomaly has you covered!",
+    "description": "Fallout Anomaly delivers a true hardcore survival experience, pushing realism to the limit with mods like Damn Apocalypse, MAIM, and more. Face brutal new challenges with an expanded arsenal of weapons and armor, encounter dangerous enemy types, explore new quests, and build with enhanced settlement options. A full texture overhaul brings the game up to modern visual standards, making every moment feel more immersive and unforgiving.",
     "author": "Fallout Anomaly Team",
     "maintainers": [
       "github/NomadsReach"
@@ -21,7 +21,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Banner%20Images/22image.png",
+      "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Logo011_0.png",
       "readme": "https://github.com/NomadsReach/Fallout-Anomaly",
       "download": "https://authored-files.wabbajack.org/Fallout Anomaly Beta.wabbajack_3817c07c-7fd5-4a7b-902a-409118aaaa40",
       "machineURL": "Fallout_Anomaly",
