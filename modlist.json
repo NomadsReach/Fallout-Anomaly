@@ -4,8 +4,9 @@
     "description": "Fallout Anomaly delivers a true hardcore survival experience, pushing realism to the limit with mods like Damn Apocalypse, MAIM, and more. Face brutal new challenges with an expanded arsenal of weapons and armor, encounter dangerous enemy types, explore new quests, and build with enhanced settlement options. A full texture overhaul brings the game up to modern visual standards, making every moment feel more immersive and unforgiving.",
     "author": "Fallout Anomaly Team",
     "maintainers": [
-      "github/NomadsReach"
-    ],
+    "github/NomadsReach",
+    "github/StreikEizer"
+  ],
     "game": "fallout4",
     "official": true,
     "tags": [
