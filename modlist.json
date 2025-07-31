@@ -24,19 +24,18 @@
     "links": {
       "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Logo011_0.png",
       "readme": "https://falloutanomaly.guildtag.com/readme/",
-      "download": "https://authored-files.wabbajack.org/Fallout%20Anomaly%20Beta%20Fixed.wabbajack_998e4419-420b-4abf-933a-9a4e8eb36842",
+      "download": "https://authored-files.wabbajack.org/Fallout%20Anomaly%20Beta%20Fixed.wabbajack_34d80996-8a2f-4127-9344-1e0ddc0ffbc5",
       "machineURL": "Fallout_Anomaly",
       "discordURL": "https://discord.gg/TAueAV8Utk",
       "websiteURL": "https://fallout-anomaly.github.io/websitedev/index.html"
     },
     "download_metadata": {
-      "Hash": "20qE2Csjw5U=",
-      "Size": 148236582,
-      "NumberOfArchives": 1038,
-      "SizeOfArchives": 160919735946,
-      "NumberOfInstalledFiles": 99337,
-      "SizeOfInstalledFiles": 187642031330,
-      "TotalSize": 348561767276
+      "Hash": "QkHnwwdr/IE=",
+      "Size": 169536456,
+      "NumberOfArchives": 997,
+      "SizeOfArchives": 180993605139,
+      "NumberOfInstalledFiles": 43732,
+      "SizeOfInstalledFiles": 195787978073
     },
     "version": "0.5.7",
     "dateCreated": "1970-01-01T00:00:00Z",
