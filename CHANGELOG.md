@@ -1,3 +1,138 @@
+# Changelog 0.5.7  6/18/25
+
+Hey all here's a general description of what to expect in this new version.
+
+## 📌 Added
+
+### Faction Replacements (In-House)
+
+Replacing:
+- **Minutemen**
+- **Gunners**
+- **Brotherhood of Steel**
+
+#### Brotherhood of Steel
+Currently a placeholder version. Represents intended direction.  
+➡️ [BoS Placeholder Mod](https://www.nexusmods.com/fallout4/mods/94392)
+
+#### Gunners
+- Armor setup is solid.
+- Pending spawn verification, stat checks, and sorting integration.  
+➡️ [Gunners Overhaul](https://www.nexusmods.com/fallout4/mods/94344)
+
+#### Minutemen
+- Clean, functional baseline setup.
+- More armor sets will be added.  
+➡️ [Militarized Minutemen](https://www.nexusmods.com/fallout4/mods/29853)  
+➡️ [USMC Gear Pack](https://www.nexusmods.com/fallout4/mods/91846)
+
+---
+
+### Gameplay & System Features
+
+- **SKK Fast Start + YAE Backgrounds**
+  - Vault 111-based custom character start.
+  - Backgrounds and traits selection.  
+  ➡️ [SKK Fast Start](https://www.nexusmods.com/fallout4/mods/29227)  
+  ➡️ [YAE Backgrounds](https://www.nexusmods.com/fallout4/mods/31198)
+
+- **Anomaly Perk Changes**
+  - Rebalanced perks for better synergy with the crafting system.
+
+- **No More Useless Beds (ESPless)**
+  - Replaces static beds with functional furniture.  
+  ➡️ [Mod Page](https://www.nexusmods.com/fallout4/mods/86751)
+
+- **Settlement Visitors**
+  - Dynamically spawns non-hostile NPCs at settlements.  
+  ➡️ [Mod Page](https://www.nexusmods.com/fallout4/mods/92845)
+
+- **Dialogue Camera Fix**
+  - Disables forced auto-rotation and fixes the player-turning-away bug.  
+  _Suggested by Pollyg0n (Discord)_
+
+- **Improved Nuka Raiders**
+  - Buffs Nuka World raiders and differentiates them from Commonwealth types.  
+  ➡️ [Mod Page](https://www.nexusmods.com/fallout4/mods/77616)
+
+- **K-9 Tactical Harness – Revamped**
+  - Modular Dogmeat armor with immersive unlocks.  
+  ➡️ [Mod Page](https://www.nexusmods.com/fallout4/mods/78265)
+
+- **Previs Updates by imStilles**
+  - Enhances performance and visuals across the board.
+  ➡️ [Mod Page](https://www.nexusmods.com/fallout4/mods/92804)
+
+---
+
+### Weapons
+
+- **Anti-Materiel Rifle – Rat Runners Arsenal**  
+  ➡️ [Mod Page](https://www.nexusmods.com/fallout4/mods/92287)
+
+- **M20A1 "Whalegun" Anti-Tank Rifle**  
+  ➡️ [Mod Page](https://www.nexusmods.com/fallout4/mods/91446)
+
+
+
+---
+
+## 🔄 Updated
+
+- **ENB**
+  - Updated to latest version.
+
+- **Amazing FollowerTweaks Plus (AFT+)**
+  - Updated to latest.
+  - Removed dependency on original AFT. (May be dropped later.)
+
+- **MAIM Redux**
+  - Updated to current release.
+  - Includes all patches.
+
+- **You Are Exceptional – Skills & Perk Overhaul (v1.18d)**
+  - Removed duplicate ammo crafting.
+  - Perk reworks:
+    - Compost Crofter: now gives **antiseptic**.
+    - Lead Belly: now adds **disease resistance** (testing required).
+    - War Reserve Stockpile / Handmade Havoc: grant **stat boosts** instead of crafting skills.
+  - Background system improvements.
+
+- **Weapons & Armor**
+  - Previously crafting-only armors now drop via loot tables.
+  - Weapon balance adjusted with new additions.
+
+- **X-Cell**
+  - Updated with optional **upscaling** feature.
+  - Testing for performance.
+
+- **Bullet Counted Reload System (BCR)**
+  - Latest version.
+  - Supports `.esl` flagged plugins.
+  - Compatibility improved.
+
+---
+
+## ⚙️ Other
+
+- **Car Explosion Damage Adjusted**
+  - Vehicles no longer explode from a single hit.
+
+### Follow up of 5.7.1
+
+Added:
+
+New facegen.
+
+New flashlight replacer to test out.
+
+Fixer, will fix overlooked issues hopefully.
+
+Hopefully fixed wierd previs/precombine issues.
+
+---
+
+
 # **Patch Notes**  2/9/2025
 
 - Added Loft Enhanced mod.  Door at the bottom is now fixed.
