@@ -1,7 +1,3 @@
-# Changelog 0.5.7  6/18/25
-
-Hey all here's a general description of what to expect in this new version.
-
 ## 📌 Added
 
 ### Faction Replacements (In-House)
