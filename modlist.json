@@ -4,9 +4,9 @@
     "description": "Fallout Anomaly delivers a true hardcore survival experience, pushing realism to the limit with mods like Damn Apocalypse, MAIM, and more. Face brutal new challenges with an expanded arsenal of weapons and armor, encounter dangerous enemy types, explore new quests, and build with enhanced settlement options. A full texture overhaul brings the game up to modern visual standards, making every moment feel more immersive and unforgiving.",
     "author": "Fallout Anomaly Team",
     "maintainers": [
-    "github/NomadsReach",
-    "github/StreikEizer"
-  ],
+      "github/NomadsReach",
+      "github/StreikEizer"
+    ],
     "game": "fallout4",
     "official": true,
     "tags": [
@@ -24,27 +24,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Logo011_0.png",
       "readme": "https://fallout-anomaly.github.io/websitedev/pages/guide.html",
-      "download": "https://authored-files.wabbajack.org/Fallout%20Anomaly%20Beta%20Fixed.wabbajack_c75e819e-5487-47aa-9a7e-8ee105447825",
+      "download": "https://authored-files.wabbajack.org/Fallout Anomaly Beta Fixed.wabbajack_202f02b6-8973-48c8-9b37-5f861471f49b",
       "machineURL": "Fallout_Anomaly",
       "discordURL": "https://discord.gg/TAueAV8Utk",
       "websiteURL": "https://fallout-anomaly.github.io/websitedev/index.html"
     },
     "download_metadata": {
-      "Hash": "20qE2Csjw5U=",
-      "Size": 148236582,
-      "NumberOfArchives": 1038,
-      "SizeOfArchives": 160919735946,
-      "NumberOfInstalledFiles": 99337,
-      "SizeOfInstalledFiles": 187642031330,
-      "TotalSize": 348561767276
+      "Hash": "mKkb4b9Uv6o=",
+      "Size": 737296288,
+      "NumberOfArchives": 1048,
+      "SizeOfArchives": 161337977226,
+      "NumberOfInstalledFiles": 99333,
+      "SizeOfInstalledFiles": 186639514745,
+      "TotalSize": 347977491971
     },
-    "version": "0.5.7",
+    "version": "0.5.7.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-07-03T02:06:30.0254719Z",
+    "dateUpdated": "2025-09-01T03:23:54.1482988Z",
     "repositoryName": ""
   }
 ]
-
-
-
-
