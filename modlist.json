@@ -1,7 +1,7 @@
 [
   {
     "title": "Fallout Anomaly",
-    "description": "Fallout Anomaly delivers a true hardcore survival experience, pushing realism to the limit with mods like Damn Apocalypse, MAIM, and more. Face brutal new challenges with an expanded arsenal of weapons and armor, encounter dangerous enemy types, explore new quests, and build with enhanced settlement options. A full texture overhaul brings the game up to modern visual standards, making every moment feel more immersive and unforgiving.",
+    "description": "Fallout Anomaly is a hardcore survival modlist focused on balance, immersion, and long-term play. Version 0.5.9 introduces the S7 Skyrim-style leveling system, expands survival with Advanced Needs, and includes major stability improvements. We include also our own launcher, in-game guide, and changelog. The launcher keeps you updated with all our new changes!\n\nThe Commonwealth is reworked with new quests, encounters, enemy types, and hundreds of new weapons and gear carefully balanced into progression. Combat is tougher, resources matter, and survival is a core mechanic, not an afterthought.\n\nThis is not a casual experience. Fallout Anomaly is built for players who want a harsher, more deliberate Fallout where choices matter and every run feels earned.",
     "author": "Fallout Anomaly Team",
     "maintainers": [
       "github/NomadsReach",
@@ -10,11 +10,17 @@
     "game": "fallout4",
     "official": true,
     "tags": [
-      "Offical",
+      "Official",
       "zombie",
       "Hunting",
-      "stalker",
-      "Survival"
+      "Survival",
+      "Quests",
+      "Hardcore",
+      "Immersion",
+      "Balanced",
+      "Overhaul",
+      "Realistic",
+      "Atmospheric"
     ],
     "nsfw": false,
     "utility_list": false,
