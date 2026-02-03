@@ -35,7 +35,7 @@ Your ENB Mod
 
 ---
 
-# <details> <summary>🛠️ RESHADE INSTALLATION STEPS (Expand)</summary>
+# <details> <summary>🛠️ RESHADE INSTALLATION STEPS</summary>
 
 ### Phase 1: The Installer
 
