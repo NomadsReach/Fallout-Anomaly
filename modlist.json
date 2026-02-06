@@ -30,23 +30,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Logo011_0.png",
       "readme": "https://fallout-anomaly.github.io/websitedev/pages/guide.html#step1",
-      "download": "https://authored-files.wabbajack.org/Fallout Anomaly Beta.wabbajack_7099e997-a2f5-48cd-a763-de4436189082",
+      "download": "https://authored-files.wabbajack.org/Fallout Anomaly Beta.wabbajack_19f4d0b7-20ec-47f6-a7b2-baa5b5915de7",
       "machineURL": "Fallout_Anomaly",
       "discordURL": "https://discord.gg/TAueAV8Utk",
       "websiteURL": "https://fallout-anomaly.github.io/websitedev/index.html"
     },
     "download_metadata": {
-      "Hash": "fZaoZmAyGdo=",
-      "Size": 879702721,
+      "Hash": "KgeA/A6cVls=",
+      "Size": 879702000,
       "NumberOfArchives": 1111,
       "SizeOfArchives": 178702713289,
-      "NumberOfInstalledFiles": 78132,
-      "SizeOfInstalledFiles": 214503944148,
-      "TotalSize": 393206657437
+      "NumberOfInstalledFiles": 78131,
+      "SizeOfInstalledFiles": 214503944107,
+      "TotalSize": 393206657396
     },
     "version": "0.5.9.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-02-06T07:17:05.5856176Z",
+    "dateUpdated": "2026-02-06T07:29:56.66087Z",
     "repositoryName": ""
   }
 ]
