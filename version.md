@@ -1,1 +1,1 @@
-0.5.9.6  - MCM Config Update 2/6/2026
+0.5.9.6  - New Balance Patch Update 2/6/26
