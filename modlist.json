@@ -1,6 +1,6 @@
 [
   {
-    "title": "Fallout Anomaly",
+    "title": "Fallout Anomaly - True Survival",
     "description": "Fallout Anomaly is a hardcore survival modlist focused on balance, immersion, and long-term play. Version 0.5.9 introduces the S7 Skyrim-style leveling system, expands survival with Advanced Needs, and includes major stability improvements. We include also our own launcher, in-game guide, and changelog. The launcher keeps you updated with all our new changes!\n\nThe Commonwealth is reworked with new quests, encounters, enemy types, and hundreds of new weapons and gear carefully balanced into progression. Combat is tougher, resources matter, and survival is a core mechanic, not an afterthought.\n\nThis is not a casual experience. Fallout Anomaly is built for players who want a harsher, more deliberate Fallout where choices matter and every run feels earned.",
     "author": "Fallout Anomaly Team",
     "maintainers": [
@@ -49,4 +49,5 @@
     "dateUpdated": "2026-02-08T19:42:01.0902418Z",
     "repositoryName": ""
   }
+
 ]
