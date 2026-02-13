@@ -29,11 +29,11 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Logo011_0.png",
-      "readme": "https://fallout-anomaly.github.io/websitedev/pages/guide.html#step1",
+      "readme": "https://fallout-anomaly.github.io/websitedev/docs/main/intro",
       "download": "https://authored-files.wabbajack.org/Fallout Anomaly Beta.wabbajack_3b1dc49f-f367-486e-bdb3-5e14ea7bb626",
       "machineURL": "Fallout_Anomaly",
       "discordURL": "https://discord.gg/TAueAV8Utk",
-      "websiteURL": "https://fallout-anomaly.github.io/websitedev/index.html"
+      "websiteURL": "https://fallout-anomaly.github.io/websitedev/"
     },
     "download_metadata": {
       "Hash": "ife6OoQRatk=",
@@ -51,3 +51,4 @@
   }
 
 ]
+
