@@ -1,1 +1,1 @@
-0.5.9.6 - Added unlevel world to FOMOD installer and fix issues with installer not showing in MO2. - 2/14/2026
+0.5.9.6  - Installer Updated and MO2 cleaned up - 2/15/2026
