@@ -1,1 +1,1 @@
-0.5.9.6  - Fallout Anomaly Launcher 0.2 Released & Fomod Installer Fixed. - 02/15/2026
+0.5.9.6  - Launcher Updated, includes ENB/Reshade Manager and more monitor support - 02/17/2026
