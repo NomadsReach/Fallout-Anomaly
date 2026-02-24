@@ -28,7 +28,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Logo011_0.png",
+      "image": "https://staticdelivery.nexusmods.com/mods/1151/images/74075/74075-1771950889-351513395.png",
       "readme": "https://fallout-anomaly.github.io/websitedev/docs/main/intro",
       "download": "https://authored-files.wabbajack.org/Fallout Anomaly Beta.wabbajack_48fe0a0b-77ed-4730-a9d7-8c9002e98a31",
       "machineURL": "Fallout_Anomaly",
@@ -49,4 +49,5 @@
     "dateUpdated": "2026-02-24T14:36:46.7651021Z",
     "repositoryName": ""
   }
+
 ]
