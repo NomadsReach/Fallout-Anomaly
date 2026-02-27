@@ -1,1 +1,1 @@
-0.5.9.7  - Gas Mask Messages patched for ultrawide users. - 02/24/2026
+0.5.9.8.1 Hotfix  - Fixed visual issue with APC. - 02/26/2026
