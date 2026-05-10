@@ -33,7 +33,13 @@
       "download": "https://authored-files.wabbajack.org/Fallout Anomaly Beta.wabbajack_13a85809-c2fc-4c6c-a560-b4506f69d702",
       "machineURL": "Fallout_Anomaly",
       "discordURL": "https://discord.gg/TAueAV8Utk",
-      "websiteURL": "https://fallout-anomaly.github.io/websitedev/"
+      "websiteURL": "https://fallout-anomaly.github.io/websitedev/",
+      "nexusCollection": {
+        "collectionId": "447524",
+        "slug": "euiz1p",
+        "domainName": "fallout4",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "E1JpkcwGaxc=",
