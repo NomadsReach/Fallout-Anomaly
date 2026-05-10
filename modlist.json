@@ -1,7 +1,7 @@
 [
   {
-    "title": "Fallout Anomaly - True Survival",
-    "description": "Fallout Anomaly is a hardcore survival modlist focused on balance, immersion, and long-term play. Version 0.5.9 introduces the S7 Skyrim-style leveling system, expands survival with Advanced Needs, and includes major stability improvements. We include also our own launcher, in-game guide, and changelog. The launcher keeps you updated with all our new changes!\n\nThe Commonwealth is reworked with new quests, encounters, enemy types, and hundreds of new weapons and gear carefully balanced into progression. Combat is tougher, resources matter, and survival is a core mechanic, not an afterthought.\n\nThis is not a casual experience. Fallout Anomaly is built for players who want a harsher, more deliberate Fallout where choices matter and every run feels earned.",
+    "title": "Fallen World",
+    "description": "Fallen World (formerly Fallout Anomaly) is the hardest survival experience available for Fallout 4. A spiritual successor for fans of Lost World, it plunges the Commonwealth into a gloomy, horror-infused nightmare where the environment is as lethal as the creatures within it. \n\nFeaturing overhauled factions, multiple new quests, and terrifying new monstrosities, survival is a brutal calculation. With the S7 Skyrim-style leveling system, caliber-based ballistics, and a realistic medical overhaul, every run is an unrelenting struggle against the dark. Backed by a custom launcher and real-time updates, Fallen World is the definitive destination for those seeking the ultimate challenge in atmospheric horror survival.",
     "author": "Fallout Anomaly Team",
     "maintainers": [
       "github/NomadsReach",
@@ -11,16 +11,16 @@
     "official": true,
     "tags": [
       "Official",
-      "zombie",
-      "Hunting",
       "Survival",
-      "Quests",
+      "Horror",
+      "Factions",
       "Hardcore",
-      "Immersion",
-      "Balanced",
+      "Lost World",
+      "Atmospheric",
+      "Quests",
       "Overhaul",
       "Realistic",
-      "Atmospheric"
+      "Gloomy"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -31,7 +31,7 @@
       "image": "https://raw.githubusercontent.com/NomadsReach/Fallen-World/refs/heads/master/images/FallenWorldLogos_181.png",
       "readme": "https://fallenworld.nexus/guide",
       "download": "https://authored-files.wabbajack.org/Fallout Anomaly Beta.wabbajack_13a85809-c2fc-4c6c-a560-b4506f69d702",
-      "machineURL": "Fallout_Anomaly",
+      "machineURL": "NomadsReach/Fallout-Anomaly",
       "discordURL": "https://discord.gg/TAueAV8Utk",
       "websiteURL": "https://fallenworld.nexus/"
     },
@@ -44,7 +44,7 @@
       "SizeOfInstalledFiles": 214493883916,
       "TotalSize": 393287008489
     },
-    "version": "0.5.9.8",
+    "version": "0.6",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-02-27T04:36:55.4197308Z",
     "repositoryName": ""
