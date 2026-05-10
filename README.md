@@ -1,1 +1,1 @@
-### [CLICK HERE FOR NEW READ ME](https://fallout-anomaly.github.io/websitedev/pages/guide.html)
+### [CLICK HERE FOR NEW READ ME - FORMALLY KNOWN AS FALLOUT ANOMALY](https://fallenworld.nexus/guide)
