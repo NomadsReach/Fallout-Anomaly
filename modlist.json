@@ -1,8 +1,8 @@
 [
   {
     "title": "Fallen World",
-    "description": "Fallen World (formerly Fallout Anomaly) is the hardest survival experience available for Fallout 4. A spiritual successor for fans of Lost World, it plunges the Commonwealth into a gloomy, horror-infused nightmare where the environment is as lethal as the creatures within it. \n\nFeaturing overhauled factions, multiple new quests, and terrifying new monstrosities, survival is a brutal calculation. With the S7 Skyrim-style leveling system, caliber-based ballistics, and a realistic medical overhaul, every run is an unrelenting struggle against the dark. Backed by a custom launcher and real-time updates, Fallen World is the definitive destination for those seeking the ultimate challenge in atmospheric horror survival.",
-    "author": "Fallout Anomaly Team",
+    "description": "Fallen World (formerly Fallout Anomaly) is the hardest survival experience available for Fallout 4. Designed for those seeking a gloomy, horror-infused nightmare where the environment is as lethal as the creatures within it, Fallen World is its own unique vision of a collapsed Commonwealth. Featuring overhauled factions, multiple new quests, and terrifying new monstrosities, survival is a brutal calculation. With the S7 Skyrim-style leveling system, caliber-based ballistics, and a realistic medical overhaul, every run is an unrelenting struggle against the dark. Backed by a custom launcher and real-time updates, Fallen World is the definitive destination for those seeking the ultimate challenge in atmospheric horror survival.",
+    "author": "Fallen World Team",
     "maintainers": [
       "github/NomadsReach",
       "github/StreikEizer"
@@ -15,7 +15,6 @@
       "Horror",
       "Factions",
       "Hardcore",
-      "Lost World",
       "Atmospheric",
       "Quests",
       "Overhaul",
