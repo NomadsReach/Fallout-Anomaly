@@ -28,12 +28,12 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://staticdelivery.nexusmods.com/mods/1151/images/74075/74075-1771950889-351513395.png",
-      "readme": "https://fallout-anomaly.github.io/websitedev/docs/main/intro",
+      "image": "https://raw.githubusercontent.com/NomadsReach/Fallen-World/refs/heads/master/images/FallenWorldLogos_181.png",
+      "readme": "https://fallenworld.nexus/guide",
       "download": "https://authored-files.wabbajack.org/Fallout Anomaly Beta.wabbajack_13a85809-c2fc-4c6c-a560-b4506f69d702",
       "machineURL": "Fallout_Anomaly",
       "discordURL": "https://discord.gg/TAueAV8Utk",
-      "websiteURL": "https://fallout-anomaly.github.io/websitedev/"
+      "websiteURL": "https://fallenworld.nexus/"
     },
     "download_metadata": {
       "Hash": "E1JpkcwGaxc=",
