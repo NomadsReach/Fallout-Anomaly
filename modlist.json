@@ -1,7 +1,7 @@
 [
   {
-    "title": "Fallout Anomaly - True Survival",
-    "description": "Fallout Anomaly is a hardcore survival modlist focused on balance, immersion, and long-term play. Version 0.5.9 introduces the S7 Skyrim-style leveling system, expands survival with Advanced Needs, and includes major stability improvements. We include also our own launcher, in-game guide, and changelog. The launcher keeps you updated with all our new changes!\n\nThe Commonwealth is reworked with new quests, encounters, enemy types, and hundreds of new weapons and gear carefully balanced into progression. Combat is tougher, resources matter, and survival is a core mechanic, not an afterthought.\n\nThis is not a casual experience. Fallout Anomaly is built for players who want a harsher, more deliberate Fallout where choices matter and every run feels earned.",
+    "title": "FALLEN WORLD",
+    "description": "Fallen World (formerly Fallout Anomaly) is the hardest survival experience available for Fallout 4. Designed for those seeking a gloomy, horror-infused nightmare where the environment is as lethal as the creatures within it, Fallen World is its own unique vision of a collapsed Commonwealth. Featuring overhauled factions, multiple new quests, and terrifying new monstrosities, survival is a brutal calculation. With the S7 Skyrim-style leveling system, caliber-based ballistics, and a realistic medical overhaul, every run is an unrelenting struggle against the dark. Backed by a custom launcher and real-time updates, Fallen World is the definitive destination for those seeking the ultimate challenge in atmospheric horror survival.",
     "author": "Fallout Anomaly Team",
     "maintainers": [
       "github/NomadsReach",
@@ -28,12 +28,12 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://staticdelivery.nexusmods.com/mods/1151/images/74075/74075-1771950889-351513395.png",
-      "readme": "https://fallout-anomaly.github.io/websitedev/docs/main/intro",
+      "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/FallenWorldLogos_181.png",
+      "readme": "https://fallenworld.nexus/guide",
       "download": "https://authored-files.wabbajack.org/Fallen World.wabbajack_fa254c7b-3062-42fd-8bd0-4e36b9283647",
       "machineURL": "Fallout_Anomaly",
       "discordURL": "https://discord.gg/TAueAV8Utk",
-      "websiteURL": "https://fallout-anomaly.github.io/websitedev/",
+      "websiteURL": "https://fallenworld.nexus/",
       "nexusCollection": {
         "collectionId": "447524",
         "slug": "euiz1p",
