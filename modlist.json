@@ -30,7 +30,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/FallenWorldLogos_181.png",
       "readme": "https://fallenworld.nexus/guide",
-      "download": "https://authored-files.wabbajack.org/Fallen World.wabbajack_9a06950a-23bc-4f14-a76e-44114d983be0",
+      "download": "https://authored-files.wabbajack.org/Fallen World.wabbajack_d5b8b2a4-1fd0-4002-bf78-924398951c7e",
       "machineURL": "Fallout_Anomaly",
       "discordURL": "https://discord.gg/TAueAV8Utk",
       "websiteURL": "https://fallenworld.nexus/",
@@ -42,17 +42,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "VUTfdTFBrs4=",
-      "Size": 1795242288,
-      "NumberOfArchives": 1019,
-      "SizeOfArchives": 135397778717,
-      "NumberOfInstalledFiles": 58988,
-      "SizeOfInstalledFiles": 154689071364,
-      "TotalSize": 290086850081
+      "Hash": "WMIr06FA+QM=",
+      "Size": 1869668673,
+      "NumberOfArchives": 1025,
+      "SizeOfArchives": 135698598288,
+      "NumberOfInstalledFiles": 65255,
+      "SizeOfInstalledFiles": 154723142680,
+      "TotalSize": 290421740968
     },
-    "version": "0.1.4.6",
+    "version": "0.1.4.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-06-17T03:55:35.924494Z",
+    "dateUpdated": "2026-06-20T00:29:15.8222927Z",
     "repositoryName": ""
   }
 ]
