@@ -1,0 +1,42 @@
+name: Public repository guard
+
+on:
+  pull_request:
+  push:
+    branches: [master]
+
+permissions:
+  contents: read
+
+jobs:
+  public-repo-guard:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.0
+      - name: Reject private runner targets and internal docs
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          import subprocess, sys
+          failures = []
+          root = Path('.github/workflows')
+          if root.is_dir():
+              for path in sorted(root.iterdir()):
+                  if path.name == 'no-self-hosted-guard.yml' or path.suffix.lower() not in {'.yml', '.yaml'}:
+                      continue
+                  for n, line in enumerate(path.read_text(encoding='utf-8').splitlines(), 1):
+                      if not line.lstrip().startswith('#') and 'self-hosted' in line.lower():
+                          failures.append(f'{path}:{n}: private runner target is forbidden in a public repository')
+          for path in subprocess.check_output(['git', 'ls-files'], text=True).splitlines():
+              normalized = path.replace('\\', '/').lower()
+              if normalized == 'docs/internal' or normalized.startswith('docs/internal/'):
+                  failures.append(f'{path}: internal documentation must not be published')
+          if failures:
+              print('\n'.join(f'::error::{failure}' for failure in failures))
+              sys.exit(1)
+          print('Public repository guard passed.')
+          PY
